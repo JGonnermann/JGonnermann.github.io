@@ -5,17 +5,17 @@
 
 # Appearance
 appearance:
-  mode: system
-  color: indigo
+  mode: dark 
+  color: blue
 
 # SEO
 marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    org_name: 'Zuse Institute Berlin'
+    description: 'Jana Gonnermann - Research Area Lead for Humans and AI at Zuse Institute Berlin. Exploring agentic AI, machine learning, and human-centered design for adaptive learning systems.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -35,12 +35,12 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: 'Your Name'
+      text: 'Jana Gonnermann'
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Jana Gonnermann. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
