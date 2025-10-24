@@ -40,7 +40,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Jana Gonnermann. This work is licensed under {license}'
+    notice: '© {year} Jana Gonnermann.'
     license:
       enable: false
       allow_derivatives: false

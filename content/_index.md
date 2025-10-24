@@ -20,6 +20,14 @@ sections:
     design:
       columns: '1'
       css_class: 'text-left text-base leading-relaxed font-normal'
+  
+  - block: markdown
+    content: interests
+      username: admin
+    design:
+      date_format: 'January 2006'
+      is_education_first: false
+
   - block: resume-experience
     content:
       username: admin
