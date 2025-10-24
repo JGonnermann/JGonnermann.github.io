@@ -45,7 +45,7 @@ sections:
           [Read the full paper on arXiv →](https://arxiv.org/abs/2508.11401)</a>
           
           <div class="news-button-container">
-            <a href="/blog/" class="news-button">blog →</a>
+            <a href="/blog/" class="news-button">read latest blog post →</a>
           </div>
         </div>
     design:

@@ -380,6 +380,30 @@ html.dark .article-card .summary {
   text-transform: none !important;
 }
 
+/* Make "experience" and "education" titles small capitals on about page - Very aggressive targeting */
+.blox-resume-experience h3.mb-6.text-3xl.font-bold.text-gray-900.dark\\:text-white.text-center:first-of-type,
+.blox-resume-experience h3.mb-6.text-3xl.font-bold.text-gray-900.dark\\:text-white.text-center:nth-of-type(2),
+.blox-resume-experience h3.mb-6.text-3xl.font-bold.text-gray-900.dark\\:text-white.text-center:first-child,
+.blox-resume-experience h3.mb-6.text-3xl.font-bold.text-gray-900.dark\\:text-white.text-center:nth-child(2),
+#section-resume-experience h3.mb-6.text-3xl.font-bold.text-gray-900.dark\\:text-white.text-center:first-of-type,
+#section-resume-experience h3.mb-6.text-3xl.font-bold.text-gray-900.dark\\:text-white.text-center:nth-of-type(2),
+#section-resume-experience h3.mb-6.text-3xl.font-bold.text-gray-900.dark\\:text-white.text-center:first-child,
+#section-resume-experience h3.mb-6.text-3xl.font-bold.text-gray-900.dark\\:text-white.text-center:nth-child(2) {
+  font-variant: small-caps !important;
+  text-transform: lowercase !important;
+  font-feature-settings: "smcp" !important;
+}
+
+/* Even more aggressive targeting for small capitals */
+h3.mb-6.text-3xl.font-bold.text-gray-900.dark\\:text-white.text-center:first-of-type,
+h3.mb-6.text-3xl.font-bold.text-gray-900.dark\\:text-white.text-center:nth-of-type(2),
+h3.mb-6.text-3xl.font-bold.text-gray-900.dark\\:text-white.text-center:first-child,
+h3.mb-6.text-3xl.font-bold.text-gray-900.dark\\:text-white.text-center:nth-child(2) {
+  font-variant: small-caps !important;
+  text-transform: lowercase !important;
+  font-feature-settings: "smcp" !important;
+}
+
 /* Wider content layout for landing page - same as publications page */
 .type-landing .container,
 .type-landing .hbx-container,
@@ -583,8 +607,73 @@ html.dark .hbx-main-content {
   background-color: #2d3748 !important; /* Dark gray background */
 }
 
-/* Override Hugo Blox default dark background */
-.dark,
-html.dark {
-  background-color: #2d3748 !important; /* Dark gray background */
+/* Hide Hugo Blox branding and template buttons */
+.hugo-blox-branding,
+.hugo-blox-attribution,
+.template-button,
+[data-hugo-blox-branding],
+[data-template-button],
+.powered-by-hugo-blox,
+.template-link,
+.footer-branding,
+.branding-footer {
+  display: none !important;
+}
+
+/* Hide any remaining template buttons or branding */
+a[href*="hugoblox"],
+a[href*="template"],
+button[data-template],
+.template-info,
+.branding-info {
+  display: none !important;
+}
+
+/* Hide "Made with" branding elements */
+.made-with,
+.made-with-text,
+[data-made-with],
+.made-with-hugo,
+.made-with-hugoblox,
+.made-with-template,
+.text-made-with,
+.footer-made-with {
+  display: none !important;
+}
+
+/* Hide any text containing "Made with" */
+*:contains("Made with"),
+*:contains("made with"),
+*:contains("Built with"),
+*:contains("built with") {
+  display: none !important;
+}
+
+/* Hide specific Hugo Blox footer elements */
+footer a[href*="hugoblox.com"],
+footer a[data-hbx="poweredby_brand"],
+footer a[data-hbx="poweredby_cta"],
+footer .underline.hover\\:opacity-100,
+footer a[target="_blank"][rel="noopener"] {
+  display: none !important;
+}
+
+/* Hide the entire footer if it contains Hugo Blox branding */
+footer:has(a[href*="hugoblox.com"]) {
+  display: none !important;
+}
+
+/* Alternative: Hide footer text containing "Made with" */
+footer:has-text("Made with") {
+  display: none !important;
+}
+
+/* Hide the entire page footer if it contains Hugo Blox branding */
+.page-footer {
+  display: none !important;
+}
+
+/* Alternative: Hide footer container */
+footer.container.mx-auto.flex.flex-col.justify-items-center {
+  display: none !important;
 }
