@@ -16,7 +16,7 @@ sections:
       filters:
         folders:
           - talks
-        tag: 
+        tag: "new"
       order: desc
     design:
       view: citation
