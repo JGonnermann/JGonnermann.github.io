@@ -3,7 +3,7 @@ title: "Value by Design: Reducing Cognitive Load by Using Visual Guidance in Aug
 event: "International Conference on Information Systems (ICIS 2024)"
 date: 2024-12-15
 location: "Bangkok, Thailand"
-talk_type: "conference"
+tags: ["conference"]
 featured: true
 ---
 
