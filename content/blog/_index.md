@@ -11,7 +11,7 @@ sections:
   - block: collection
     content:
       title: Blog
-      subtitle: ''
+      subtitle: 'more to come soon'
       text: ''
       page_type: blog
       count: 10

@@ -10,14 +10,13 @@ design:
 sections:
   - block: collection
     content:
-      title: 'Upcoming Talks'
+      title: 'upcoming talks'
       text: ''
       count: 0
       filters:
         folders:
           - talks
-        tag: "future-talks"
-        exclude_future: false
+        tag: 
       order: desc
     design:
       view: citation
@@ -29,7 +28,7 @@ sections:
 
   - block: collection
     content:
-      title: 'Invited Talks & Workshops'
+      title: 'invited talks & workshops'
       text: ''
       count: 0
       filters:
@@ -47,7 +46,7 @@ sections:
 
   - block: collection
     content:
-      title: 'Conference Talks'
+      title: 'conference talks'
       text: ''
       count: 0
       filters:

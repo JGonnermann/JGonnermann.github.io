@@ -3,8 +3,7 @@ title: "Mit KI personalisierte Mathe-Unterrichtsmaterialien entwerfen-Ein Worksh
 event: "KI-Fachtag der Schulen"
 date: 2025-11-26
 location: "Berlin, Germany"
-tags: ["future-talks"]
-featured: true
+tags: ["upcoming"]
+featured: false
 ---
-
 

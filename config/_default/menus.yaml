@@ -10,6 +10,6 @@ main:
   - name: outreach
     url: /outreach
     weight: 2
-  - name: blog
-    url: /blog
-    weight: 3
+  #- name: blog
+   # url: /blog
+   # weight: 3
