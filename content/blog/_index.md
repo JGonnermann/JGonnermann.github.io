@@ -4,14 +4,14 @@ date: 2023-10-24
 type: landing
 
 design:
-  spacing: '5rem'
+  spacing: '3rem'
 
 # Page sections
 sections:
   - block: collection
     content:
-      title: Blog
-      subtitle: 'more to come soon'
+      title: blog
+      subtitle: 
       text: ''
       page_type: blog
       count: 10
@@ -26,5 +26,13 @@ sections:
       offset: 0
       order: desc
     design:
-      view: card
+      view: citation
+      show_date: true
+      show_read_time: false
+      show_read_more: true
+      show_image: false
+      show_links: false
+      show_summary: true
+      columns: '1'
+      css_class: 'text-left'
 ---
