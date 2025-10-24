@@ -10,7 +10,7 @@ design:
 sections:
   - block: collection
     content:
-      title: Recent News & Updates
+      title: Blog
       subtitle: ''
       text: ''
       page_type: blog

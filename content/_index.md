@@ -5,37 +5,25 @@ date: 2022-10-24
 type: landing
 
 design:
-  spacing: '5rem'
+  spacing: '8rem'
 
 # Page sections
 sections:
-  - block: resume-biography-3
+  - block: markdown
     content:
-      username: admin
-      text: ''
-      headings:
-        about: ''
-        education: ''
-        interests: ''
+      title: ''
+      subtitle: ''
+      text: |-        
+        I am a postdoctoral researcher at Zuse Institute Berlin in the IOL Lab of Sebastian Pokutta, where I lead the 'Humans and AI' research area. I explore how agentic AI, machine learning, and human-centered design can be integrated to develop adaptive, personalized systems for learning, decision-making, and broader societal impact.
+        
+        My research focuses on LLM-based educational tools and agentic simulations, using experimental methods to evaluate AI tools together with schools and companies in practice. I'm particularly interested in socially-aware AI and AI applications in AR/VR environments for educational purposes.
     design:
-      css_class: hbx-bg-gradient
-      avatar:
-        size: medium
-        shape: circle
+      columns: '1'
+      css_class: 'text-left text-base leading-relaxed font-normal'
   - block: resume-experience
     content:
       username: admin
     design:
       date_format: 'January 2006'
       is_education_first: false
-  - block: resume-skills
-    content:
-      title: Skills & Interests
-      username: admin
-    design:
-      show_skill_percentage: false
-  - block: resume-languages
-    content:
-      title: Languages
-      username: admin
 ---
