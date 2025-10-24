@@ -17,13 +17,15 @@ sections:
         folders:
           - publications
         tag: "preprint"
-      order: desc
         exclude_featured: false
+      order: desc
     design:
       view: citation
       show_date: true
       show_read_time: false
       show_read_more: false
+      show_image: false
+      show_links: false
   
   - block: collection
     content:
@@ -32,8 +34,9 @@ sections:
       count: 0
       filters:
         folders:
-          - talks
+          - publications
         tag: "journal"
+        exclude_featured: false
       order: desc
     design:
       view: citation
@@ -50,8 +53,9 @@ sections:
       count: 0
       filters:
         folders:
-          - talks
+          - publications
         tag: "conferences"
+        exclude_featured: false
       order: desc
     design:
       view: citation
@@ -60,5 +64,4 @@ sections:
       show_read_more: false
       show_image: false
       show_links: false
-
 ---

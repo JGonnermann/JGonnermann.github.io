@@ -16,7 +16,8 @@ sections:
       filters:
         folders:
           - talks
-        tag: "upcoming"
+        tag: "future-talks"
+        exclude_future: false
       order: desc
     design:
       view: citation

@@ -12,5 +12,5 @@ publication_types:
 - paper-conference
 publication: '*Proceedings of the International Conference on Information Systems
   (ICIS 2024)*'
-tags: ["conference"]
+tag: ["conference"]
 ---

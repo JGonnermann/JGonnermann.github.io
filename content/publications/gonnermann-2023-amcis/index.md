@@ -9,5 +9,5 @@ publishDate: '2025-10-23T15:22:20.384234Z'
 publication_types:
 - article-journal
 publication: '*AMCIS 2023 Proceedings*'
-tags: ["conference"]
+tag: ["conference"]
 ---
