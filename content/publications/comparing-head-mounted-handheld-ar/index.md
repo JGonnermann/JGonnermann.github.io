@@ -87,4 +87,6 @@ slides: ''
 # Alias to produce this page from a markdown file in `_index.md`
 aliases: []
 
+tags: ["journal"]
+
 ---

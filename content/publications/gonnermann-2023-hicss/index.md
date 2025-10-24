@@ -16,4 +16,5 @@ doi: 10.24251/HICSS.2023.015
 links:
 - name: URL
   url: http://hdl.handle.net/10125/102643
+tags: ["conference"]
 ---

@@ -15,4 +15,5 @@ links:
   url: https://arxiv.org/abs/2508.11401
 - name: URL
   url: https://arxiv.org/abs/2508.11401
+tags: ["preprint"]
 ---
