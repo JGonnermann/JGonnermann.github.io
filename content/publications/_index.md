@@ -4,7 +4,7 @@ date: 2023-10-24
 type: landing
 
 design:
-  spacing: '5rem'
+  spacing: '3rem'
 
 # Page sections
 sections:
@@ -25,6 +25,7 @@ sections:
       show_read_more: true
       show_image: false
       show_links: true
-    
-  
+      columns: '1'
+      css_class: 'text-left'
+      external_link: false
 ---
