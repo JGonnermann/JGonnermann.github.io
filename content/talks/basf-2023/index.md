@@ -3,6 +3,6 @@ title: "Einsatz von Augmented Reality - Nutzerzentrierte Gestaltungsmöglichkeit
 event: "BASF"
 date: 2023-10-01
 location: "Germany"
-tags: ["invited"]
+talk_type: "invited"
 featured: false
 ---

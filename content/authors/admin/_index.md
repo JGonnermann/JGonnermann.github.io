@@ -77,8 +77,7 @@ work:
     company_logo: ''
     date_start: 2025-09-15
     date_end: ''
-    summary: |2-
-      Interested in exploring how agentic AI, machine learning, and human-centered design can be integrated to develop adaptive, personalized systems for learning, decision-making, and broader societal impact. 
+    summary:  
   - position: Academic Researcher
     company_name: University of Potsdam
     company_url: ''
@@ -105,4 +104,8 @@ work:
       Interdisciplinary research 
 ---
 
-Jana Gonnermann is a postdoctoral researcher at Zuse Institute Berlin, where she explores how agentic AI, machine learning, and human-centered design can be integrated to develop adaptive, personalized systems for learning, decision-making, and broader societal impact. In her research she uses experimental methods and evaluates AI tools together with schools and in companies to investigate these systems in practice. Currently, her work focuses on LLM-based educational tools and agentic simulations.
+I am a postdoctoral researcher at [Zuse Institute Berlin](https://www.zib.de/) in the [IOL Lab of Sebastian Pokutta](https://iol.zib.de/), where I lead the ['Humans and AI'](https://iol.zib.de/research/iol-human.html) research area.
+
+My work explores how agentic AI, machine learning, and human-centered design can be integrated to develop adaptive, personalized systems that support learning, decision-making, and broader societal impact.
+
+My research focuses on LLM-based educational tools and agentic simulations, using experimental methods to evaluate AI technologies in collaboration with schools and industry partners. I am particularly interested in socially-aware AI and applications of AI in AR/VR environments for educational purposes.

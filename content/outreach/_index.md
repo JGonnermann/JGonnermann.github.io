@@ -16,7 +16,7 @@ sections:
       filters:
         folders:
           - talks
-        tag: "new"
+        talk_type: "upcoming"
       order: desc
     design:
       view: citation
@@ -34,7 +34,7 @@ sections:
       filters:
         folders:
           - talks
-        tag: "invited"
+        talk_type: "invited"
       order: desc
     design:
       view: citation
@@ -52,7 +52,7 @@ sections:
       filters:
         folders:
           - talks
-        tag: "conference"
+        talk_type: "conference"
       order: desc
     design:
       view: citation

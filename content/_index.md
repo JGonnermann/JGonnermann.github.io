@@ -5,32 +5,47 @@ date: 2022-10-24
 type: landing
 
 design:
-  spacing: '8rem'
+  spacing: '3rem'
 
 # Page sections
 sections:
+  - block: resume-biography
+    id: about
+    content:
+      username: admin
+    design:
+      css_class: 'text-center'
+      columns: '1'
+
   - block: markdown
     content:
-      title: ''
+      title: 'research interests'
       subtitle: ''
-      text: |-        
-        I am a postdoctoral researcher at Zuse Institute Berlin in the IOL Lab of Sebastian Pokutta, where I lead the 'Humans and AI' research area. I explore how agentic AI, machine learning, and human-centered design can be integrated to develop adaptive, personalized systems for learning, decision-making, and broader societal impact.
-        
-        My research focuses on LLM-based educational tools and agentic simulations, using experimental methods to evaluate AI tools together with schools and companies in practice. I'm particularly interested in socially-aware AI and AI applications in AR/VR environments for educational purposes.
+      text: |-
+        <div class="interests-light-blue">
+          <div class="interest-box">AI for education</div>
+          <div class="interest-box">agentic AI</div>
+          <div class="interest-box">socially-aware AI</div>
+          <div class="interest-box">AI in AR/VR</div>
+        </div>
     design:
       columns: '1'
-      css_class: 'text-left text-base leading-relaxed font-normal'
-  
-  - block: resume-skills
-    content:
-      username: admin
-    design:
-      columns: '2'
+      css_class: 'text-center'
 
-  - block: resume-experience
+  - block: markdown
     content:
-      username: admin
+      title: 'latest news'
+      subtitle: ''
+      text: |-
+        <div class="news-light-blue">
+          August 2025 - Preprint published on arXiv: <a href="https://arxiv.org/abs/2508.11401" target="_blank">"FACET: Teacher-Centred LLM-Based Multi-Agent Systems"</a>
+          
+          <div class="news-button-container">
+            <a href="/blog/" class="news-button">Latest News →</a>
+          </div>
+        </div>
     design:
-      date_format: 'January 2006'
-      is_education_first: false
+      columns: '1'
+      css_class: 'text-center'
+
 ---
