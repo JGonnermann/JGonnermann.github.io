@@ -10,7 +10,7 @@ design:
 sections:
   - block: markdown
     content:
-      title: 'Recent & Upcoming Talks'
+      title: ''
       subtitle: ''
       text: |-
         ## Upcoming Talks
@@ -63,5 +63,4 @@ sections:
           January 3-6, 2023 | Maui, Hawaii
     design:
       columns: '1'
-      css_class: 'text-left text-base leading-relaxed font-normal'
 ---
