@@ -356,24 +356,28 @@ html.dark .article-card .summary {
   border-left-color: #87ceeb !important; /* Same border color as light mode */
 }
 
-/* Make experience and education headings lowercase - Target specific Hugo Blox structure */
-.blox-resume-experience h3 {
+/* Make ONLY the main section headings "experience" and "education" lowercase - very specific targeting */
+.blox-resume-experience > div > h3:first-child,
+.blox-resume-experience > div > h3:nth-child(2) {
   text-transform: lowercase !important;
 }
 
-/* Target the specific section ID */
-#section-resume-experience h3 {
+/* Target only the main section headings, not job titles */
+#section-resume-experience > div > h3:first-child,
+#section-resume-experience > div > h3:nth-child(2) {
   text-transform: lowercase !important;
 }
 
-/* Target h3 elements with specific classes */
-h3.mb-6.text-3xl.font-bold {
+/* Target only the main section headings with specific classes */
+.blox-resume-experience h3.mb-6.text-3xl.font-bold.text-gray-900.dark\\:text-white.text-center:first-of-type,
+.blox-resume-experience h3.mb-6.text-3xl.font-bold.text-gray-900.dark\\:text-white.text-center:nth-of-type(2) {
   text-transform: lowercase !important;
 }
 
-/* More specific targeting for the resume experience section */
-.blox-resume-experience h3.mb-6.text-3xl.font-bold.text-gray-900.dark\\:text-white.text-center {
-  text-transform: lowercase !important;
+/* Ensure job titles and other content are NOT affected */
+.blox-resume-experience h3.flex.items-center,
+.blox-resume-experience h3:not(.mb-6.text-3xl.font-bold.text-gray-900.dark\\:text-white.text-center) {
+  text-transform: none !important;
 }
 
 /* Wider content layout for landing page - same as publications page */

@@ -52,7 +52,7 @@ interests:
   - AI in AR/VR
 
 education:
-  - area: PhD information systems 
+  - area: PhD Information Systems 
     institution: University of Potsdam
     date_start: 2021-02-15
     date_end: 2025-09-14
@@ -71,7 +71,7 @@ education:
     summary: ''
 
 work:
-  - position: Research Area Lead 'Humans and AI'
+  - position: Research area lead 'Humans and AI'
     company_name: Zuse Institute Berlin
     company_url: 'https://iol.zib.de/research/iol-human.html'
     company_logo: ''
@@ -85,7 +85,7 @@ work:
     date_start: 2025-07-01
     date_end: ''
     summary: 
-  - position: Academic Researcher
+  - position: Academic researcher
     company_name: University of Potsdam
     company_url: ''
     company_logo: ''
@@ -93,7 +93,7 @@ work:
     date_end: 2025-09-14
     summary: |
       Research group member 'Education for the digital society'
-  - position: Academic Researcher
+  - position: Academic researcher
     company_name: Weizenbaum Institute Berlin 
     company_url: ''
     company_logo: ''
@@ -101,7 +101,7 @@ work:
     date_end: 2025-09-01
     summary: |
       Research group member 'Education for the digital society'
-  - position: Visiting Researcher
+  - position: Visiting researcher
     company_name: University of Stellenbosch, South Africa 
     company_url: ''
     company_logo: ''
