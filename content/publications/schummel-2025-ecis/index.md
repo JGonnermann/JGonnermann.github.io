@@ -11,5 +11,5 @@ publication_types:
 - paper-conference
 publication: '*Proceedings of the Thirty-Third European Conference on Information
   Systems (ECIS 2025)*'
-tag: ["conference"]
+category: "conference"
 ---

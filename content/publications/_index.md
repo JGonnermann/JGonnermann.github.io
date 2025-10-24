@@ -10,58 +10,20 @@ design:
 sections:
   - block: collection
     content:
-      title: 'Pre-prints'
+      title: 'publications'
       text: ''
       count: 0
       filters:
         folders:
           - publications
-        tag: "preprint"
         exclude_featured: false
       order: desc
     design:
       view: citation
       show_date: true
       show_read_time: false
-      show_read_more: false
+      show_read_more: true
       show_image: false
-      show_links: false
+      show_links: true
   
-  - block: collection
-    content:
-      title: 'Journal'
-      text: ''
-      count: 0
-      filters:
-        folders:
-          - publications
-        tag: "journal"
-        exclude_featured: false
-      order: desc
-    design:
-      view: citation
-      show_date: true
-      show_read_time: false
-      show_read_more: false
-      show_image: false
-      show_links: false
-  
-  - block: collection
-    content:
-      title: 'Conferences'
-      text: ''
-      count: 0
-      filters:
-        folders:
-          - publications
-        tag: "conferences"
-        exclude_featured: false
-      order: desc
-    design:
-      view: citation
-      show_date: true
-      show_read_time: false
-      show_read_more: false
-      show_image: false
-      show_links: false
 ---
