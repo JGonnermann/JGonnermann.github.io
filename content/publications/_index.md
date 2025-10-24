@@ -25,5 +25,6 @@ sections:
       show_read_more: true
       show_image: false
       show_links: true
+      external_link: true
   
 ---
