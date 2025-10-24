@@ -77,7 +77,14 @@ work:
     company_logo: ''
     date_start: 2025-09-15
     date_end: ''
-    summary:  
+    summary: 
+  - position: Voluntary educational workshops for school teachers and students on AI
+    company_name: 'KI.macht.schule e.v.'
+    company_url: 'https://ki-macht-schule.de/'
+    company_logo: ''
+    date_start: 2025-07-01
+    date_end: ''
+    summary: 
   - position: Academic Researcher
     company_name: University of Potsdam
     company_url: ''
