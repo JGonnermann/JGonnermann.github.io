@@ -121,7 +121,7 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards: []
+honors & awards: []
 ---
 
 Jana Gonnermann is a postdoctoral researcher at Zuse Institute Berlin, where she explores how agentic AI, machine learning, and human-centered design can be integrated to develop adaptive, personalized systems for learning, decision-making, and broader societal impact. In her research she uses experimental methods and evaluates AI tools together with schools and in companies to investigate these systems in practice. Currently, her work focuses on LLM-based educational tools and agentic simulations.

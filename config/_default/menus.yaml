@@ -16,11 +16,8 @@ main:
   - name: outreach
     url: /#outreach
     weight: 4
-  - name: projects
-    url: /#projects
-    weight: 5
   - name: blog
     url: /#blog
-    weight: 6
+    weight: 5
   
   
