@@ -21,12 +21,11 @@ sections:
       columns: '1'
       css_class: 'text-left text-base leading-relaxed font-normal'
   
-  - block: markdown
-    content: interests
+  - block: resume-skills
+    content:
       username: admin
     design:
-      date_format: 'January 2006'
-      is_education_first: false
+      columns: '2'
 
   - block: resume-experience
     content:
