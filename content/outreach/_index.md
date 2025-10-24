@@ -4,26 +4,28 @@ date: 2023-10-24
 type: landing
 
 design:
-  spacing: '7rem'
+  spacing: '5rem'
 
 # Page sections
 sections:
   - block: markdown
     content:
-      title: ''
+      title: 'Upcoming Talks'
       subtitle: ''
       text: |-
-        ## Upcoming Talks
-
         ### 2025
         - **Mit KI personalisierte Mathe-Unterrichtsmaterialien entwerfen: Ein Workshop zum Testen eines Prototyps, zum gemeinsamen Austausch und Feedback.**  
           *KI-Fachtag der Schulen*  
           November 26, 2025 | Berlin, Germany
+    design:
+      columns: '1'
+      css_class: 'text-left text-base leading-relaxed font-normal'
 
-        ## Recent Talks
-
-        ### Invited Talks & Workshops
-
+  - block: markdown
+    content:
+      title: 'Recent Talks'
+      subtitle: 'Invited Talks & Workshops'
+      text: |-
         #### 2025
         - **Simulating Student Diversity in Classrooms: Using Multi-Agent Systems to Generate Personalized Learning Material**  
           *NHR Conference 2025*  
@@ -45,9 +47,15 @@ sections:
         - **Einsatz von Augmented Reality - Nutzerzentrierte Gestaltungsmöglichkeiten**
           *BASF*
           October 2023
+    design:
+      columns: '1'
+      css_class: 'text-left text-base leading-relaxed font-normal'
 
-        ### Conference Talks
-
+  - block: markdown
+    content:
+      title: ''
+      subtitle: 'Conference Talks'
+      text: |-
         #### 2024
         - **Value by Design: Reducing Cognitive Load by Using Visual Guidance in Augmented Reality: An Eye-Tracking Study**  
           *International Conference on Information Systems (ICIS 2024)*  
