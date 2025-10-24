@@ -29,9 +29,11 @@
   HUGO_LOG_WARNINGS = "true"
   FORCE_COLOR = "1"
   PNPM_LOG_LEVEL = "debug"
+  HUGO_BLOX_BRANDING = "false"
 
 [context.production.environment]
   HUGO_ENV = "production"
+  HUGO_BLOX_BRANDING = "false"
 
 [context.deploy-preview]
   command = """

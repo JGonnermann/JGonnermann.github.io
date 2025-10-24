@@ -1,12 +1,31 @@
 ---
 title: Publications
-cms_exclude: true
+date: 2023-10-24
+type: landing
 
-# View.
-view: citation
+design:
+  spacing: '5rem'
 
-# Optional header image (relative to `static/media/` folder).
-banner:
-  caption: ''
-  image: ''
+# Page sections
+sections:
+  - block: collection
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publications
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 2
+  - block: collection
+    content:
+      title: All Publications
+      text: ''
+      filters:
+        folders:
+          - publications
+        exclude_featured: false
+    design:
+      view: citation
 ---

@@ -42,9 +42,9 @@ footer:
   copyright:
     notice: '© {year} Jana Gonnermann. This work is licensed under {license}'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization
@@ -57,4 +57,17 @@ features:
   math:
     enable: false
   privacy_pack:
+    enable: false
+
+# Branding
+branding:
+  powered_by:
+    enable: false
+  attribution:
+    enable: false
+  footer_branding:
+    enable: false
+  show_branding:
+    enable: false
+  hugo_blox_branding:
     enable: false

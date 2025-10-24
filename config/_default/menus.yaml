@@ -5,19 +5,14 @@
 
 main:
   - name: about
-    url: /
+    url: /about
     weight: 1
-  - name: cv
-    url: /
-    weight: 2
   - name: publications
-    url: /#publications
-    weight: 3
+    url: /publications
+    weight: 2
   - name: outreach
-    url: /#outreach
-    weight: 4
+    url: /outreach
+    weight: 3
   - name: blog
-    url: /#blog
-    weight: 5
-  
-  
+    url: /blog
+    weight: 4

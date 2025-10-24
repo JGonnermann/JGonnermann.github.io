@@ -9,107 +9,19 @@ design:
   spacing: '6rem'
 
 sections:
-  - block: resume-biography-3
-    content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
-      text: ''
-      # Show a call-to-action button under your biography? (optional)
-      button: []
-        text: 
-        url: 
-      headings:
-        about: ''
-        education: ''
-        interests: ''
-    design:
-      # Apply a gradient background
-      css_class: hbx-bg-gradient
-      # Avatar customization
-      avatar:
-        size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-        shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
-      title: '🤖 My Research'
+      title: ''
       subtitle: ''
       text: |-
-        I explore how agentic AI, machine learning, and human-centered design can be integrated to develop adaptive, personalized systems for learning, decision-making, and broader societal impact.
-
-        My research focuses on LLM-based educational tools and agentic simulations, using experimental methods to evaluate AI tools together with schools and companies in practice.
-
-        I'm particularly interested in socially-aware AI and AI applications in AR/VR environments for educational purposes.
-
-        Please reach out to collaborate! 
+        # Hi,
+        
+        ## I am Jana Gonnermann.
+        
+        #### I am a Ph.D. researcher in Human-Computer Interaction at University of Potsdam and Research Area Lead for 'Humans and AI' at Zuse Institute Berlin. I explore how agentic AI, machine learning, and human-centered design can be integrated to develop adaptive, personalized systems for learning, decision-making, and broader societal impact.
+        
+        [Learn More →](/about)
     design:
       columns: '1'
-  - block: collection
-    id: publications
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publications
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ''
-      filters:
-        folders:
-          - publications
-        exclude_featured: false
-    design:
-      view: citation
-  - block: collection
-    id: outreach
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - events
-    design:
-      view: card
-  - block: collection
-    id: projects
-    content:
-      title: Research Projects
-      text: 'Current and past research projects exploring AI in education and human-computer interaction.'
-      filters:
-        folders:
-          - projects
-    design:
-      view: card
-  - block: collection
-    id: blog
-    content:
-      title: Recent News
-      subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: blog
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        author: ''
-        category: ''
-        tag: ''
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ''
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: card
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
+      css_class: 'text-center'
 ---

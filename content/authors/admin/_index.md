@@ -36,8 +36,6 @@ profiles:
   - icon: at-symbol
     url: 'mailto:gonnermann-mueller@zib.de'
     label: E-mail Me
-  - icon: brands/x
-    url: ''
   - icon: brands/github
     url: https://github.com/JGonnermann
   - icon: brands/linkedin
@@ -56,23 +54,20 @@ interests:
 education:
   - area: PhD information systems 
     institution: University of Potsdam
-    date_start: 2021-02
-    date_end: 2025-09
+    date_start: 2021-02-15
+    date_end: 2025-09-14
     summary: |
       Thesis on a 'Cognitive Load-Based Design Framework for Augmented Reality Training'
-    button:
-      text: ''
-      url: ''
   - area: MS Psychology
     institution: Humboldt-University Berlin
-    date_start: 2017-10
-    date_end: 2020-10
+    date_start: 2017-10-15
+    date_end: 2020-10-14
     summary: ''
 
   - area: BS Psychology
     institution: Humboldt-University Berlin
-    date_start: 2013-10
-    date_end: 2017-10
+    date_start: 2013-10-15
+    date_end: 2017-10-14
     summary: ''
 
 work:
@@ -80,7 +75,7 @@ work:
     company_name: Zuse Institute Berlin
     company_url: 'https://iol.zib.de/research/iol-human.html'
     company_logo: ''
-    date_start: 2025-09
+    date_start: 2025-09-15
     date_end: ''
     summary: |2-
       Interested in exploring how agentic AI, machine learning, and human-centered design can be integrated to develop adaptive, personalized systems for learning, decision-making, and broader societal impact. 
@@ -88,40 +83,26 @@ work:
     company_name: University of Potsdam
     company_url: ''
     company_logo: ''
-    date_start: 2021-02
-    date_end: 2025-09
+    date_start: 2021-02-15
+    date_end: 2025-09-14
     summary: |
       Research group member 'Education for the digital society'
   - position: Academic Researcher
     company_name: Weizenbaum Institute Berlin 
     company_url: ''
     company_logo: ''
-    date_start: 2022-09
-    date_end: 2025-09
+    date_start: 2022-09-01
+    date_end: 2025-09-01
     summary: |
       Research group member 'Education for the digital society'
   - position: Visiting Researcher
     company_name: University of Stellenbosch, South Africa 
     company_url: ''
     company_logo: ''
-    date_start: 2023-01
-    date_end: 2023-02
+    date_start: 2023-02-05
+    date_end: 2023-02-27
     summary: |
       Interdisciplinary research 
-
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-skills: []
-
-languages:
-  - name: English
-  - name: German
-
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-honors & awards: []
 ---
 
 Jana Gonnermann is a postdoctoral researcher at Zuse Institute Berlin, where she explores how agentic AI, machine learning, and human-centered design can be integrated to develop adaptive, personalized systems for learning, decision-making, and broader societal impact. In her research she uses experimental methods and evaluates AI tools together with schools and in companies to investigate these systems in practice. Currently, her work focuses on LLM-based educational tools and agentic simulations.
