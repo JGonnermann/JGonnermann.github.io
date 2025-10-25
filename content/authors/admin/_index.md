@@ -56,6 +56,9 @@ education:
     institution: University of Potsdam
     date_start: 2021-02-15
     date_end: 2025-09-14
+    advisors: |
+      Prof. Norbert Gronau
+      Prof. Thomas Kosch
     summary: |
       Thesis on a 'Cognitive Load-Based Design Framework for Augmented Reality Training'
   - area: MS Psychology
@@ -71,14 +74,14 @@ education:
     summary: ''
 
 work:
-  - position: Research area lead 'Humans and AI'
+  - position: Postdoctoral researcher and 'Humans and AI' lead
     company_name: Zuse Institute Berlin
     company_url: 'https://iol.zib.de/research/iol-human.html'
     company_logo: ''
     date_start: 2025-09-15
     date_end: ''
     summary: 
-  - position: Voluntary educational workshops for school teachers and students on AI
+  - position: Voluntary work for school teachers and students on AI
     company_name: 'KI.macht.schule e.v.'
     company_url: 'https://ki-macht-schule.de/'
     company_logo: ''
@@ -108,7 +111,6 @@ work:
     date_start: 2023-02-05
     date_end: 2023-02-27
     summary: |
-      Interdisciplinary research 
 ---
 
 I am a postdoctoral researcher at [Zuse Institute Berlin](https://www.zib.de/) in the [IOL Lab of Sebastian Pokutta](https://iol.zib.de/), where I lead the ['Humans and AI'](https://iol.zib.de/research/iol-human.html) research area.
