@@ -17,7 +17,7 @@ sections:
             <img src="/projects/facet-project.png" alt="FACET Project" />
           </div>
           <div class="project-content">
-            <h3 class="project-title">FACET: Teacher-Centred LLM-Based Multi-Agent Systems</h3>
+            <h3 class="project-title">FACET: Teacher-centred LLM-based multi-agent system</h3>
             <p class="project-subtitle">AI for Education</p>
             <p>FACET is a teacher-centred LLM-based multi-agent system that supports teachers in developing personalized educational materials according to student characteristics, such as motivation, self-concept and performance.</p>
             <p><strong>key features:</strong></p>
@@ -42,7 +42,7 @@ sections:
             <img src="/projects/cognitive-load-ar-study.jpg" alt="Cognitive Load AR Study" />
           </div>
           <div class="project-content">
-            <h3 class="project-title">Cognitive Load-based Augmented Reality Design for Vocational Training</h3>
+            <h3 class="project-title">Cognitive Load-based Augmented Reality Design for vocational training</h3>
             <p class="project-subtitle">Augmented Reality design</p>
             <p>This research project investigates the design of human-centred Augmented Reality (AR) for learning using cognitive theories, such as cognitive load theory.</p>
             <p><strong>research questions:</strong></p>

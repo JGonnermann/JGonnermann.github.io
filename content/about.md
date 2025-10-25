@@ -5,6 +5,7 @@ type: landing
 
 design:
   spacing: '3rem'
+  css_class: 'about-page'
 
 # Page sections
 sections:

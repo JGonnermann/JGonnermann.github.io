@@ -4,7 +4,8 @@ date: 2023-10-24
 type: landing
 
 design:
-  spacing: '1rem'
+  spacing: '0.25rem'
+  css_class: 'outreach-page'
 
 # Page sections
 sections:

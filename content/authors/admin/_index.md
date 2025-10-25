@@ -56,11 +56,13 @@ education:
     institution: University of Potsdam
     date_start: 2021-02-15
     date_end: 2025-09-14
-    advisors: |
+    supervisor: |
       Prof. Norbert Gronau
       Prof. Thomas Kosch
     summary: |
       Thesis on a 'Cognitive Load-Based Design Framework for Augmented Reality Training'
+      
+      Supervisors: Prof. Norbert Gronau, Prof. Thomas Kosch
   - area: MS Psychology
     institution: Humboldt-University Berlin
     date_start: 2017-10-15
@@ -88,7 +90,7 @@ work:
     date_start: 2025-07-01
     date_end: ''
     summary: 
-  - position: Academic researcher
+  - position: Doctoral researcher
     company_name: University of Potsdam
     company_url: ''
     company_logo: ''
@@ -96,7 +98,7 @@ work:
     date_end: 2025-09-14
     summary: |
       Research group member 'Education for the digital society'
-  - position: Academic researcher
+  - position: Doctoral researcher
     company_name: Weizenbaum Institute Berlin 
     company_url: ''
     company_logo: ''

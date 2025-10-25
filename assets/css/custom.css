@@ -691,49 +691,211 @@ body {
   font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif !important;
 }
 
-/* Unified title formatting */
+/* Unified title formatting - Standardized sizes */
 h1, h2, h3, h4, h5, h6,
 .hbx-section-title,
 .section-title,
 .page-title,
 .mb-6.text-3xl.font-bold {
   font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif !important;
-  font-size: 1.625rem !important; /* 24px */
   font-weight: 600 !important;
-  line-height: 1.4 !important;
+  line-height: 1.3 !important;
   margin-bottom: 1rem !important;
   color: inherit !important;
 }
 
-/* Unified subtitle formatting */
+/* Specific heading sizes for consistency */
+h1 { font-size: 2.25rem !important; } /* 36px */
+h2 { font-size: 1.875rem !important; } /* 30px */
+h3 { font-size: 1.5rem !important; } /* 24px */
+h4 { font-size: 1.25rem !important; } /* 20px */
+h5 { font-size: 1.125rem !important; } /* 18px */
+h6 { font-size: 1rem !important; } /* 16px */
+
+/* Section titles - Standardized */
+.hbx-section-title,
+.section-title,
+.page-title,
+.mb-6.text-3xl.font-bold {
+  font-size: 1.875rem !important; /* 30px - consistent with h2 */
+}
+
+/* Unified subtitle formatting - Standardized */
 .subtitle,
 .hbx-section-subtitle {
   font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif !important;
-  font-size: 1.5rem !important; /* 18px */
+  font-size: 1.25rem !important; /* 20px - consistent with h4 */
   font-weight: 500 !important;
   line-height: 1.4 !important;
   margin-bottom: 0.75rem !important;
   color: inherit !important;
 }
 
-/* Unified text formatting */
+/* Unified text formatting - Standardized */
 p, .text, .prose p, .prose {
   font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif !important;
-  font-size: 1.125rem !important; /* 16px */
+  font-size: 1rem !important; /* 16px - standardized */
   font-weight: 400 !important;
   line-height: 1.6 !important;
   margin-bottom: 1rem !important;
   color: inherit !important;
 }
 
-/* Consistent spacing between sections */
+/* Consistent spacing between sections - Reduced */
 .hbx-section {
-  margin-bottom: 2rem !important;
+  margin-bottom: 0.5rem !important; /* Significantly reduced from 2rem */
 }
 
 /* Consistent spacing between title and content */
 .mb-6.text-3xl.font-bold + * {
   margin-top: 1rem !important;
+}
+
+/* Additional spacing reduction for all pages */
+.hbx-section + .hbx-section {
+  margin-top: 0.5rem !important;
+}
+
+/* Reduce spacing in markdown blocks */
+.markdown-block {
+  margin-bottom: 0.5rem !important;
+}
+
+/* Reduce spacing between sections on all pages */
+body[data-page-type="landing"] .hbx-section,
+body[data-page-type="page"] .hbx-section {
+  margin-bottom: 0.5rem !important;
+}
+
+/* Specific spacing reduction for outreach page */
+body[data-page-type="landing"] .outreach-page .hbx-section {
+  margin-bottom: 0.25rem !important;
+}
+
+/* Override Hugo Blox spacing system */
+[style*="margin-block"] {
+  margin-block: 0.5rem !important;
+}
+
+/* Target Hugo Blox section spacing */
+.hbx-section[style*="margin"] {
+  margin: 0.5rem 0 !important;
+}
+
+/* Reduce spacing in Hugo Blox blocks */
+.hbx-block {
+  margin-bottom: 0.5rem !important;
+}
+
+/* Additional spacing reduction for all landing pages */
+body[data-page-type="landing"] {
+  --spacing: 0.5rem !important;
+}
+
+/* Target specific Hugo Blox spacing classes */
+.spacing-1rem { margin-bottom: 0.25rem !important; }
+.spacing-2rem { margin-bottom: 0.5rem !important; }
+.spacing-3rem { margin-bottom: 0.75rem !important; }
+
+/* Search icon styling - Dark blue */
+.search-icon,
+.hbx-search-icon,
+[data-icon="search"],
+[data-icon="magnifying-glass"],
+.fa-search,
+.fas.fa-search,
+.far.fa-search {
+  color: #1e40af !important; /* Dark blue */
+  fill: #1e40af !important;
+  stroke: #1e40af !important;
+}
+
+/* Dark/light mode toggle icon styling - Dark blue */
+.theme-toggle,
+.dark-mode-toggle,
+[data-icon="sun"],
+[data-icon="moon"],
+[data-icon="adjust"],
+.fa-sun,
+.fa-moon,
+.fas.fa-sun,
+.fas.fa-moon,
+.far.fa-sun,
+.far.fa-moon {
+  color: #1e40af !important; /* Dark blue */
+  fill: #1e40af !important;
+  stroke: #1e40af !important;
+}
+
+/* Target Hugo Blox header icons */
+.hbx-header .search-icon,
+.hbx-header .theme-toggle,
+.hbx-header [data-icon="search"],
+.hbx-header [data-icon="sun"],
+.hbx-header [data-icon="moon"],
+.hbx-header [data-icon="adjust"] {
+  color: #1e40af !important;
+  fill: #1e40af !important;
+  stroke: #1e40af !important;
+}
+
+/* Target navbar icons */
+.navbar .search-icon,
+.navbar .theme-toggle,
+.navbar [data-icon="search"],
+.navbar [data-icon="sun"],
+.navbar [data-icon="moon"],
+.navbar [data-icon="adjust"] {
+  color: #1e40af !important;
+  fill: #1e40af !important;
+  stroke: #1e40af !important;
+}
+
+/* Target header icons */
+header .search-icon,
+header .theme-toggle,
+header [data-icon="search"],
+header [data-icon="sun"],
+header [data-icon="moon"],
+header [data-icon="adjust"] {
+  color: #1e40af !important;
+  fill: #1e40af !important;
+  stroke: #1e40af !important;
+}
+
+/* About page headers - lowercase - More specific targeting */
+body[data-page-type="landing"] .about-page h2,
+body[data-page-type="landing"] .about-page h3,
+body[data-page-type="landing"] .about-page h4,
+body[data-page-type="landing"] .about-page h5,
+body[data-page-type="landing"] .about-page h6 {
+  text-transform: lowercase !important;
+}
+
+/* Target resume experience headers specifically - Only headers */
+.blox-resume-experience h2,
+.blox-resume-experience h3,
+.blox-resume-experience h4,
+.blox-resume-experience h5,
+.blox-resume-experience h6 {
+  text-transform: lowercase !important;
+}
+
+/* Target experience and education section headers - Only headers */
+#section-resume-experience h2,
+#section-resume-experience h3,
+#section-resume-experience h4,
+#section-resume-experience h5,
+#section-resume-experience h6 {
+  text-transform: lowercase !important;
+}
+
+/* Target Hugo Blox section titles specifically */
+.blox-resume-experience .hbx-section-title,
+.blox-resume-experience .section-title,
+#section-resume-experience .hbx-section-title,
+#section-resume-experience .section-title {
+  text-transform: lowercase !important;
 }
 
 /* Projects page styling - side-by-side layout */
@@ -771,20 +933,20 @@ p, .text, .prose p, .prose {
   justify-content: space-between !important;
 }
 
-/* Project title styling */
+/* Project title styling - Consistent with main formatting */
 .projects-page .group h3 {
   font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif !important;
-  font-size: 1.5rem !important;
+  font-size: 1.5rem !important; /* Consistent with h3 */
   font-weight: 600 !important;
   color: #2c3e50 !important;
   margin-bottom: 1rem !important;
   line-height: 1.3 !important;
 }
 
-/* Project text styling */
+/* Project text styling - Consistent with main formatting */
 .projects-page .group p {
   font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif !important;
-  font-size: 1rem !important;
+  font-size: 1rem !important; /* Consistent with body text */
   font-weight: 400 !important;
   color: #555 !important;
   line-height: 1.6 !important;
@@ -859,18 +1021,20 @@ p, .text, .prose p, .prose {
   margin-top: 0;
   margin-bottom: 0.5rem;
   color: #2c3e50;
-  font-size: 1.5rem;
-  font-weight: bold;
+  font-size: 1.5rem; /* Consistent with h3 */
+  font-weight: 600; /* Consistent with main headings */
   line-height: 1.3;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
 }
 
 .project-subtitle {
   margin-top: 0;
   margin-bottom: 1rem;
   color: #3498db;
-  font-size: 1rem;
-  font-weight: 500;
+  font-size: 1.25rem; /* Consistent with h4/subtitle */
+  font-weight: 500; /* Consistent with subtitles */
   font-style: italic;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
 }
 
 .project-content p {

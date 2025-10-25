@@ -38,9 +38,9 @@ sections:
       subtitle: ''
       text: |-
         <div class="news-light-blue">
-          Aug 2025 - Recent preprint 'FACET: Teacher-Centred LLM-Based Multi-Agent Systems—Towards Personalized Educational Worksheets' on arXiv. 
+          Aug 2025 - Recent preprint 'FACET: Teacher-centred LLM-based multi-agent system—Towards personalized educational worksheets' on arXiv. 
           
-          The paper presents a teacher-centred LLM-based multi-agent system that supports teachers in developing personalized educational materials according to students characteristics. 
+          The paper presents a teacher-centred LLM-based multi-agent system that supports teachers in developing personalized educational materials according to student characteristics. 
           
           [read the full paper on arXiv →](https://arxiv.org/abs/2508.11401)</a>
           

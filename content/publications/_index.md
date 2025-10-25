@@ -24,7 +24,7 @@ sections:
       show_read_time: false
       show_read_more: false
       show_image: false
-      show_links: true
+      show_links: false
       columns: '1'
       css_class: 'text-left'
       external_link: false
