@@ -15,7 +15,7 @@ sections:
       count: 0
       filters:
         folders:
-          - talks
+          - talks/upcoming
         talk_type: "upcoming"
       order: desc
     design:
@@ -33,7 +33,7 @@ sections:
       count: 0
       filters:
         folders:
-          - talks
+          - talks/invited
         talk_type: "invited"
       order: desc
     design:
@@ -51,7 +51,7 @@ sections:
       count: 0
       filters:
         folders:
-          - talks
+          - talks/conferences
         talk_type: "conference"
       order: desc
     design:

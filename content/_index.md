@@ -42,10 +42,10 @@ sections:
           
           The paper presents a teacher-centred LLM-based multi-agent system that supports teachers in developing personalized educational materials according to students characteristics. 
           
-          [Read the full paper on arXiv →](https://arxiv.org/abs/2508.11401)</a>
+          [read the full paper on arXiv →](https://arxiv.org/abs/2508.11401)</a>
           
           <div class="news-button-container">
-            <a href="/blog/" class="news-button">read latest blog post →</a>
+            <a href="/blog/" class="news-button">to the blog post →</a>
           </div>
         </div>
     design:
