@@ -30,7 +30,7 @@ abstract: 'The increasing heterogeneity of student populations poses significant
 doi: ''
 
 # Is this a featured publication? (true/false)
-featured: false
+featured: true
 
 # Tags and keywords
 # tags:

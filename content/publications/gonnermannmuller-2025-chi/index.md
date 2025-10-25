@@ -29,7 +29,7 @@ abstract: 'Labels like "AI-powered" or "Human-Expert" activate mental models and
 doi: ''
 
 # Is this a featured publication? (true/false)
-featured: false
+featured: true
 
 # Tags and keywords
 # tags:

@@ -29,7 +29,7 @@ abstract: 'ChatGPT can benefit education; however, challenges arise that demand 
 doi: ''
 
 # Is this a featured publication? (true/false)
-featured: false
+featured: true
 
 # Tags and keywords
 # tags:
