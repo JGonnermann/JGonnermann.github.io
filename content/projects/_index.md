@@ -14,7 +14,7 @@ sections:
       text: |-
         <div class="project-card">
           <div class="project-image">
-            <img src="/projects/facet-project.png" alt="FACET Project" />
+            <img src="/images/projects/FACET.png" alt="FACET Project" />
           </div>
           <div class="project-content">
             <h3 class="project-title">FACET: Teacher-centred LLM-based multi-agent system</h3>
@@ -23,11 +23,13 @@ sections:
             <p><strong>Problem:</strong></p>
             <ul>
               <li>Teachers face increasingly diverse classrooms, yet despite the recognized importance of differentiation, limited time and resources make it difficult to translate personalization into everyday practice</li>
+            </ul>
             <p><strong>key features:</strong></p>
             <ul>
               <li>Multi-agent architecture: Different agents simulating students and teacher</li>
               <li>Personalization: Personalized materials based on individual student affective and motivational attributes and performance</li>
               <li>Teacher-centred design: Empowers teachers with AI assistance while maintaining pedagogical control</li>
+            </ul>
             <p><strong>outcome:</strong></p>
             <ul>
               <li>Together with teachers, we develop a teacher-centred LLM-based multi-agent system to develop AI-based personalized teaching materials. Therefore, we do not only focus on performance, but also consider the motivational and affective aspects of students</li>
@@ -41,7 +43,7 @@ sections:
       text: |-
         <div class="project-card">
           <div class="project-image">
-            <img src="/projects/cognitive-load-ar-study.jpg" alt="Cognitive Load AR Study" />
+            <img src="/images/projects/cognitive-load-study.jpg" alt="Cognitive Load AR Study" />
           </div>
           <div class="project-content">
             <h3 class="project-title">Cognitive Load-based Augmented Reality Design for vocational training</h3>
