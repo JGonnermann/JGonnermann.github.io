@@ -22,7 +22,7 @@ sections:
       view: citation
       show_date: true
       show_read_time: false
-      show_read_more: true
+      show_read_more: false
       show_image: false
       show_links: true
       columns: '1'

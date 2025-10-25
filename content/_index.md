@@ -14,7 +14,7 @@ sections:
     content:
       username: admin
     design:
-      css_class: 'text-center'
+      css_class: 'text-left'
       columns: '1'
 
   - block: markdown

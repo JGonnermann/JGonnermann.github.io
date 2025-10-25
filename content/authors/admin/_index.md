@@ -118,3 +118,11 @@ I am a postdoctoral researcher at [Zuse Institute Berlin](https://www.zib.de/) i
 My work explores how agentic AI, machine learning, and human-centered design can be integrated to develop adaptive, personalized systems that support learning, decision-making, and broader societal impact.
 
 My research focuses on LLM-based educational tools and agentic simulations, using experimental methods to evaluate AI technologies in collaboration with schools and industry partners. I am particularly interested in socially-aware AI and applications of AI in AR/VR environments for educational purposes.
+
+<div class="news-light-blue">
+  Interested in pursuing research at the intersection of human-centred AI, education, and system design? 
+  
+  [apply here →](https://iol.zib.de/join)
+</div>
+
+
