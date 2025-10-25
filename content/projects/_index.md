@@ -19,11 +19,11 @@ sections:
           <div class="project-content">
             <h3 class="project-title">FACET: Teacher-centred LLM-based multi-agent system</h3>
             <p class="project-subtitle">AI for Education</p>
-            <p>FACET is a teacher-centred LLM-based multi-agent system that supports teachers in developing personalized educational materials according to student characteristics, such as motivation, self-concept and performance.</p>
-            <p><strong>Problem:</strong></p>
+            <p><strong>problem:</strong></p>
             <ul>
-              <li>Teachers face increasingly diverse classrooms, yet despite the recognized importance of differentiation, limited time and resources make it difficult to translate personalization into everyday practice</li>
+            <p>Teachers face increasingly diverse classrooms, yet despite the recognized importance of differentiation, limited time and resources make it difficult to translate personalization into everyday practice</p>
             </ul>
+            <p>FACET is a teacher-centred LLM-based multi-agent system that supports teachers in developing personalized educational materials according to student characteristics, such as motivation, self-concept and performance</p>
             <p><strong>key features:</strong></p>
             <ul>
               <li>Multi-agent architecture: Different agents simulating students and teacher</li>
@@ -48,12 +48,12 @@ sections:
           <div class="project-content">
             <h3 class="project-title">Cognitive Load-based Augmented Reality Design for vocational training</h3>
             <p class="project-subtitle">Augmented Reality design</p>
-            <p><strong>Problem:</strong></p>
+            <p><strong>problem:</strong></p>
             <ul>
-              <li>Occupations in crafts and production are characterized by hands-on activities, and the knowledge required for them is difficult to convey through PDFs or traditional classroom instruction. While augmented reality (AR) offers the opportunity to learn directly on the job and through practical examples, many users report experiencing distraction and cognitive overload when using AR systems.</li>
+            <p>Occupations in crafts and production are characterized by hands-on activities, and the knowledge required for them is difficult to convey through PDFs or traditional classroom instruction. While augmented reality (AR) offers the opportunity to learn directly on the job and through practical examples, many users report experiencing distraction and cognitive overload when using AR systems</p>
             </ul>
-            <p>This research project develops human-centred design principles for Augmented Reality (AR) using cognitive theories, such as cognitive load theory.</p>
-            <p><strong>Research Questions:</strong></p>
+            <p>This research project develops human-centred design principles for Augmented Reality (AR) using cognitive theories, such as cognitive load theory</p>
+            <p><strong>research questions:</strong></p>
             <ul>
               <li>How does visual guidance affect cognitive load in AR environments?</li>
               <li>What are the optimal design patterns for reducing cognitive load?</li>
