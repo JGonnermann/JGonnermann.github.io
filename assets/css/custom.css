@@ -677,3 +677,10 @@ footer:has-text("Made with") {
 footer.container.mx-auto.flex.flex-col.justify-items-center {
   display: none !important;
 }
+
+/* Outreach page width adjustment to match publications page */
+body[data-page-type="landing"] .max-w-prose,
+body[data-page-type="landing"] .flex.max-w-prose,
+body[data-page-type="landing"] .prose.max-w-prose {
+  max-width: 48rem !important; /* max-w-3xl equivalent */
+}

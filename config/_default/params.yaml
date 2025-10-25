@@ -42,7 +42,7 @@ footer:
   copyright:
     notice: '© {year} Jana Gonnermann.'
     license:
-      enable: false
+      enable: true
       allow_derivatives: false
       share_alike: false
       allow_commercial: false

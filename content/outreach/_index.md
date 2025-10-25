@@ -4,7 +4,7 @@ date: 2023-10-24
 type: landing
 
 design:
-  spacing: '5rem'
+  spacing: '1rem'
 
 # Page sections
 sections:
@@ -18,7 +18,7 @@ sections:
         November 26, 2025
     design:
       columns: '1'
-      css_class: 'text-left text-sm leading-relaxed font-light'
+      css_class: 'text-left'
 
   - block: markdown
     content:
@@ -46,7 +46,7 @@ sections:
         April 1, 2025
     design:
       columns: '1'
-      css_class: 'text-left text-sm leading-relaxed font-light'
+      css_class: 'text-left'
 
   - block: markdown
     content:
@@ -54,20 +54,20 @@ sections:
       subtitle: ''
       text: |-
         **AMCIS 2023** - Influence of Pre-Experience on Learning in Virtual Environments  
-        *Americas Conference on Information Systems*
+        *Americas Conference on Information Systems*  
         *Panama City, Panama*  
         August 10, 2023
         
         **HICSS 2023** - To What Extent Can Individualisation in Terms of Different Types of Mode Improve Learning Outcomes and Learner Satisfaction?  
-        *Hawaii International Conference on System Sciences*
-        *Maui, Hawaii**  
+        *Hawaii International Conference on System Sciences*  
+        *Maui, Hawaii*  
         January 3, 2023
         
         **ICIS 2024** - Value by Design: Reducing Cognitive Load by Using Visual Guidance in Augmented Reality-An Eye-Tracking Study  
-        *International Conference on Information Systems*
+        *International Conference on Information Systems*  
         *Bangkok, Thailand*  
         December 15, 2024
     design:
       columns: '1'
-      css_class: 'text-left text-sm leading-relaxed font-light'
+      css_class: 'text-left'
 ---

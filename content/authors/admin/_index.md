@@ -113,7 +113,7 @@ work:
     summary: |
 ---
 
-I am a postdoctoral researcher at [Zuse Institute Berlin](https://www.zib.de/) in the [IOL Lab of Sebastian Pokutta](https://iol.zib.de/), where I lead the ['Humans and AI'](https://iol.zib.de/research/iol-human.html) research area.
+I am a postdoctoral researcher at [Zuse Institute Berlin](https://www.zib.de/) in the [IOL Lab of Sebastian Pokutta](https://iol.zib.de/), responsible for ['Humans and AI'](https://iol.zib.de/research/iol-human.html).
 
 My work explores how agentic AI, machine learning, and human-centered design can be integrated to develop adaptive, personalized systems that support learning, decision-making, and broader societal impact.
 

@@ -4,7 +4,7 @@ date: 2023-10-24
 type: landing
 
 design:
-  spacing: '3rem'
+  spacing: '1rem'
 
 # Page sections
 sections:
