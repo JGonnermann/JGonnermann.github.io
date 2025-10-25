@@ -62,10 +62,10 @@ math: false
 highlight: false
 
 # Featured image
-# image:
-#  caption: 'Systematic literature review on AR learning design and cognitive load'
-#  focal_point: ''
-#  preview_only: false
+image:
+caption: 'Systematic literature review on AR learning design and cognitive load'
+focal_point: ''
+preview_only: false
 
 # Associated Projects (optional).
 projects: []

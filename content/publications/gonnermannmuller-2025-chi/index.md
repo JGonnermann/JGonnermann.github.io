@@ -1,5 +1,5 @@
 ---
-title:'Let's Be Realistic: AI-Recommender Use in a Complex Management Setting'
+title: 'Lets Be Realistic: AI-Recommender Use in a Complex Management Setting'
 
 # Authors
 authors:
@@ -62,10 +62,10 @@ math: false
 highlight: false
 
 # Featured image
-# image:
-#  caption: 'Systematic literature review on AR learning design and cognitive load'
-#  focal_point: ''
-#  preview_only: false
+image:
+caption: 'Lets Be Realistic: AI-Recommender Use in a Complex Management Setting'
+focal_point: ''
+preview_only: false
 
 # Associated Projects (optional).
 projects: []
@@ -76,7 +76,7 @@ slides: ''
 # Alias to produce this page from a markdown file in `_index.md`
 aliases: []
 
-tag: ["journal"]
+tag: ["conference"]
 
 ---
 

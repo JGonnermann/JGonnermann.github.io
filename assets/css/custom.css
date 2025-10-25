@@ -878,6 +878,48 @@ header [data-icon="adjust"] {
   cursor: pointer !important;
 }
 
+/* Target all publication links more broadly */
+.publications-page .hbx-collection a[href^="/publications/"],
+.publications-page .collection a[href^="/publications/"],
+.publications-page .publication a[href^="/publications/"],
+.publications-page .card a[href^="/publications/"],
+.publications-page .item a[href^="/publications/"] {
+  pointer-events: none !important;
+  cursor: default !important;
+  text-decoration: none !important;
+}
+
+/* Re-enable external links for all publication contexts */
+.publications-page .hbx-collection a[href^="http"],
+.publications-page .hbx-collection a[href^="https"],
+.publications-page .collection a[href^="http"],
+.publications-page .collection a[href^="https"],
+.publications-page .publication a[href^="http"],
+.publications-page .publication a[href^="https"],
+.publications-page .card a[href^="http"],
+.publications-page .card a[href^="https"],
+.publications-page .item a[href^="http"],
+.publications-page .item a[href^="https"] {
+  pointer-events: auto !important;
+  cursor: pointer !important;
+}
+
+/* More aggressive targeting for all internal publication links */
+.publications-page a[href*="/publications/"]:not([href^="http"]):not([href^="https"]) {
+  pointer-events: none !important;
+  cursor: default !important;
+  text-decoration: none !important;
+}
+
+/* Ensure external links work everywhere */
+.publications-page a[href^="http"],
+.publications-page a[href^="https"],
+.publications-page a[href^="mailto:"] {
+  pointer-events: auto !important;
+  cursor: pointer !important;
+  text-decoration: underline !important;
+}
+
 /* About page headers - lowercase - More specific targeting */
 body[data-page-type="landing"] .about-page h2,
 body[data-page-type="landing"] .about-page h3,

@@ -1,5 +1,5 @@
 ---
-title:'Specifying ten roles of using ChatGPT in secondary education: a teacher’s perspective''
+title: "Specifying ten roles of using ChatGPT in secondary education: a teacher's perspective"
 
 # Authors
 authors:
@@ -16,7 +16,7 @@ date: '2025-06-01T00:00:00Z'
 publishDate: '2025-06-01T00:00:00Z'
 
 # Publication name and optional abbreviated publication name.
-publication: 'Proceedings of the Thirty-Third European Conference on Information Systems'
+publication: 'Proceedings of the Thirty-Third European Conference on Information Systems (ECIS)'
 publication_short: 'ECIS 25'
 
 # Abstract and optional shortened version for computer screens.
@@ -62,10 +62,10 @@ math: false
 highlight: false
 
 # Featured image
-# image:
-#  caption: 'Systematic literature review on AR learning design and cognitive load'
-#  focal_point: ''
-#  preview_only: false
+image:
+caption: 'Systematic literature review on AR learning design and cognitive load'
+focal_point: ''
+preview_only: false
 
 # Associated Projects (optional).
 projects: []

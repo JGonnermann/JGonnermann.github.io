@@ -1,5 +1,5 @@
 ---
-title:'FACET: Teacher-Centred LLM-Based Multi-Agent System—Towards Personalized Educational Worksheets'
+title: "FACET: Teacher-Centred LLM-Based Multi-Agent System—Towards Personalized Educational Worksheets"
 
 # Authors
 authors:
@@ -63,10 +63,10 @@ math: false
 highlight: false
 
 # Featured image
-# image:
-#  caption: 'Systematic literature review on AR learning design and cognitive load'
-#  focal_point: ''
-#  preview_only: false
+image:
+caption: 'Systematic literature review on AR learning design and cognitive load'
+focal_point: ''
+preview_only: false
 
 # Associated Projects (optional).
 projects: []
