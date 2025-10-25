@@ -83,7 +83,7 @@ work:
     date_start: 2025-09-15
     date_end: ''
     summary: 
-  - position: Voluntary work for school teachers and students on AI
+  - position: Voluntary work with school teachers on AI
     company_name: 'KI.macht.schule e.v.'
     company_url: 'https://ki-macht-schule.de/'
     company_logo: ''
