@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Jana Gonnermann
+title: Jana Gonnermann-Müller
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Jana
-last_name: Gonnermann
+last_name: Gonnermann-Müller
 
 # Pronouns (optional)
 pronouns: ''
