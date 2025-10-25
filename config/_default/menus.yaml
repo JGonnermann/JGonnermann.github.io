@@ -10,9 +10,12 @@ main:
   - name: publications
     url: /publications
     weight: 2
+  - name: projects
+    url: /projects
+    weight: 3
   - name: outreach
     url: /outreach
-    weight: 3
+    weight: 4
   - name: blog
     url: /blog
-    weight: 4
+    weight: 5
