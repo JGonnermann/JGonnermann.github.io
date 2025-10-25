@@ -32,13 +32,13 @@ doi: '10.1007/s12193-024-00440-1'
 featured: true
 
 # Tags and keywords
-tags:
-  - Augmented Reality
-  - Assembly
-  - Head-mounted display
-  - Handheld display
-  - Cognitive load
-  - Human-Computer Interaction
+# tags:
+#  - Augmented Reality
+#  - Assembly
+#  - Head-mounted display
+#  - Handheld display
+#  - Cognitive load
+#  - Human-Computer Interaction
 
 # Links (optional).
 url_pdf: 'https://link.springer.com/article/10.1007/s12193-024-00440-1'
@@ -87,5 +87,5 @@ slides: ''
 # Alias to produce this page from a markdown file in `_index.md`
 aliases: []
 
-category: ["conference"]
+# category: ["conference"]
 ---

@@ -5,6 +5,7 @@ type: landing
 
 design:
   spacing: '1rem'
+  css_class: 'publications-page'
 
 # Page sections
 sections:
@@ -24,8 +25,11 @@ sections:
       show_read_time: false
       show_read_more: false
       show_image: false
-      show_links: false
+      show_links: true
       columns: '1'
       css_class: 'text-left'
       external_link: false
 ---
+
+
+

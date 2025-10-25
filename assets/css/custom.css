@@ -863,6 +863,21 @@ header [data-icon="adjust"] {
   stroke: #1e40af !important;
 }
 
+/* Publications page - Disable internal links but keep external links */
+.publications-page a[href^="/publications/"] {
+  pointer-events: none !important;
+  cursor: default !important;
+  text-decoration: none !important;
+}
+
+/* Re-enable external links */
+.publications-page a[href^="http"],
+.publications-page a[href^="https"],
+.publications-page a[href^="mailto:"] {
+  pointer-events: auto !important;
+  cursor: pointer !important;
+}
+
 /* About page headers - lowercase - More specific targeting */
 body[data-page-type="landing"] .about-page h2,
 body[data-page-type="landing"] .about-page h3,
