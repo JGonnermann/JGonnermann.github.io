@@ -14,7 +14,7 @@ sections:
       text: |-
         <div class="project-card">
           <div class="project-image">
-            <img src="/images/projects/FACET.png" alt="FACET Project" />
+            <img src="/images/projects/facet-project.png" alt="FACET Project" />
           </div>
           <div class="project-content">
             <h3 class="project-title">FACET: Teacher-centred LLM-based multi-agent system</h3>

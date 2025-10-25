@@ -206,6 +206,12 @@ html.dark .news-button:hover {
   display: none !important;
 }
 
+/* Ensure project images are visible */
+.projects-page .project-image img,
+.prose .project-image img {
+  display: block !important;
+}
+
 /* Hide featured images in blog listings */
 .blog-card img,
 .post-card img,
@@ -1067,8 +1073,30 @@ body[data-page-type="landing"] .about-page h6 {
 }
 
 /* Specific targeting for FACET image to ensure top is displayed */
-.project-image img[src*="FACET.png"] {
+.project-image img[src*="FACET.png"],
+.project-image img[src*="facet-project.png"],
+.projects-page .project-image img[src*="FACET.png"],
+.projects-page .project-image img[src*="facet-project.png"],
+.prose .project-image img[src*="FACET.png"],
+.prose .project-image img[src*="facet-project.png"] {
   object-position: top !important;
+  object-fit: cover !important;
+}
+
+/* Force top positioning for all project images */
+.projects-page .project-image img {
+  object-position: top !important;
+  object-fit: cover !important;
+  display: block !important;
+  visibility: visible !important;
+}
+
+/* Additional aggressive CSS for FACET images */
+.projects-page .project-image img[src*="facet-project.png"] {
+  object-position: top !important;
+  object-fit: cover !important;
+  transform: translateY(0) !important;
+  clip-path: inset(0 0 50% 0) !important;
 }
 
 .project-image img:hover {
