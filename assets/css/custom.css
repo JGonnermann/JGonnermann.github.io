@@ -747,6 +747,10 @@ p, .text, .prose p, .prose {
   color: inherit !important;
 }
 
+
+
+
+
 /* Consistent spacing between sections - Reduced */
 .hbx-section {
   margin-bottom: 0.5rem !important; /* Significantly reduced from 2rem */
