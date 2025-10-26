@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multi-Agent Systems | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/multi-agent-systems/</link>
+      <atom:link href="http://localhost:1313/tags/multi-agent-systems/index.xml" rel="self" type="application/rss+xml" />
+    <description>Multi-Agent Systems</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_982c5d63a71b2961.png</url>
+      <title>Multi-Agent Systems</title>
+      <link>http://localhost:1313/tags/multi-agent-systems/</link>
+    </image>
+    
+    <item>
+      <title>FACET: Teacher-Centred LLM-Based Multi-Agent Systems</title>
+      <link>http://localhost:1313/projects/facet-project/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/facet-project/</guid>
+      <description>&lt;p&gt;FACET is a teacher-centred LLM-based multi-agent system that supports teachers in developing personalized educational materials according to student characteristics, such as motivation, self-concept and performance. The system uses multiple AI agents to analyze student needs, generate appropriate content, and provide recommendations for educational worksheets.&lt;/p&gt;
+&lt;h2 id=&#34;key-features&#34;&gt;key features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Multi-agent architecture: Different agents handle content generation, student analysis, and quality assurance&lt;/li&gt;
+&lt;li&gt;Personalization: Adapts materials based on individual student characteristics and learning preferences&lt;/li&gt;
+&lt;li&gt;Teacher-centred design: Empowers teachers with AI assistance while maintaining pedagogical control&lt;/li&gt;
+&lt;li&gt;Scalable framework: Can be adapted for different subjects and educational contexts&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;read-more&#34;&gt;read more:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;impact&#34;&gt;impact&lt;/h2&gt;
+&lt;p&gt;Together with teachers, we develop a teacher-centred LLM-based multi-agent system to develop AI-based personalized teaching materials. Therefore, we do not only focus on performance, but also consider the motivational and affective aspects of students.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

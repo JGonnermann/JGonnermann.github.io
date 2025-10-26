@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/projects/</link>
+      <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/projects/featured.jpg</url>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+    </image>
+    
+    <item>
+      <title>Cognitive load-based Augmented Reality design for vocational training</title>
+      <link>http://localhost:1313/projects/2_cognitive-load-ar-study/</link>
+      <pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/2_cognitive-load-ar-study/</guid>
+      <description>&lt;p&gt;This research project develops human-centred design principles for Augmented Reality (AR) using cognitive theories, such as cognitive load theory.&lt;/p&gt;
+&lt;h2 id=&#34;problem&#34;&gt;problem&lt;/h2&gt;
+&lt;p&gt;Occupations in crafts and production are characterized by hands-on activities, and the knowledge required for them is difficult to convey through PDFs or traditional classroom instruction. While augmented reality (AR) offers the opportunity to learn directly on the job and through practical examples, many users report experiencing distraction and cognitive overload when using AR systems.&lt;/p&gt;
+&lt;h2 id=&#34;research-questions&#34;&gt;research questions&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;How does visual guidance affect cognitive load in AR environments?&lt;/li&gt;
+&lt;li&gt;What are the optimal design patterns for reducing cognitive load?&lt;/li&gt;
+&lt;li&gt;How can eye-tracking data inform AR interface design?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;key-findings&#34;&gt;key findings&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Visual guidance significantly reduces cognitive load in AR learning tasks&lt;/li&gt;
+&lt;li&gt;Specific design patterns facilitate learning with AR&lt;/li&gt;
+&lt;li&gt;Individual differences in cognitive processing affect AR usability&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;outcome&#34;&gt;outcome&lt;/h2&gt;
+&lt;p&gt;This research contributes to the theoretical understanding of cognitive load in AR environments and provides practical guidelines for designing more effective AR learning systems.&lt;/p&gt;
+&lt;h2 id=&#34;read-more&#34;&gt;read more&lt;/h2&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FACET: Teacher-Centred LLM-Based Multi-Agent Systems</title>
+      <link>http://localhost:1313/projects/1_facet-project/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/1_facet-project/</guid>
+      <description>&lt;p&gt;FACET is a teacher-centred LLM-based multi-agent system that supports teachers in developing personalized educational materials according to student characteristics, such as motivation, self-concept and performance.&lt;/p&gt;
+&lt;h2 id=&#34;problem&#34;&gt;problem&lt;/h2&gt;
+&lt;p&gt;Teachers face increasingly diverse classrooms, yet despite the recognized importance of differentiation, limited time and resources make it difficult to translate personalization into everyday practice.&lt;/p&gt;
+&lt;h2 id=&#34;key-features&#34;&gt;key features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Multi-agent architecture&lt;/strong&gt;: Incorporates multiple agents that simulate both students and the teacher&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Personalization&lt;/strong&gt;: Delivers tailored learning materials based on individual students&amp;rsquo; affective, motivational, and performance-related attributes&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Teacher-centred design&lt;/strong&gt;: Supports teachers through AI-driven assistance while preserving their pedagogical autonomy and authority&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;outcome&#34;&gt;outcome&lt;/h2&gt;
+&lt;p&gt;Together with teachers, we are developing a teacher-centered, LLM-based multi-agent system designed to create AI-generated personalized teaching materials. Our approach goes beyond performance optimization by also taking into account students&amp;rsquo; motivational and affective dimensions, ensuring a more holistic understanding of learning processes.&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

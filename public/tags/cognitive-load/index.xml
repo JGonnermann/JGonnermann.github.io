@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cognitive Load | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/cognitive-load/</link>
+      <atom:link href="http://localhost:1313/tags/cognitive-load/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cognitive Load</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 14 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_982c5d63a71b2961.png</url>
+      <title>Cognitive Load</title>
+      <link>http://localhost:1313/tags/cognitive-load/</link>
+    </image>
+    
+    <item>
+      <title>Cognitive load-based Augmented Reality design for vocational training</title>
+      <link>http://localhost:1313/projects/cognitive-load-ar-study/</link>
+      <pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/cognitive-load-ar-study/</guid>
+      <description>&lt;p&gt;This research project investigates the design of human-centred Augmented Rearlity (AR) for learning. Therefore it used cognitive theories, such as cognitive load theory. The study provides valuable insights into how AR interfaces can be optimized to reduce cognitive load and improve learning outcomes.&lt;/p&gt;
+&lt;h2 id=&#34;research-questions&#34;&gt;research questions&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;How does visual guidance affect cognitive load in AR environments?&lt;/li&gt;
+&lt;li&gt;What are the optimal design patterns for reducing cognitive load?&lt;/li&gt;
+&lt;li&gt;How can eye-tracking data inform AR interface design?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;methodology&#34;&gt;methodology&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Controlled experiments with quantitative and qualitative data assessment&lt;/li&gt;
+&lt;li&gt;Eye-tracking analysis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;key-findings&#34;&gt;key findings&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Visual guidance significantly reduces cognitive load in AR learning tasks&lt;/li&gt;
+&lt;li&gt;Specific design patterns are more effective than others&lt;/li&gt;
+&lt;li&gt;Individual differences in cognitive processing affect AR usability&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;read-more&#34;&gt;read more&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;impact&#34;&gt;impact&lt;/h2&gt;
+&lt;p&gt;This research contributes to the theoretical understanding of cognitive load in AR environments and provides practical guidelines for designing more effective AR learning systems.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

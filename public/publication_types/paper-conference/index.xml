@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paper-Conference | Hugo Academic CV Theme</title>
+    <link>http://localhost:1314/publication_types/paper-conference/</link>
+      <atom:link href="http://localhost:1314/publication_types/paper-conference/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paper-Conference</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1314/media/icon_hu_982c5d63a71b2961.png</url>
+      <title>Paper-Conference</title>
+      <link>http://localhost:1314/publication_types/paper-conference/</link>
+    </image>
+    
+    <item>
+      <title>Let&#39;s Be Realistic: AI-Recommender Use in a Complex Management Setting</title>
+      <link>http://localhost:1314/publications/gonnermannmuller-2025-chi/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1314/publications/gonnermannmuller-2025-chi/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;title:&amp;lsquo;Let&amp;rsquo;s Be Realistic: AI-Recommender Use in a Complex Management Setting&amp;rsquo;&lt;/p&gt;
+&lt;h1 id=&#34;authors&#34;&gt;Authors&lt;/h1&gt;
+&lt;p&gt;authors:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;admin&lt;/li&gt;
+&lt;li&gt;Kristina Sahling&lt;/li&gt;
+&lt;li&gt;Jennifer Haase&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;author-notes-optional&#34;&gt;Author notes (optional)&lt;/h1&gt;
+&lt;p&gt;author_notes: []&lt;/p&gt;
+&lt;p&gt;date: &amp;lsquo;2025-04-25T00:00:00Z&amp;rsquo;&lt;/p&gt;
+&lt;h1 id=&#34;schedule-page-publish-date-not-publications-date&#34;&gt;Schedule page publish date (NOT publication&amp;rsquo;s date).&lt;/h1&gt;
+&lt;p&gt;publishDate: &amp;lsquo;2025-04-25T00:00:00Z&amp;rsquo;&lt;/p&gt;
+&lt;h1 id=&#34;publication-name-and-optional-abbreviated-publication-name&#34;&gt;Publication name and optional abbreviated publication name.&lt;/h1&gt;
+&lt;p&gt;publication: &amp;lsquo;CHI EA &amp;lsquo;25: Proceedings of the Extended Abstracts of the CHI Conference on Human Factors in Computing Systems&amp;rsquo;
+publication_short: &amp;lsquo;CHI EA &amp;lsquo;25&amp;rsquo;&lt;/p&gt;
+&lt;h1 id=&#34;abstract-and-optional-shortened-version-for-computer-screens&#34;&gt;Abstract and optional shortened version for computer screens.&lt;/h1&gt;
+&lt;p&gt;abstract: &amp;lsquo;Labels like &amp;ldquo;AI-powered&amp;rdquo; or &amp;ldquo;Human-Expert&amp;rdquo; activate mental models and shape user decisions. Yet, the transferability of these labels on performance in complex, realistic tasks needs investigation. This study examines how recommender labeling and human factors (mindset, expertise) impact performance in a complex business management scenario. We conducted an online experiment employing a management dashboard, where participants (N = 395) received recommendations labeled as either Artificial Intelligence (AI) or Human-Expert-generated. Unlike previous research, labeling did not significantly influence task performance. Instead, graph literacy and cognitive load were key predictors of performance. Participants with positive attitudes toward AI found recommendations helpful, but their performance did not improve with their use. Expertise seems to be dominant in AI labeling in this context. These findings highlight the interaction between expertise, mindset, and labeling, advocating for further research investigating in which contexts labeling and human factors critically influence performance when using AI recommendations.&amp;rsquo;&lt;/p&gt;
+&lt;h1 id=&#34;summary-an-optional-shortened-abstract-for-the-summary-pages&#34;&gt;Summary. An optional shortened abstract for the summary pages.&lt;/h1&gt;
+&lt;h1 id=&#34;summary-a-systematic-review-of-45-empirical-studies-examining-cognitive-load-in-ar-learning-environments-providing-evidence-based-design-guidelines-for-managing-cognitive-load-in-educational-ar-applications&#34;&gt;summary: &amp;lsquo;A systematic review of 45 empirical studies examining cognitive load in AR learning environments, providing evidence-based design guidelines for managing cognitive load in educational AR applications.&amp;rsquo;&lt;/h1&gt;
+&lt;h1 id=&#34;digital-object-identifier-doi&#34;&gt;Digital Object Identifier (DOI)&lt;/h1&gt;
+&lt;p&gt;doi: &#39;&amp;rsquo;&lt;/p&gt;
+&lt;h1 id=&#34;is-this-a-featured-publication-truefalse&#34;&gt;Is this a featured publication? (true/false)&lt;/h1&gt;
+&lt;p&gt;featured: false&lt;/p&gt;
+&lt;h1 id=&#34;tags-and-keywords&#34;&gt;Tags and keywords&lt;/h1&gt;
+&lt;h1 id=&#34;tags&#34;&gt;tags:&lt;/h1&gt;
+&lt;h1 id=&#34;--augmented-reality&#34;&gt;- Augmented Reality&lt;/h1&gt;
+&lt;h1 id=&#34;--cognitive-load-theory&#34;&gt;- Cognitive Load Theory&lt;/h1&gt;
+&lt;h1 id=&#34;--systematic-literature-review&#34;&gt;- Systematic Literature Review&lt;/h1&gt;
+&lt;h1 id=&#34;--educational-technology&#34;&gt;- Educational Technology&lt;/h1&gt;
+&lt;h1 id=&#34;--learning-design&#34;&gt;- Learning Design&lt;/h1&gt;
+&lt;h1 id=&#34;links-optional&#34;&gt;Links (optional).&lt;/h1&gt;
+&lt;h1 id=&#34;url_pdf-&#34;&gt;url_pdf: &amp;lsquo;
+&lt;/h1&gt;
+&lt;p&gt;url_preprint: &amp;rsquo;&amp;rsquo;
+url_code: &amp;rsquo;&amp;rsquo;
+url_dataset: &amp;rsquo;&#39;
+url_poster: &amp;rsquo;&#39;
+url_project: &amp;rsquo;&#39;
+url_slides: &amp;rsquo;&#39;
+url_video: &amp;rsquo;&#39;
+url_source: &#39;&#39;&lt;/p&gt;
+&lt;h1 id=&#34;custom-links-optional&#34;&gt;Custom links (optional).&lt;/h1&gt;
+&lt;h1 id=&#34;links&#34;&gt;links:&lt;/h1&gt;
+&lt;h1 id=&#34;--name-wiley-online-library&#34;&gt;- name: &amp;ldquo;Wiley Online Library&amp;rdquo;&lt;/h1&gt;
+&lt;h1 id=&#34;url-&#34;&gt;url: &amp;ldquo;
+&lt;/h1&gt;
+&lt;h1 id=&#34;does-this-page-contain-latex-math-truefalse&#34;&gt;Does this page contain LaTeX math? (true/false)&lt;/h1&gt;
+&lt;p&gt;math: false&lt;/p&gt;
+&lt;h1 id=&#34;does-this-page-require-source-code-highlighting-truefalse&#34;&gt;Does this page require source code highlighting? (true/false)&lt;/h1&gt;
+&lt;p&gt;highlight: false&lt;/p&gt;
+&lt;h1 id=&#34;featured-image&#34;&gt;Featured image&lt;/h1&gt;
+&lt;h1 id=&#34;image&#34;&gt;image:&lt;/h1&gt;
+&lt;h1 id=&#34;caption-systematic-literature-review-on-ar-learning-design-and-cognitive-load&#34;&gt;caption: &amp;lsquo;Systematic literature review on AR learning design and cognitive load&amp;rsquo;&lt;/h1&gt;
+&lt;h1 id=&#34;focal_point-&#34;&gt;focal_point: &#39;&#39;&lt;/h1&gt;
+&lt;h1 id=&#34;preview_only-false&#34;&gt;preview_only: false&lt;/h1&gt;
+&lt;h1 id=&#34;associated-projects-optional&#34;&gt;Associated Projects (optional).&lt;/h1&gt;
+&lt;p&gt;projects: []&lt;/p&gt;
+&lt;h1 id=&#34;slides-optional&#34;&gt;Slides (optional).&lt;/h1&gt;
+&lt;p&gt;slides: &#39;&#39;&lt;/p&gt;
+&lt;h1 id=&#34;alias-to-produce-this-page-from-a-markdown-file-in-_indexmd&#34;&gt;Alias to produce this page from a markdown file in &lt;code&gt;_index.md&lt;/code&gt;&lt;/h1&gt;
+&lt;p&gt;aliases: []&lt;/p&gt;
+&lt;p&gt;tag: [&amp;ldquo;journal&amp;rdquo;]&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Specifying ten roles of using ChatGPT in secondary education: a teacher’s perspective</title>
+      <link>http://localhost:1314/publications/schummel-2025-ecis/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1314/publications/schummel-2025-ecis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
