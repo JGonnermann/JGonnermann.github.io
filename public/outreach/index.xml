@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Outreach &amp; Talks | Hugo Academic CV Theme</title>
-    <link>http://localhost:1313/outreach/</link>
-      <atom:link href="http://localhost:1313/outreach/index.xml" rel="self" type="application/rss+xml" />
-    <description>Outreach &amp; Talks</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_982c5d63a71b2961.png</url>
-      <title>Outreach &amp; Talks</title>
-      <link>http://localhost:1313/outreach/</link>
-    </image>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Outreach &amp; Talks | Hugo Academic CV Theme</title><link>https://example.com/outreach/</link><atom:link href="https://example.com/outreach/index.xml" rel="self" type="application/rss+xml"/><description>Outreach &amp; Talks</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate><image><url>https://example.com/media/icon_hu_982c5d63a71b2961.png</url><title>Outreach &amp; Talks</title><link>https://example.com/outreach/</link></image></channel></rss>
