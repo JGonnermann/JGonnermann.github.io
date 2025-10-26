@@ -89,7 +89,7 @@ jobs:
         hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
 
     - name: Add custom domain
-      run: echo "janagonnermann.com" > ./public/CNAME
+      run: echo "jana.gonnermann.com" > ./public/CNAME
 
     - name: Generate Pagefind search index (if applicable)
       run: |
