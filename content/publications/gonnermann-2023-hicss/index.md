@@ -33,7 +33,7 @@ featured: true
 
 
 # Links (optional).
-url_pdf: 'https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/0dcce41d-ed68-4267-9f88-7420b94a9a71/content'
+url_pdf: 'https://aisel.aisnet.org/hicss-56/cl/teaching_and_learning_technologies/14/'
 url_preprint: ''
 url_code: ''
 url_dataset: ''
@@ -52,10 +52,10 @@ highlight: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Comparison of head-mounted and handheld AR for assembly tasks'
-  focal_point: ''
-  preview_only: false
+#image:
+#  caption: 'Comparison of head-mounted and handheld AR for assembly tasks'
+#  focal_point: ''
+ # preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

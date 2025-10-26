@@ -53,9 +53,9 @@ url_source: ''
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form: [{name: "Demo", url: "http://example.org"}]
-links:
-  - name: "Springer Link"
-    url: "https://link.springer.com/article/10.1007/s12193-024-00440-1"
+#links:
+#  - name: "Springer Link"
+#    url: "https://link.springer.com/article/10.1007/s12193-024-00440-1"
 
 # Does this page contain LaTeX math? (true/false)
 math: false

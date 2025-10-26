@@ -62,10 +62,10 @@ math: false
 highlight: false
 
 # Featured image
-image:
-caption: 'Lets Be Realistic: AI-Recommender Use in a Complex Management Setting'
-focal_point: ''
-preview_only: false
+#image:
+#caption: 'Lets Be Realistic: AI-Recommender Use in a Complex Management Setting'
+#focal_point: ''
+#preview_only: false
 
 # Associated Projects (optional).
 projects: []

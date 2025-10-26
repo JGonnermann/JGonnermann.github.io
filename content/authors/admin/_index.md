@@ -7,7 +7,7 @@ name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Jana
-last_name: Gonnermann-Müller
+last_name: Gonnermann
 
 # Pronouns (optional)
 pronouns: ''
@@ -115,16 +115,15 @@ work:
     summary: |
 ---
 
-I am a postdoctoral researcher at [Zuse Institute Berlin](https://www.zib.de/) in the [IOL Lab of Sebastian Pokutta](https://iol.zib.de/), responsible for ['Humans and AI'](https://iol.zib.de/research/iol-human.html).
+I am a postdoctoral researcher at [Zuse Institute Berlin](https://www.zib.de/) working in the [IOL Lab led by Sebastian Pokutta](https://iol.zib.de/). Within this context, I am responsible for the research area ['Humans and AI'](https://iol.zib.de/research/iol-human.html).
 
-My work explores how agentic AI, machine learning, and human-centered design can be integrated to develop adaptive, personalized systems that support learning, decision-making, and broader societal impact.
+My work investigates how agentic AI, machine learning, and human-centered AI design can be integrated to create adaptive and personalized systems that support education, learning, and decision-making, ultimately contributing to positive societal impact.
 
-My research focuses on LLM-based educational tools and agentic simulations, using experimental methods to evaluate AI technologies in collaboration with schools and industry partners. I am particularly interested in socially-aware AI and applications of AI in AR/VR environments for educational purposes.
+My research focuses on the development and evaluation of large language model (LLM)-based educational tools and agentic simulations. Using experimental approaches, I collaborate with schools and industry partners to assess the potential and requirements of AI technologies in authentic educational settings. I am particularly interested in socially-aware AI and the application of AI in augmented and virtual reality (AR/VR) environments to enhance learning experiences.
 
 <div class="news-light-blue">
-  Interested in pursuing research at the intersection of human-centred AI, education, and system design? 
   
-  [apply here →](https://iol.zib.de/join)
+  Interested in pursuing research at the intersection of human-centred AI, education, and system design? [apply here](https://iol.zib.de/join)
 </div>
 
 

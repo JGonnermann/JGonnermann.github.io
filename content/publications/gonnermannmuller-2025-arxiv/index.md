@@ -41,8 +41,8 @@ featured: true
 #  - Learning Design
 
 # Links (optional).
-url_pdf: 'https://arxiv.org/abs/2508.11401'
-url_preprint: ''
+url_pdf: ''
+url_preprint: 'https://arxiv.org/abs/2508.11401'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -63,10 +63,10 @@ math: false
 highlight: false
 
 # Featured image
-image:
-caption: 'Systematic literature review on AR learning design and cognitive load'
-focal_point: ''
-preview_only: false
+#image:
+#caption: 'Systematic literature review on AR learning design and cognitive load'
+#focal_point: ''
+#preview_only: false
 
 # Associated Projects (optional).
 projects: []

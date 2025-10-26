@@ -40,7 +40,7 @@ featured: false
 #  - Learning Design
 
 # Links (optional).
-# url_pdf: 'https://onlinelibrary.wiley.com/doi/pdf/10.1111/jcal.13095'
+url_pdf: 'https://onlinelibrary.wiley.com/doi/pdf/10.1111/jcal.13095'
 url_preprint: ''
 url_code: ''
 url_dataset: ''
@@ -53,7 +53,7 @@ url_source: ''
 # Custom links (optional).
 links:
   - name: "Wiley Online Library"
-    url: "https://onlinelibrary.wiley.com/doi/pdf/10.1111/jcal.13095"
+    url: "https://onlinelibrary.wiley.com/doi/10.1111/jcal.13095"
 
 # Does this page contain LaTeX math? (true/false)
 math: false

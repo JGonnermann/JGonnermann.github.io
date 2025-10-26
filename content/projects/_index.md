@@ -21,20 +21,20 @@ sections:
             <p class="project-subtitle">AI for Education</p>
             <p><strong>problem:</strong></p>
             <ul>
-            <p>Teachers face increasingly diverse classrooms, yet despite the recognized importance of differentiation, limited time and resources make it difficult to translate personalization into everyday practice</p>
+            <p>Teachers face increasingly diverse classrooms, yet despite the recognized importance of differentiation, limited time and resources make it difficult to translate personalization into everyday practice.</p>
             </ul>
-            <p>FACET is a teacher-centred LLM-based multi-agent system that supports teachers in developing personalized educational materials according to student characteristics, such as motivation, self-concept and performance</p>
+            <p>FACET is a teacher-centred LLM-based multi-agent system that supports teachers in developing personalized educational materials according to student characteristics, such as motivation, self-concept and performance.</p>
             <p><strong>key features:</strong></p>
             <ul>
-              <li>Multi-agent architecture: Different agents simulating students and teacher</li>
-              <li>Personalization: Personalized materials based on individual student affective and motivational attributes and performance</li>
-              <li>Teacher-centred design: Empowers teachers with AI assistance while maintaining pedagogical control</li>
+              <li>Multi-agent architecture: Incorporates multiple agents that simulate both students and the teacher</li>
+              <li>Personalization: Delivers tailored learning materials based on individual students’ affective, motivational, and performance-related attributes</li>
+              <li>Teacher-centred design: Supports teachers through AI-driven assistance while preserving their pedagogical autonomy and authority</li>
             </ul>
             <p><strong>outcome:</strong></p>
             <ul>
-              <li>Together with teachers, we develop a teacher-centred LLM-based multi-agent system to develop AI-based personalized teaching materials. Therefore, we do not only focus on performance, but also consider the motivational and affective aspects of students</li>
+            -> Together with teachers, we are developing a teacher-centered, LLM-based multi-agent system designed to create AI-generated personalized teaching materials. Our approach goes beyond performance optimization by also taking into account students’ motivational and affective dimensions, ensuring a more holistic understanding of learning processes.
             </ul>
-            <p><a href="https://arxiv.org/abs/2508.11401" target="_blank">Read the preprint →</a></p>
+            <p><a href="https://arxiv.org/abs/2508.11401" target="_blank">read more about the FACET framework →</a></p>
           </div>
         </div>
 
@@ -46,11 +46,11 @@ sections:
             <img src="/images/projects/cognitive-load-study.jpg" alt="Cognitive Load AR Study" />
           </div>
           <div class="project-content">
-            <h3 class="project-title">Cognitive Load-based Augmented Reality Design for vocational training</h3>
-            <p class="project-subtitle">Augmented Reality design</p>
+            <h3 class="project-title">Cognitive load-based Augmented Reality design for vocational training</h3>
+            <p class="project-subtitle">AR design</p>
             <p><strong>problem:</strong></p>
             <ul>
-            <p>Occupations in crafts and production are characterized by hands-on activities, and the knowledge required for them is difficult to convey through PDFs or traditional classroom instruction. While augmented reality (AR) offers the opportunity to learn directly on the job and through practical examples, many users report experiencing distraction and cognitive overload when using AR systems</p>
+            <p>Occupations in crafts and production are characterized by hands-on activities, and the knowledge required for them is difficult to convey through PDFs or traditional classroom instruction. While augmented reality (AR) offers the opportunity to learn directly on the job and through practical examples, many users report experiencing distraction and cognitive overload when using AR systems.</p>
             </ul>
             <p>This research project develops human-centred design principles for Augmented Reality (AR) using cognitive theories, such as cognitive load theory</p>
             <p><strong>research questions:</strong></p>
@@ -62,14 +62,14 @@ sections:
             <p><strong>key findings:</strong></p>
             <ul>
               <li>Visual guidance significantly reduces cognitive load in AR learning tasks</li>
-              <li>Specific design patterns are more effective than others</li>
+              <li>Specific design patterns facilitate learning with AR</li>
               <li>Individual differences in cognitive processing affect AR usability</li>
             </ul>
             <p><strong>outcome:</strong></p>
             <ul>
-              <li>This research contributes to the theoretical understanding of cognitive load in AR environments and provides practical guidelines for designing more effective AR learning systems</li>
+            -> This research contributes to the theoretical understanding of cognitive load in AR environments and provides practical guidelines for designing more effective AR learning systems.
             </ul>
-            <p><a href="https://aisel.aisnet.org/icis2024/" target="_blank">ICIS 2024 Paper →</a> | <a href="https://onlinelibrary.wiley.com/doi/10.1111/jcal.13095" target="_blank">JCAL Paper →</a></p>
+            <p><a href="https://aisel.aisnet.org/icis2024/" target="_blank">Paper on visual guidance →</a> | <a href="https://onlinelibrary.wiley.com/doi/10.1111/jcal.13095" target="_blank">Paper on AR-specific design guidelines →</a></p>
           </div>
         </div>
 ---

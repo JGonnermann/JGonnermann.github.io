@@ -31,7 +31,7 @@ featured: true
 
 
 # Links (optional).
-url_pdf: 'https://www.researchgate.net/profile/Jana-Gonnermann-Mueller/publication/370706111_Influence_of_Pre-Experience_on_Learning_Usability_and_Cognitive_Load_in_a_Virtual_Learning_Environment/links/64d9f3cb66f0e0067d96b1ed/Influence-of-Pre-Experience-on-Learning-Usability-and-Cognitive-Load-in-a-Virtual-Learning-Environment.pdf'
+url_pdf: 'https://aisel.aisnet.org/amcis2023/sig_ed/sig_ed/25/'
 url_preprint: ''
 url_code: ''
 url_dataset: ''

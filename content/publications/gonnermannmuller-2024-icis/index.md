@@ -34,7 +34,7 @@ featured: true
 
 
 # Links (optional).
-url_pdf: 'https://www.researchgate.net/profile/Jana-Gonnermann-Mueller/publication/385903199_Value_by_Design_Reducing_Cognitive_Load_by_Using_Visual_Guidance_in_Augmented_Reality_An_Eye-Tracking_Study/links/673b0b5537496239b2c8d9ea/Value-by-Design-Reducing-Cognitive-Load-by-Using-Visual-Guidance-in-Augmented-Reality-An-Eye-Tracking-Study.pdf'
+url_pdf: 'https://aisel.aisnet.org/icis2024/humtechinter/humtechinter/18/'
 url_preprint: ''
 url_code: ''
 url_dataset: ''
@@ -53,10 +53,10 @@ highlight: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Comparison of head-mounted and handheld AR for assembly tasks'
-  focal_point: ''
-  preview_only: false
+#image:
+#  caption: 'Comparison of head-mounted and handheld AR for assembly tasks'
+#  focal_point: ''
+#  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
