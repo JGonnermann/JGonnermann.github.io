@@ -8,6 +8,15 @@ title: Jana Gonnermann
 # Website URL
 baseURL: 'https://www.janagonnermann.com/'
 
+# SEO Meta Tags
+metaData:
+  - property: 'description'
+    content: 'Research Area Lead for Humans and AI at Zuse Institute Berlin. Expert in agentic AI, machine learning, augmented reality, and human-centered design for adaptive learning systems.'
+  - property: 'keywords'
+    content: 'Jana Gonnermann, AI, Machine Learning, Augmented Reality, Human-Computer Interaction, Adaptive Learning, Research, Zuse Institute Berlin, Agentic AI, Cognitive Load, Educational Technology'
+  - property: 'author'
+    content: 'Jana Gonnermann'
+
 ############################
 ## LANGUAGE
 ############################

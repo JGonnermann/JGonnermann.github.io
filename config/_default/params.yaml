@@ -14,8 +14,9 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: 'Zuse Institute Berlin'
-    description: 'Jana Gonnermann - Research Area Lead for Humans and AI at Zuse Institute Berlin. Exploring agentic AI, machine learning, and human-centered design for adaptive learning systems.'
+    description: 'Jana Gonnermann - Research Area Lead for Humans and AI at Zuse Institute Berlin. Exploring agentic AI, machine learning, augmented reality, and human-centered design for adaptive learning systems.'
     twitter: ''
+    image: 'images/uploads/avatar.png'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
