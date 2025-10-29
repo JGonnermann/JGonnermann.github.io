@@ -32,15 +32,15 @@ sections:
         
         **IHK** - AR-Kompass - Zukunftsfähige, immersive Aus- und Weiterbildung für KMU  
         *Berlin, Germany*  
-        2024
+        June 1, 2024
         
         **Landtag Brandenburg** - AR-Kompass - Zukunftsfähige, immersive Aus- und Weiterbildung für KMU  
         *Potsdam, Germany*  
-        2024
+        March 26. 2025
         
         **NHR Conference 2025** - AR-Kompass - Zukunftsfähige, immersive Aus- und Weiterbildung für KMU  
         *Göttingen, Germany*  
-        April 1, 2025
+        September 22, 2025
         
         **WFBB** - AR-Kompass - Zukunftsfähige, immersive Aus- und Weiterbildung für KMU  
         *Potsdam, Germany*  
