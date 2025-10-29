@@ -1,5 +1,5 @@
 ---
-title: "FACET: Teacher-Centred LLM-Based Multi-Agent Systems"
+title: "FACET: Framework for Agent-based Classroom Enhancement for Teacher"
 date: 2025-08-01
 featured: true
 #tags: ["AI", "Education", "LLM", "Multi-Agent Systems"]
@@ -28,3 +28,5 @@ Together with teachers, we are developing a teacher-centered, LLM-based multi-ag
 [read more about the FACET framework](https://arxiv.org/abs/2508.11401) 
 
 [interestedt in co-creating the AI tool? ](mailto:gonnermann-mueller@zib.de)
+
+*This research is part of our ongoing work in the 'Humans and AI' research area at Zuse Institute Berlin.*

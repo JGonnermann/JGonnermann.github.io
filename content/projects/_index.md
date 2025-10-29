@@ -25,7 +25,7 @@ sections:
         folders:
           - projects
         exclude_featured: false
-      order: desc
+      order: asc
     design:
       view: card
       show_date: true

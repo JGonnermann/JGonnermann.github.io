@@ -1,6 +1,6 @@
 ---
 title: "Cognitive load-based Augmented Reality design for vocational training"
-date: 2025-09-14 
+date: 2023-07-01 
 featured: true
 #tags: ["Augmented Reality", "Cognitive Load", "Eye-Tracking", "Human-Computer Interaction"]
 image:
