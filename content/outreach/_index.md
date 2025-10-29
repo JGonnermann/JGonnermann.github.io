@@ -14,7 +14,7 @@ sections:
       title: 'upcoming talks'
       subtitle: ''
       text: |-
-        **KI-Fachtag der Schulen** - Mit KI personalisierte Mathe-Unterrichtsmaterialien entwerfen-Ein Workshop zum Testen eines Prototyps, zum gemeinsamen Austausch und Feedback.  
+        **KI-Fachtag der Schulen** - Designing Personalized Math Teaching Materials with AI - A workshop to test a prototype, exchange ideas, and provide feedback. 
         *Berlin, Germany*  
         November 26th, 2025
     design:
@@ -26,23 +26,23 @@ sections:
       title: 'invited talks & workshops'
       subtitle: ''
       text: |-               
-        **NHR Conference 2025** - AR-Kompass - Zukunftsfähige, immersive Aus- und Weiterbildung für KMU  
+        **NHR Conference 2025** - Simulating Student Diversity in Classrooms: Using Multi-Agent Systems to Generate Personalized Learning Material  
         *Göttingen, Germany*  
         September 22th, 2025
         
-        **Landtag Brandenburg** - AR-Kompass - Zukunftsfähige, immersive Aus- und Weiterbildung für KMU  
+        **Landtag Brandenburg** - Education for the digital world 
         *Potsdam, Germany*  
         March 26th, 2025
                        
-        **WFBB** - AR-Kompass - Zukunftsfähige, immersive Aus- und Weiterbildung für KMU  
+        **Economic Development Agency Berlin Brandenburg (WFBB)** - AR Compass: Future-Oriented, Immersive Training and Education for SMEs  
         *Potsdam, Germany*  
         April 1st, 2025
         
-        **IHK** - AR-Kompass - Zukunftsfähige, immersive Aus- und Weiterbildung für KMU  
+        **Chamber of Industry and Commerce (IHK Berlin)** - AR Compass: Future-Oriented, Immersive Training and Education for SMEs 
         *Berlin, Germany*  
         June 1st, 2024
 
-        **BASF** - Einsatz von Augmented Reality - Nutzerzentrierte Gestaltungsmöglichkeiten  
+        **BASF** - The Use of Augmented Reality: User-Centered Design Opportunities  
         *Ludwigshafen, Germany*  
         October 1st, 2023
     design:
