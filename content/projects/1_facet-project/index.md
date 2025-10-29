@@ -1,6 +1,7 @@
 ---
 title: "FACET: Framework for Agent-based Classroom Enhancement for Teacher"
 date: 2025-08-01
+weight: 1
 featured: true
 #tags: ["AI", "Education", "LLM", "Multi-Agent Systems"]
 image:
