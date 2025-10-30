@@ -4,13 +4,12 @@ date: 2025-01-20
 type: page
 ---
 
-## Privacy Policy / Datenschutzerklärung
-
 ### Overview
 This website (https://www.janagonnermann.com) is operated by Jana Gonnermann-Müller as a personal, non-commercial academic homepage. This Privacy Policy explains what personal data is collected, how it is used, and your rights under the GDPR.
 
 ### Data Controller
-Jana Gonnermann-MüllerEmail: gonnermann-mueller@zib.de
+Jana Gonnermann-Müller
+Email: gonnermann-mueller@zib.de
 
 ### Emails
 If you contact me via email, your message and contact data will be stored to process your inquiry. No data are shared with third parties unless required by law.

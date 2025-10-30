@@ -4,8 +4,6 @@ date: 2025-01-20
 type: page
 ---
 
-## Impressum / Legal Notice
-
 **Name:** Jana Gonnermann-Müller
 
 **Affiliation:** Zuse Institute Berlin (ZIB)
