@@ -694,7 +694,7 @@ body[data-page-type="landing"] .prose.max-w-prose {
 /* Unified formatting for all text elements */
 /* Consistent font family for all text */
 body {
-  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif !important;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif !important;
 }
 
 /* Unified title formatting - Standardized sizes */
@@ -703,7 +703,7 @@ h1, h2, h3, h4, h5, h6,
 .section-title,
 .page-title,
 .mb-6.text-3xl.font-bold {
-  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif !important;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif !important;
   font-weight: 600 !important;
   line-height: 1.3 !important;
   margin-bottom: 1rem !important;
@@ -729,7 +729,7 @@ h6 { font-size: 1rem !important; } /* 16px */
 /* Unified subtitle formatting - Standardized */
 .subtitle,
 .hbx-section-subtitle {
-  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif !important;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif !important;
   font-size: 1.25rem !important; /* 20px - consistent with h4 */
   font-weight: 500 !important;
   line-height: 1.4 !important;
@@ -739,7 +739,7 @@ h6 { font-size: 1rem !important; } /* 16px */
 
 /* Unified text formatting - Standardized */
 p, .text, .prose p, .prose {
-  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif !important;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif !important;
   font-size: 1rem !important; /* 16px - standardized */
   font-weight: 400 !important;
   line-height: 1.6 !important;
@@ -1002,7 +1002,7 @@ body[data-page-type="landing"] .about-page h6 {
 
 /* Project title styling - Consistent with main formatting */
 .projects-page .group h3 {
-  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif !important;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif !important;
   font-size: 1.5rem !important; /* Consistent with h3 */
   font-weight: 600 !important;
   color: #2c3e50 !important;
@@ -1012,7 +1012,7 @@ body[data-page-type="landing"] .about-page h6 {
 
 /* Project text styling - Consistent with main formatting */
 .projects-page .group p {
-  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif !important;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif !important;
   font-size: 1rem !important; /* Consistent with body text */
   font-weight: 400 !important;
   color: #555 !important;
@@ -1031,7 +1031,7 @@ body[data-page-type="landing"] .about-page h6 {
 
 /* Projects page title styling */
 .projects-page .hbx-section-title {
-  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif !important;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif !important;
   font-size: 2.5rem !important;
   font-weight: 700 !important;
   color: #2c3e50 !important;
@@ -1118,7 +1118,7 @@ body[data-page-type="landing"] .about-page h6 {
   font-size: 1.5rem; /* Consistent with h3 */
   font-weight: 600; /* Consistent with main headings */
   line-height: 1.3;
-  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
 }
 
 .project-subtitle {
@@ -1128,7 +1128,7 @@ body[data-page-type="landing"] .about-page h6 {
   font-size: 1.25rem; /* Consistent with h4/subtitle */
   font-weight: 500; /* Consistent with subtitles */
   font-style: italic;
-  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
 }
 
 .project-content p {
@@ -1212,4 +1212,19 @@ body[data-page-type="landing"] .about-page h6 {
   .page-wrapper .group .p-8.space-y-4 {
     padding: 1rem !important;
   }
+}
+
+/* Replace Inter font with system fonts globally */
+@font-face {
+  font-family: 'Inter';
+  src: local('-apple-system'), local('BlinkMacSystemFont'), local('Segoe UI'), local('system-ui');
+}
+
+* {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, 'Helvetica Neue', Arial, sans-serif !important;
+}
+
+body,
+html {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, 'Helvetica Neue', Arial, sans-serif !important;
 }
