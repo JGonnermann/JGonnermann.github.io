@@ -1,0 +1,82 @@
+# Privacy Policy / Datenschutzerklärung Configuration
+# This file contains all privacy policy information
+
+privacy:
+  # Basic Information
+  title: "Privacy Policy"
+  effective_date: "2025-01-20"
+  
+  # Data Controller
+  controller:
+    name: "Jana Gonnermann-Müller"
+    organization: "Zuse Institute Berlin"
+    email: "gonnermann-mueller@zib.de"
+    address:
+      street: "Takustraße 7"
+      city: "Berlin"
+      postal_code: "14195"
+      country: "Germany"
+  
+  # Data Collection
+  data_collection:
+    website_cookies: false
+    analytics: false
+    tracking: false
+    personal_data: false
+    newsletter: false
+    contact_forms: false
+  
+  # Server Logs
+  server_logs:
+    collected: true
+    description: |
+      Like most websites, the hosting provider (GitHub Pages) may collect standard server logs including:
+      - IP addresses
+      - Access times
+      - Requested pages
+      - Referrer information
+    managed_by: "GitHub Pages"
+    policy_link: "https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#data-collection"
+  
+  # Third Party Services
+  third_party:
+    - name: "GitHub Pages"
+      purpose: "Website hosting"
+      data_collected: "Standard server logs"
+      policy: "https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement"
+    
+    # Add more third-party services here if needed
+    # - name: "Service Name"
+    #   purpose: "Purpose"
+    #   data_collected: "What data"
+    #   policy: "Link to privacy policy"
+  
+  # User Rights
+  user_rights:
+    access: true
+    rectification: true
+    erasure: true
+    data_portability: true
+    object_to_processing: true
+  
+  # Contact for Privacy Concerns
+  privacy_contact:
+    email: "gonnermann-mueller@zib.de"
+    description: "If you have any questions about this privacy policy, please contact us via email."
+  
+  # Policy Updates
+  updates:
+    description: "This privacy policy may be updated from time to time."
+    notification: false  # Set to true if you notify users of updates
+  
+  # Compliance
+  compliance:
+    gdpr: true
+    applicable_law: "European GDPR and German data protection laws"
+  
+  # Additional Notes
+  notes: |
+    This website is designed to be privacy-friendly and collects minimal data. 
+    No user tracking or analytics are performed.
+    No cookies are set by this website.
+
