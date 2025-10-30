@@ -18,11 +18,11 @@ Takustraße 7
 14195 Berlin  
 Germany
 
-## Liability for Content
+###Responsibility for Content
+Content on this site has been prepared with the greatest care. Nevertheless, I cannot guarantee that it is accurate, complete, or up to date. As the service provider, I am responsible for my own content pursuant to § 7 (1) TMG. According to §§ 8–10 TMG, I am not obligated to monitor transmitted or stored third-party information or to investigate circumstances that may indicate unlawful activity.
 
-The contents of our pages have been created with the utmost care. However, we cannot guarantee the contents’ accuracy, completeness, or topicality. As service providers, we are liable for our content on these pages in accordance with applicable law.
+###Liability for Links
+This website includes links to external websites operated by third parties, over whose content I have no control. Therefore, I assume no liability for such external content. The respective provider or operator of the linked pages is solely responsible for their content.
 
-## Liability for Links
-
-Our offer contains links to external websites. We have no influence on the contents of these websites; therefore we cannot guarantee for these contents. The providers or administrators of linked websites are always responsible for their own contents.
-
+###Copyright Notice
+All content on this website, including text, images, and other materials, is protected by German copyright law. Any form of reproduction, modification, distribution, or usage beyond what is permitted by copyright legislation requires prior written authorization from the respective rights holder.
