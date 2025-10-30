@@ -1,0 +1,26 @@
+<div class="custom-footer">
+  <footer class="container mx-auto flex flex-col justify-items-center text-sm leading-6 mt-12 mb-8 text-slate-700 dark:text-slate-300">
+    <div class="text-center space-y-2">
+      <!-- Copyright -->
+      <p class="text-sm">© {{ now.Year }} Jana Gonnermann.</p>
+      
+      <!-- Legal Links -->
+      <div class="flex justify-center space-x-4 text-sm">
+        <a href="/legal" class="hover:underline">Legal Notice</a>
+        <span>|</span>
+        <a href="/privacy" class="hover:underline">Privacy Notice</a>
+      </div>
+      
+      <!-- Build Information -->
+      <p class="text-xs text-slate-500 dark:text-slate-400">
+        Build: {{ now.Format "Jan 2, 2006" }} | 
+        {{ if .GitInfo }}
+          Last modified: {{ .GitInfo.AuthorDate.Format "Jan 2, 2006" }}
+        {{ else }}
+          Last modified: {{ now.Format "Jan 2, 2006" }}
+        {{ end }}
+      </p>
+    </div>
+  </footer>
+</div>
+

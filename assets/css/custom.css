@@ -664,24 +664,24 @@ footer a[target="_blank"][rel="noopener"] {
   display: none !important;
 }
 
-/* Hide the entire footer if it contains Hugo Blox branding */
-footer:has(a[href*="hugoblox.com"]) {
-  display: none !important;
+/* Customize footer - show it but hide branding elements */
+.page-footer footer {
+  padding: 1.5rem 0 !important;
 }
 
-/* Alternative: Hide footer text containing "Made with" */
-footer:has-text("Made with") {
-  display: none !important;
+.page-footer p {
+  margin: 0.25rem 0 !important;
 }
 
-/* Hide the entire page footer if it contains Hugo Blox branding */
-.page-footer {
-  display: none !important;
+/* Build info styling */
+.page-footer .build-info {
+  font-size: 0.75rem !important;
+  color: #6b7280 !important;
+  margin-top: 0.5rem !important;
 }
 
-/* Alternative: Hide footer container */
-footer.container.mx-auto.flex.flex-col.justify-items-center {
-  display: none !important;
+.dark .page-footer .build-info {
+  color: #9ca3af !important;
 }
 
 /* Outreach page width adjustment to match publications page */
