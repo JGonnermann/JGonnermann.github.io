@@ -36,14 +36,12 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Jana Gonnermann.'
+    notice: '© {year} Jana Gonnermann-Müller'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: false
       allow_commercial: false
-    legal: '/legal'
-    privacy: '/privacy'
 
 # Localization
 locale:
