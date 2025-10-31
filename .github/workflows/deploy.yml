@@ -93,6 +93,9 @@ jobs:
     - name: Add custom domain
       run: echo "www.janagonnermann.com" > ./public/CNAME
 
+    - name: Inject footer script
+      run: node scripts/inject-footer.js
+
     - name: Generate Pagefind search index (if applicable)
       run: |
         # Check if site uses Pagefind search
