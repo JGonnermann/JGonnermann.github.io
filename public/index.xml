@@ -1,124 +1,70 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Jana Gonnermann</title>
-    <link>http://localhost:1313/</link>
-      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <description>Jana Gonnermann</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_982c5d63a71b2961.png</url>
-      <title>Jana Gonnermann</title>
-      <link>http://localhost:1313/</link>
-    </image>
-    
-    <item>
-      <title>Simulating Student Diversity in Classrooms-Using Multi-Agent Systems to Generate Personalized Learning Material</title>
-      <link>http://localhost:1313/talks/nhr-conference-2025/</link>
-      <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talks/nhr-conference-2025/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>FACET: Teacher-Centred LLM-Based Multi-Agent System—Towards Personalized Educational Worksheets</title>
-      <link>http://localhost:1313/publications/gonnermannmuller-2025-arxiv/</link>
-      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/gonnermannmuller-2025-arxiv/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>FACET: Framework for Agent-based Classroom Enhancement for Teacher</title>
-      <link>http://localhost:1313/projects/1_facet-project/</link>
-      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/1_facet-project/</guid>
-      <description>&lt;p&gt;FACET is a teacher-centred LLM-based multi-agent system that supports teachers in developing personalized educational materials according to student characteristics, such as motivation, self-concept and performance.&lt;/p&gt;
-&lt;h2 id=&#34;problem&#34;&gt;problem&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Jana Gonnermann</title><link>https://www.janagonnermann.com/</link><atom:link href="https://www.janagonnermann.com/index.xml" rel="self" type="application/rss+xml"/><description>Jana Gonnermann</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate><image><url>https://www.janagonnermann.com/media/icon_hu_982c5d63a71b2961.png</url><title>Jana Gonnermann</title><link>https://www.janagonnermann.com/</link></image><item><title>Simulating Student Diversity in Classrooms-Using Multi-Agent Systems to Generate Personalized Learning Material</title><link>https://www.janagonnermann.com/talks/nhr-conference-2025/</link><pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.janagonnermann.com/talks/nhr-conference-2025/</guid><description/></item><item><title>FACET: Teacher-Centred LLM-Based Multi-Agent System—Towards Personalized Educational Worksheets</title><link>https://www.janagonnermann.com/publications/gonnermannmuller-2025-arxiv/</link><pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate><guid>https://www.janagonnermann.com/publications/gonnermannmuller-2025-arxiv/</guid><description/></item><item><title>FACET: Framework for Agent-based Classroom Enhancement for Teacher</title><link>https://www.janagonnermann.com/projects/1_facet-project/</link><pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate><guid>https://www.janagonnermann.com/projects/1_facet-project/</guid><description>&lt;p&gt;FACET is a teacher-centred LLM-based multi-agent system that supports teachers in developing personalized educational materials according to student characteristics, such as motivation, self-concept and performance.&lt;/p&gt;
+&lt;h2 id="problem"&gt;problem&lt;/h2&gt;
 &lt;p&gt;Teachers face increasingly diverse classrooms, yet despite the recognized importance of differentiation, limited time and resources make it difficult to translate personalization into everyday practice.&lt;/p&gt;
-&lt;h2 id=&#34;key-features&#34;&gt;key features&lt;/h2&gt;
+&lt;h2 id="key-features"&gt;key features&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Multi-agent architecture&lt;/strong&gt;: Incorporates multiple agents that simulate both students and the teacher&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Personalization&lt;/strong&gt;: Delivers tailored learning materials based on individual students&amp;rsquo; affective, motivational, and performance-related attributes&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Teacher-centred design&lt;/strong&gt;: Supports teachers through AI-driven assistance while preserving their pedagogical autonomy and authority&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;outcome&#34;&gt;outcome&lt;/h2&gt;
+&lt;h2 id="outcome"&gt;outcome&lt;/h2&gt;
 &lt;p&gt;Together with teachers, we are developing a teacher-centered, LLM-based multi-agent system designed to create AI-generated personalized teaching materials. Our approach goes beyond performance optimization by also taking into account students&amp;rsquo; motivational and affective dimensions, ensuring a more holistic understanding of learning processes.&lt;/p&gt;
 &lt;p&gt;
 &lt;/p&gt;
 &lt;p&gt;
 &lt;/p&gt;
-&lt;p&gt;&lt;em&gt;This research is part of our ongoing work in the &amp;lsquo;Humans and AI&amp;rsquo; research area at Zuse Institute Berlin.&lt;/em&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>FACET: Teacher-centred LLM-based multi-agent system - Preprint</title>
-      <link>http://localhost:1313/blog/facet-preprint-2025/</link>
-      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/facet-preprint-2025/</guid>
-      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;FACET is a teacher-centred LLM-based multi-agent system that supports teachers in developing personalized educational materials according to student characteristics, such as motivation, self-concept and performance.&lt;/p&gt;
-&lt;h2 id=&#34;key-contributions&#34;&gt;key contributions&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;This research is part of our ongoing work in the &amp;lsquo;Humans and AI&amp;rsquo; research area at Zuse Institute Berlin.&lt;/em&gt;&lt;/p&gt;</description></item><item><title>FACET: Teacher-centred LLM-based multi-agent system - Preprint</title><link>https://www.janagonnermann.com/blog/facet-preprint-2025/</link><pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate><guid>https://www.janagonnermann.com/blog/facet-preprint-2025/</guid><description>&lt;p&gt;###bringing personalization into the classroom&lt;/p&gt;
+&lt;p&gt;If you’ve ever stood in front of a classroom knowing that some students are lost while others are bored, you’ve felt the central challenge of teaching: how do we reach everyone?
+Personalization has become a central theme in education, promising learning tailored to each student’s needs. But most AI systems so far focus narrowly on knowledge and performance—adapting question difficulty or pacing—while overlooking other crucial factors such as motivation, self-confidence, and emotional engagement.&lt;/p&gt;
+&lt;p&gt;Our paper, FACET: Teacher-Centred LLM-Based Multi-Agent Systems — Towards Personalized Educational Worksheets, addresses that challenge. It presents a multi-agent large-language-model (LLM) framework that personalizes teaching materials according to students’ motivational and emotional attributes.&lt;/p&gt;
+&lt;p&gt;###Teacher-supporting AI systems&lt;/p&gt;
+&lt;p&gt;Most AI in education today is “student-facing”: chatbots that tutor, grade, or quiz. We argue that what’s missing is teacher-facing AI—systems that act as intelligent assistants, helping teachers design differentiated materials more efficiently.&lt;/p&gt;
+&lt;p&gt;The framework introduced in our paper is built around large language models (LLMs) and defines several specialised AI &amp;ldquo;roles&amp;rdquo; that collaborate.
+There&amp;rsquo;s a learner agent, which simulates a student with specific knowledge and motivational traits; a teacher agent, which generates a worksheet adapted to that profile; and an evaluator agent, which checks the quality and didactical soundness of the result.&lt;/p&gt;
+&lt;p&gt;The human teacher remains firmly in the loop, defining learner profiles and using or adjusting the generated worksheets.&lt;/p&gt;
+&lt;p&gt;
+&lt;figure id="figure-the-facet-framework-consists-of-multiple-ai-agents-collaborating-to-generate-personalized-worksheets"&gt;
+&lt;div class="flex justify-center "&gt;
+&lt;div class="w-full" &gt;
+&lt;img alt="FACET multi-agent architecture"
+srcset="https://www.janagonnermann.com/blog/facet-preprint-2025/featured_hu_7537e0ddb08eed80.webp 320w, https://www.janagonnermann.com/blog/facet-preprint-2025/featured_hu_856a5ef37a5b3898.webp 480w, https://www.janagonnermann.com/blog/facet-preprint-2025/featured_hu_233a75504eb7c196.webp 606w"
+sizes="(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px"
+src="https://www.janagonnermann.com/blog/facet-preprint-2025/featured_hu_7537e0ddb08eed80.webp"
+width="606"
+height="284"
+loading="lazy" data-zoomable /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;figcaption&gt;
+The FACET framework consists of multiple AI agents collaborating to generate personalized worksheets
+&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;###Modelling the learner — beyond test scores&lt;/p&gt;
+&lt;p&gt;Different learner profiles were modelled, each simulating a learner who “interacts” with the teacher agent by solving a sample task and expressing reasoning and affective cues such as frustration, curiosity, or enthusiasm. Based on this interaction, the teacher agent crafts a personalized worksheet that fits both the learner’s cognitive level and motivational needs.&lt;/p&gt;
+&lt;h3 id="key-aspects"&gt;key aspects&lt;/h3&gt;
 &lt;p&gt;Multi-agent architecture: Different agents handle content generation, student analysis, and quality assurance
 Personalization: Adapts materials based on individual student characteristics and learning preferences
 Teacher-centred design: Empowers teachers with AI assistance while maintaining pedagogical control
 Scalable framework: Can be adapted for different subjects and educational contexts&lt;/p&gt;
-&lt;h2 id=&#34;contribution&#34;&gt;contribution&lt;/h2&gt;
-&lt;p&gt;Together with teachers, we develop a teacher-centred LLM-based multi-agent system to develop AI-based personalized teaching materials. Therefore, we do not only focus on performance, but also consider the motivational and affective aspects of students&lt;/p&gt;
+&lt;p&gt;###Teacher-centred co-design&lt;/p&gt;
+&lt;p&gt;We integrated teachers into the development of the tool and conducted an initial, exploratory evaluation.
+In interviews and open feedback, participating teachers were optimistic. They saw real potential for saving time in lesson preparation and for experimenting with differentiated materials they might not otherwise have the bandwidth to create. Many said they would welcome such a system as a “planning partner,” especially if it integrated smoothly into existing workflows.&lt;/p&gt;
+&lt;p&gt;They also pointed out areas for improvement: worksheets for the least motivated learners sometimes lacked engaging contexts or real-world relevance.&lt;/p&gt;
+&lt;h3 id="contribution"&gt;contribution&lt;/h3&gt;
+&lt;p&gt;Together with teachers, we developed a teacher-centred, LLM-based multi-agent system to generate AI-supported personalized teaching materials. In doing so, we focus not only on performance but also on students’ motivational and affective aspects.&lt;/p&gt;
+&lt;p&gt;This study presents preliminary results demonstrating the feasibility of the FACET framework—a multi-agent AI architecture capable of producing individualized teaching materials that align with diverse learner needs. By modelling learners along cognitive and motivational dimensions and aligning outputs with established educational principles, the framework generated stable, high-quality worksheets, as confirmed through both agent-based evaluation and feedback from in-service K-12 teachers.&lt;/p&gt;
+&lt;p&gt;###interested in this work?
+@misc{gonnermannmuller2025arxiv,
+archiveprefix = {arXiv},
+author = {Gonnermann-Müller, Jana and Haase, Jennifer and Fackeldey, Konstantin and Pokutta, Sebastian},
+eprint = {2508.11401},
+primaryclass = {cs.HC},
+title = {FACET: Teacher-Centred LLM-Based Multi-Agent Systems—Towards Personalized Educational Worksheets},
+url = {https://arxiv.org/abs/2508.11401},
+year = {2025}
+}&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;em&gt;This research is part of our ongoing work in the &amp;lsquo;Humans and AI&amp;rsquo; research area at Zuse Institute Berlin.&lt;/em&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Specifying ten roles of using ChatGPT in secondary education: a teacher&#39;s perspective</title>
-      <link>http://localhost:1313/publications/schummel-2025-ecis/</link>
-      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/schummel-2025-ecis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lets Be Realistic: AI-Recommender Use in a Complex Management Setting</title>
-      <link>http://localhost:1313/publications/gonnermannmuller-2025-chi/</link>
-      <pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/gonnermannmuller-2025-chi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AR-Kompass - Zukunftsfähige, immersive Aus- und Weiterbildung für KMU</title>
-      <link>http://localhost:1313/talks/wfbb-2025/</link>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talks/wfbb-2025/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Politische Bildung</title>
-      <link>http://localhost:1313/talks/landtag-2024/</link>
-      <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talks/landtag-2024/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Unlocking augmented reality learning design based on evidence from empirical cognitive load studies—A systematic literature review</title>
-      <link>http://localhost:1313/publications/gonnermannmuller-2024-jcal/</link>
-      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/gonnermannmuller-2024-jcal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Legal Notice</title>
-      <link>http://localhost:1313/legal/</link>
-      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/legal/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Name:&lt;/strong&gt; Jana Gonnermann-Müller&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This research is part of our ongoing work in the &amp;lsquo;Humans and AI&amp;rsquo; research area at Zuse Institute Berlin.&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Specifying ten roles of using ChatGPT in secondary education: a teacher's perspective</title><link>https://www.janagonnermann.com/publications/schummel-2025-ecis/</link><pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate><guid>https://www.janagonnermann.com/publications/schummel-2025-ecis/</guid><description/></item><item><title>Lets Be Realistic: AI-Recommender Use in a Complex Management Setting</title><link>https://www.janagonnermann.com/publications/gonnermannmuller-2025-chi/</link><pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate><guid>https://www.janagonnermann.com/publications/gonnermannmuller-2025-chi/</guid><description/></item><item><title>AR-Kompass - Zukunftsfähige, immersive Aus- und Weiterbildung für KMU</title><link>https://www.janagonnermann.com/talks/wfbb-2025/</link><pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate><guid>https://www.janagonnermann.com/talks/wfbb-2025/</guid><description/></item><item><title>Politische Bildung</title><link>https://www.janagonnermann.com/talks/landtag-2024/</link><pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate><guid>https://www.janagonnermann.com/talks/landtag-2024/</guid><description/></item><item><title>Unlocking augmented reality learning design based on evidence from empirical cognitive load studies—A systematic literature review</title><link>https://www.janagonnermann.com/publications/gonnermannmuller-2024-jcal/</link><pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate><guid>https://www.janagonnermann.com/publications/gonnermannmuller-2024-jcal/</guid><description/></item><item><title>Legal Notice</title><link>https://www.janagonnermann.com/legal/</link><pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate><guid>https://www.janagonnermann.com/legal/</guid><description>&lt;p&gt;&lt;strong&gt;Name:&lt;/strong&gt; Jana Gonnermann-Müller&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Affiliation:&lt;/strong&gt; Zuse Institute Berlin (ZIB)&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Contact:&lt;/strong&gt; 
+&lt;p&gt;&lt;strong&gt;Contact:&lt;/strong&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt;&lt;br&gt;
 Zuse Institute Berlin&lt;br&gt;
@@ -130,26 +76,17 @@ Content on this site has been prepared with the greatest care. Nevertheless, I c
 &lt;p&gt;###Liability for Links
 This website includes links to external websites operated by third parties, over whose content I have no control. Therefore, I assume no liability for such external content. The respective provider or operator of the linked pages is solely responsible for their content.&lt;/p&gt;
 &lt;p&gt;###Copyright Notice
-All content on this website, including text, images, and other materials, is protected by German copyright law. Any form of reproduction, modification, distribution, or usage beyond what is permitted by copyright legislation requires prior written authorization from the respective rights holder.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Privacy Notice</title>
-      <link>http://localhost:1313/privacy/</link>
-      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/privacy/</guid>
-      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+All content on this website, including text, images, and other materials, is protected by German copyright law. Any form of reproduction, modification, distribution, or usage beyond what is permitted by copyright legislation requires prior written authorization from the respective rights holder.&lt;/p&gt;</description></item><item><title>Privacy Notice</title><link>https://www.janagonnermann.com/privacy/</link><pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate><guid>https://www.janagonnermann.com/privacy/</guid><description>&lt;h3 id="overview"&gt;Overview&lt;/h3&gt;
 &lt;p&gt;This website (
 ) is operated by Jana Gonnermann-Müller as a personal, non-commercial academic homepage. This Privacy Policy explains what personal data is collected, how it is used, and your rights under the GDPR.&lt;/p&gt;
-&lt;h3 id=&#34;data-controller&#34;&gt;Data Controller&lt;/h3&gt;
+&lt;h3 id="data-controller"&gt;Data Controller&lt;/h3&gt;
 &lt;p&gt;Jana Gonnermann-Müller
 Email: gonnermann-mueller@zib.de&lt;/p&gt;
-&lt;h3 id=&#34;emails&#34;&gt;Emails&lt;/h3&gt;
+&lt;h3 id="emails"&gt;Emails&lt;/h3&gt;
 &lt;p&gt;If you contact me via email, your message and contact data will be stored to process your inquiry. No data are shared with third parties unless required by law.&lt;/p&gt;
-&lt;h3 id=&#34;data-collection&#34;&gt;Data Collection&lt;/h3&gt;
+&lt;h3 id="data-collection"&gt;Data Collection&lt;/h3&gt;
 &lt;p&gt;This website collects no personal data. No analytics, tracking, or cookies are used.&lt;/p&gt;
-&lt;h3 id=&#34;server-logs&#34;&gt;Server Logs&lt;/h3&gt;
+&lt;h3 id="server-logs"&gt;Server Logs&lt;/h3&gt;
 &lt;p&gt;Like most websites, the hosting provider (GitHub Pages) may collect standard server logs including:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;IP addresses&lt;/li&gt;
@@ -158,132 +95,29 @@ Email: gonnermann-mueller@zib.de&lt;/p&gt;
 &lt;li&gt;Referrer information&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;These logs are managed by GitHub Pages and are subject to their privacy policy.&lt;/p&gt;
-&lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;
+&lt;h3 id="contact"&gt;Contact&lt;/h3&gt;
 &lt;p&gt;If you have any questions about this privacy policy, please contact:
-
 &lt;/p&gt;
-&lt;h3 id=&#34;changes-to-this-policy&#34;&gt;Changes to This Policy&lt;/h3&gt;
-&lt;p&gt;This privacy policy may be updated from time to time. The last update was on October 30, 2025.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Value by Design: Reducing Cognitive Load by Using Visual Guidance in Augmented Reality-An Eye-Tracking Study</title>
-      <link>http://localhost:1313/talks/icis-2024/</link>
-      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talks/icis-2024/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Value by Design: Reducing cognitive load by using visual guidance in augmented reality—An eye-tracking study</title>
-      <link>http://localhost:1313/publications/gonnermannmuller-2024-icis/</link>
-      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/gonnermannmuller-2024-icis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Comparing head-mounted and handheld augmented reality for guided assembly</title>
-      <link>http://localhost:1313/publications/comparing-head-mounted-handheld-ar/</link>
-      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/comparing-head-mounted-handheld-ar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Augmented Reality im Onboarding mit bedingter KI-Unterstützung</title>
-      <link>http://localhost:1313/talks/ihk-2024/</link>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talks/ihk-2024/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>about</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>experience</title>
-      <link>http://localhost:1313/experience/</link>
-      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Einsatz von Augmented Reality - Nutzerzentrierte Gestaltungsmöglichkeiten</title>
-      <link>http://localhost:1313/talks/basf-2023/</link>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talks/basf-2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Influence of Pre-Experience on Learning in Virtual Environments</title>
-      <link>http://localhost:1313/talks/amcis-2023/</link>
-      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talks/amcis-2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cognitive load-based Augmented Reality design for vocational training</title>
-      <link>http://localhost:1313/projects/2_cognitive-load-ar-study/</link>
-      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/2_cognitive-load-ar-study/</guid>
-      <description>&lt;p&gt;This research project develops human-centred design principles for Augmented Reality (AR) using cognitive theories, such as cognitive load theory.&lt;/p&gt;
-&lt;h2 id=&#34;problem&#34;&gt;problem&lt;/h2&gt;
+&lt;h3 id="changes-to-this-policy"&gt;Changes to This Policy&lt;/h3&gt;
+&lt;p&gt;This privacy policy may be updated from time to time. The last update was on October 30, 2025.&lt;/p&gt;</description></item><item><title>Value by Design: Reducing Cognitive Load by Using Visual Guidance in Augmented Reality-An Eye-Tracking Study</title><link>https://www.janagonnermann.com/talks/icis-2024/</link><pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate><guid>https://www.janagonnermann.com/talks/icis-2024/</guid><description/></item><item><title>Value by Design: Reducing cognitive load by using visual guidance in augmented reality—An eye-tracking study</title><link>https://www.janagonnermann.com/publications/gonnermannmuller-2024-icis/</link><pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate><guid>https://www.janagonnermann.com/publications/gonnermannmuller-2024-icis/</guid><description/></item><item><title>Comparing head-mounted and handheld augmented reality for guided assembly</title><link>https://www.janagonnermann.com/publications/comparing-head-mounted-handheld-ar/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate><guid>https://www.janagonnermann.com/publications/comparing-head-mounted-handheld-ar/</guid><description/></item><item><title>Augmented Reality im Onboarding mit bedingter KI-Unterstützung</title><link>https://www.janagonnermann.com/talks/ihk-2024/</link><pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate><guid>https://www.janagonnermann.com/talks/ihk-2024/</guid><description/></item><item><title>about</title><link>https://www.janagonnermann.com/about/</link><pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate><guid>https://www.janagonnermann.com/about/</guid><description/></item><item><title>experience</title><link>https://www.janagonnermann.com/experience/</link><pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate><guid>https://www.janagonnermann.com/experience/</guid><description/></item><item><title>Einsatz von Augmented Reality - Nutzerzentrierte Gestaltungsmöglichkeiten</title><link>https://www.janagonnermann.com/talks/basf-2023/</link><pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate><guid>https://www.janagonnermann.com/talks/basf-2023/</guid><description/></item><item><title>Influence of Pre-Experience on Learning in Virtual Environments</title><link>https://www.janagonnermann.com/talks/amcis-2023/</link><pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate><guid>https://www.janagonnermann.com/talks/amcis-2023/</guid><description/></item><item><title>Cognitive load-based Augmented Reality design for vocational training</title><link>https://www.janagonnermann.com/projects/2_cognitive-load-ar-study/</link><pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate><guid>https://www.janagonnermann.com/projects/2_cognitive-load-ar-study/</guid><description>&lt;p&gt;This research project develops human-centred design principles for Augmented Reality (AR) using cognitive theories, such as cognitive load theory.&lt;/p&gt;
+&lt;h2 id="problem"&gt;problem&lt;/h2&gt;
 &lt;p&gt;Occupations in crafts and production are characterized by hands-on activities, and the knowledge required for them is difficult to convey through PDFs or traditional classroom instruction. While augmented reality (AR) offers the opportunity to learn directly on the job and through practical examples, many users report experiencing distraction and cognitive overload when using AR systems.&lt;/p&gt;
-&lt;h2 id=&#34;research-questions&#34;&gt;research questions&lt;/h2&gt;
+&lt;h2 id="research-questions"&gt;research questions&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;How does visual guidance affect cognitive load in AR environments?&lt;/li&gt;
 &lt;li&gt;What are the optimal design patterns for reducing cognitive load?&lt;/li&gt;
 &lt;li&gt;How can eye-tracking data inform AR interface design?&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;key-findings&#34;&gt;key findings&lt;/h2&gt;
+&lt;h2 id="key-findings"&gt;key findings&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Visual guidance significantly reduces cognitive load in AR learning tasks&lt;/li&gt;
 &lt;li&gt;Specific design patterns facilitate learning with AR&lt;/li&gt;
 &lt;li&gt;Individual differences in cognitive processing affect AR usability&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;outcome&#34;&gt;outcome&lt;/h2&gt;
+&lt;h2 id="outcome"&gt;outcome&lt;/h2&gt;
 &lt;p&gt;This research contributes to the theoretical understanding of cognitive load in AR environments and provides practical guidelines for designing more effective AR learning systems.&lt;/p&gt;
-&lt;h2 id=&#34;read-more&#34;&gt;read more&lt;/h2&gt;
+&lt;h2 id="read-more"&gt;read more&lt;/h2&gt;
 &lt;p&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>To What Extent Can Individualisation in Terms of Different Types of Mode Improve Learning Outcomes and Learner Satisfaction?</title>
-      <link>http://localhost:1313/talks/hicss-2023/</link>
-      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talks/hicss-2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Influence of pre-experience on learning, usability and cognitive load in a virtual learning environment</title>
-      <link>http://localhost:1313/publications/gonnermann-2023-amcis/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/gonnermann-2023-amcis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>To what extent can individualisation in terms of different types of mode improve learning outcomes and learner satisfaction? A pre-study</title>
-      <link>http://localhost:1313/publications/gonnermann-2023-hicss/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/gonnermann-2023-hicss/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;/p&gt;</description></item><item><title>To What Extent Can Individualisation in Terms of Different Types of Mode Improve Learning Outcomes and Learner Satisfaction?</title><link>https://www.janagonnermann.com/talks/hicss-2023/</link><pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate><guid>https://www.janagonnermann.com/talks/hicss-2023/</guid><description/></item><item><title>Influence of pre-experience on learning, usability and cognitive load in a virtual learning environment</title><link>https://www.janagonnermann.com/publications/gonnermann-2023-amcis/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://www.janagonnermann.com/publications/gonnermann-2023-amcis/</guid><description/></item><item><title>To what extent can individualisation in terms of different types of mode improve learning outcomes and learner satisfaction? A pre-study</title><link>https://www.janagonnermann.com/publications/gonnermann-2023-hicss/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://www.janagonnermann.com/publications/gonnermann-2023-hicss/</guid><description/></item></channel></rss>
