@@ -19,14 +19,14 @@ links:
 
 ---
 
-###bringing personalization into the classroom
+### bringing personalization into the classroom
 
 If you’ve ever stood in front of a classroom knowing that some students are lost while others are bored, you’ve felt the central challenge of teaching: how do we reach everyone?
 Personalization has become a central theme in education, promising learning tailored to each student’s needs. But most AI systems so far focus narrowly on knowledge and performance—adapting question difficulty or pacing—while overlooking other crucial factors such as motivation, self-confidence, and emotional engagement.
 
 Our paper, FACET: Teacher-Centred LLM-Based Multi-Agent Systems — Towards Personalized Educational Worksheets, addresses that challenge. It presents a multi-agent large-language-model (LLM) framework that personalizes teaching materials according to students’ motivational and emotional attributes.
 
-###Teacher-supporting AI systems
+### teacher-supporting AI systems
 
 Most AI in education today is “student-facing”: chatbots that tutor, grade, or quiz. We argue that what’s missing is teacher-facing AI—systems that act as intelligent assistants, helping teachers design differentiated materials more efficiently.
 
@@ -37,7 +37,7 @@ The human teacher remains firmly in the loop, defining learner profiles and usin
 
 ![FACET multi-agent architecture](Agent_Framework.png "The FACET framework consists of multiple AI agents collaborating to generate personalized worksheets")
 
-###Modelling the learner — beyond test scores
+### modelling the learner — beyond test scores
 
 Different learner profiles were modelled, each simulating a learner who “interacts” with the teacher agent by solving a sample task and expressing reasoning and affective cues such as frustration, curiosity, or enthusiasm. Based on this interaction, the teacher agent crafts a personalized worksheet that fits both the learner’s cognitive level and motivational needs.
 
@@ -47,7 +47,7 @@ Personalization: Adapts materials based on individual student characteristics an
 Teacher-centred design: Empowers teachers with AI assistance while maintaining pedagogical control
 Scalable framework: Can be adapted for different subjects and educational contexts
 
-###Teacher-centred co-design
+### teacher-centred co-design
 
 We integrated teachers into the development of the tool and conducted an initial, exploratory evaluation.
 In interviews and open feedback, participating teachers were optimistic. They saw real potential for saving time in lesson preparation and for experimenting with differentiated materials they might not otherwise have the bandwidth to create. Many said they would welcome such a system as a “planning partner,” especially if it integrated smoothly into existing workflows.
@@ -60,16 +60,21 @@ Together with teachers, we developed a teacher-centred, LLM-based multi-agent sy
 
 This study presents preliminary results demonstrating the feasibility of the FACET framework—a multi-agent AI architecture capable of producing individualized teaching materials that align with diverse learner needs. By modelling learners along cognitive and motivational dimensions and aligning outputs with established educational principles, the framework generated stable, high-quality worksheets, as confirmed through both agent-based evaluation and feedback from in-service K-12 teachers.
 
-###interested in this work?
+### interested in this work?
+
+Gonnermann-Müller, J., Haase, J., Fackeldey, K., & Pokutta, S. (2025). FACET: Teacher-Centred LLM-Based Multi-Agent Systems—Towards Personalized Educational Worksheets. *arXiv preprint* arXiv:2508.11401.
+
+```bibtex
 @misc{gonnermannmuller2025arxiv,
- archiveprefix = {arXiv},
- author = {Gonnermann-Müller, Jana and Haase, Jennifer and Fackeldey, Konstantin and Pokutta, Sebastian},
- eprint = {2508.11401},
- primaryclass = {cs.HC},
- title = {FACET: Teacher-Centred LLM-Based Multi-Agent Systems—Towards Personalized Educational Worksheets},
- url = {https://arxiv.org/abs/2508.11401},
- year = {2025}
+  archiveprefix = {arXiv},
+  author = {Gonnermann-Müller, Jana and Haase, Jennifer and Fackeldey, Konstantin and Pokutta, Sebastian},
+  eprint = {2508.11401},
+  primaryclass = {cs.HC},
+  title = {FACET: Teacher-Centred LLM-Based Multi-Agent Systems—Towards Personalized Educational Worksheets},
+  url = {https://arxiv.org/abs/2508.11401},
+  year = {2025}
 }
+```
 
 ---
 

@@ -1250,10 +1250,25 @@
 
   <div class="hb-scrollbar text-sm [hyphens:auto] sticky top-16 overflow-y-auto pr-4 pt-6 max-h-[calc(100vh-var(--navbar-height)-env(safe-area-inset-bottom))] -mr-4 rtl:-ml-4"><p class="mb-4 font-semibold tracking-tight">On this page</p><ul>
       <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#bringing-personalization-into-the-classroom">bringing personalization into the classroom</a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#teacher-supporting-ai-systems">teacher-supporting AI systems</a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#modelling-the-learner--beyond-test-scores">modelling the learner — beyond test scores</a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
         <a class="pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#key-aspects">key aspects</a>
       </li>
       <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#teacher-centred-co-design">teacher-centred co-design</a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
         <a class="pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#contribution">contribution</a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#interested-in-this-work">interested in this work?</a>
       </li></ul>
 
   
@@ -1446,11 +1461,11 @@
       
 
       <div class="prose prose-slate lg:prose-xl dark:prose-invert">
-        <p>###bringing personalization into the classroom</p>
+        <h3 id="bringing-personalization-into-the-classroom">bringing personalization into the classroom</h3>
 <p>If you’ve ever stood in front of a classroom knowing that some students are lost while others are bored, you’ve felt the central challenge of teaching: how do we reach everyone?
 Personalization has become a central theme in education, promising learning tailored to each student’s needs. But most AI systems so far focus narrowly on knowledge and performance—adapting question difficulty or pacing—while overlooking other crucial factors such as motivation, self-confidence, and emotional engagement.</p>
 <p>Our paper, FACET: Teacher-Centred LLM-Based Multi-Agent Systems — Towards Personalized Educational Worksheets, addresses that challenge. It presents a multi-agent large-language-model (LLM) framework that personalizes teaching materials according to students’ motivational and emotional attributes.</p>
-<p>###Teacher-supporting AI systems</p>
+<h3 id="teacher-supporting-ai-systems">teacher-supporting AI systems</h3>
 <p>Most AI in education today is “student-facing”: chatbots that tutor, grade, or quiz. We argue that what’s missing is teacher-facing AI—systems that act as intelligent assistants, helping teachers design differentiated materials more efficiently.</p>
 <p>The framework introduced in our paper is built around large language models (LLMs) and defines several specialised AI &ldquo;roles&rdquo; that collaborate.
 There&rsquo;s a learner agent, which simulates a student with specific knowledge and motivational traits; a teacher agent, which generates a worksheet adapted to that profile; and an evaluator agent, which checks the quality and didactical soundness of the result.</p>
@@ -1485,31 +1500,32 @@ There&rsquo;s a learner agent, which simulates a student with specific knowledge
       The FACET framework consists of multiple AI agents collaborating to generate personalized worksheets
     </figcaption></figure>
 </p>
-<p>###Modelling the learner — beyond test scores</p>
+<h3 id="modelling-the-learner--beyond-test-scores">modelling the learner — beyond test scores</h3>
 <p>Different learner profiles were modelled, each simulating a learner who “interacts” with the teacher agent by solving a sample task and expressing reasoning and affective cues such as frustration, curiosity, or enthusiasm. Based on this interaction, the teacher agent crafts a personalized worksheet that fits both the learner’s cognitive level and motivational needs.</p>
 <h3 id="key-aspects">key aspects</h3>
 <p>Multi-agent architecture: Different agents handle content generation, student analysis, and quality assurance
 Personalization: Adapts materials based on individual student characteristics and learning preferences
 Teacher-centred design: Empowers teachers with AI assistance while maintaining pedagogical control
 Scalable framework: Can be adapted for different subjects and educational contexts</p>
-<p>###Teacher-centred co-design</p>
+<h3 id="teacher-centred-co-design">teacher-centred co-design</h3>
 <p>We integrated teachers into the development of the tool and conducted an initial, exploratory evaluation.
 In interviews and open feedback, participating teachers were optimistic. They saw real potential for saving time in lesson preparation and for experimenting with differentiated materials they might not otherwise have the bandwidth to create. Many said they would welcome such a system as a “planning partner,” especially if it integrated smoothly into existing workflows.</p>
 <p>They also pointed out areas for improvement: worksheets for the least motivated learners sometimes lacked engaging contexts or real-world relevance.</p>
 <h3 id="contribution">contribution</h3>
 <p>Together with teachers, we developed a teacher-centred, LLM-based multi-agent system to generate AI-supported personalized teaching materials. In doing so, we focus not only on performance but also on students’ motivational and affective aspects.</p>
 <p>This study presents preliminary results demonstrating the feasibility of the FACET framework—a multi-agent AI architecture capable of producing individualized teaching materials that align with diverse learner needs. By modelling learners along cognitive and motivational dimensions and aligning outputs with established educational principles, the framework generated stable, high-quality worksheets, as confirmed through both agent-based evaluation and feedback from in-service K-12 teachers.</p>
-<p>###interested in this work?
-@misc{gonnermannmuller2025arxiv,
-archiveprefix = {arXiv},
-author = {Gonnermann-Müller, Jana and Haase, Jennifer and Fackeldey, Konstantin and Pokutta, Sebastian},
-eprint = {2508.11401},
-primaryclass = {cs.HC},
-title = {FACET: Teacher-Centred LLM-Based Multi-Agent Systems—Towards Personalized Educational Worksheets},
-url = {https://arxiv.org/abs/2508.11401},
-year = {2025}
-}</p>
-<hr>
+<h3 id="interested-in-this-work">interested in this work?</h3>
+<p>Gonnermann-Müller, J., Haase, J., Fackeldey, K., &amp; Pokutta, S. (2025). FACET: Teacher-Centred LLM-Based Multi-Agent Systems—Towards Personalized Educational Worksheets. <em>arXiv preprint</em> arXiv:2508.11401.</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bibtex" data-lang="bibtex"><span class="line"><span class="cl"><span class="nc">@misc</span><span class="p">{</span><span class="nl">gonnermannmuller2025arxiv</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">  <span class="na">archiveprefix</span> <span class="p">=</span> <span class="s">{arXiv}</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">  <span class="na">author</span> <span class="p">=</span> <span class="s">{Gonnermann-Müller, Jana and Haase, Jennifer and Fackeldey, Konstantin and Pokutta, Sebastian}</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">  <span class="na">eprint</span> <span class="p">=</span> <span class="s">{2508.11401}</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">  <span class="na">primaryclass</span> <span class="p">=</span> <span class="s">{cs.HC}</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">  <span class="na">title</span> <span class="p">=</span> <span class="s">{FACET: Teacher-Centred LLM-Based Multi-Agent Systems—Towards Personalized Educational Worksheets}</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">  <span class="na">url</span> <span class="p">=</span> <span class="s">{https://arxiv.org/abs/2508.11401}</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">  <span class="na">year</span> <span class="p">=</span> <span class="s">{2025}</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span></code></pre></div><hr>
 <p><em>This research is part of our ongoing work in the &lsquo;Humans and AI&rsquo; research area at Zuse Institute Berlin.</em></p>
 
       </div>
@@ -1916,7 +1932,7 @@ year = {2025}
 
     
     <script>
-    window.__HBX_LOGS__ = {"currentPage":{"buildId":"1761906755","file":"blog/facet-preprint-2025/index.md","kind":"page","layout":"","path":"/blog/facet-preprint-2025/","section":"blog","title":"FACET: Teacher-centred LLM-based multi-agent system - Preprint","type":"blog"},"deps":[{"path":"github.com/HugoBlox/hugo-blox-builder/starters/academic-cv","vendor":false,"version":""},{"owner_path":"github.com/HugoBlox/hugo-blox-builder/starters/academic-cv","path":"github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify","time":"2023-11-09 14:58:28 +0000 UTC","vendor":false,"version":"v0.0.0-20231109145828-d9695efa098f"},{"owner_path":"github.com/HugoBlox/hugo-blox-builder/starters/academic-cv","path":"github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind","time":"2025-09-25 20:51:54 +0000 UTC","vendor":false,"version":"v0.0.0-20250925205154-e9b31f8090c0"},{"owner_path":"github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind","path":"github.com/HugoBlox/hugo-blox-builder/modules/blox-analytics","time":"2025-08-20 00:03:08 +0000 UTC","vendor":false,"version":"v0.2.0"}],"entries":[{"buildId":"1761905238","id":"","level":"info","message":"✅  Using sections from front matter for page /about/ (found 1 sections)","page":"/","source":{"name":"hbx/sections","type":"partial"},"timestamp":1761905238},{"buildId":"1761906548","id":"","level":"info","message":"✅  Using sections from front matter for page /blog/ (found 1 sections)","page":"/","source":{"name":"hbx/sections","type":"partial"},"timestamp":1761906548},{"buildId":"1761905238","id":"","level":"info","message":"✅  Using sections from front matter for page /experience/ (found 4 sections)","page":"/","source":{"name":"hbx/sections","type":"partial"},"timestamp":1761905238},{"buildId":"1761905238","id":"","level":"info","message":"✅  Using sections from front matter for page /outreach/ (found 3 sections)","page":"/","source":{"name":"hbx/sections","type":"partial"},"timestamp":1761905238},{"buildId":"1761905238","id":"","level":"info","message":"✅  Using sections from front matter for page /projects/ (found 2 sections)","page":"/","source":{"name":"hbx/sections","type":"partial"},"timestamp":1761905238},{"buildId":"1761905238","id":"","level":"info","message":"✅  Using sections from front matter for page /publications/ (found 1 sections)","page":"/","source":{"name":"hbx/sections","type":"partial"},"timestamp":1761905238},{"buildId":"1761905238","id":"","level":"info","message":"✅  Using sections from front matter for page / (found 3 sections)","page":"/","source":{"name":"hbx/sections","type":"partial"},"timestamp":1761905238},{"buildId":"1761905238","id":"sections-none-/talks/","level":"warn","message":"HBX: No sections found for page /talks/ (checked front matter)","page":"/","source":{"name":"hbx/sections","type":"partial"},"timestamp":1761905238}],"generatedAt":"2025-10-31T10:32:35Z","hugo":{"goVersion":"go1.25.3","version":"0.152.1"},"modules":{"bloxTailwind":{"path":"github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind","version":"v0.0.0-20250925205154-e9b31f8090c0"}},"version":1};
+    window.__HBX_LOGS__ = {"currentPage":{"buildId":"1761907182","file":"blog/facet-preprint-2025/index.md","kind":"page","layout":"","path":"/blog/facet-preprint-2025/","section":"blog","title":"FACET: Teacher-centred LLM-based multi-agent system - Preprint","type":"blog"},"deps":[{"path":"github.com/HugoBlox/hugo-blox-builder/starters/academic-cv","vendor":false,"version":""},{"owner_path":"github.com/HugoBlox/hugo-blox-builder/starters/academic-cv","path":"github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify","time":"2023-11-09 14:58:28 +0000 UTC","vendor":false,"version":"v0.0.0-20231109145828-d9695efa098f"},{"owner_path":"github.com/HugoBlox/hugo-blox-builder/starters/academic-cv","path":"github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind","time":"2025-09-25 20:51:54 +0000 UTC","vendor":false,"version":"v0.0.0-20250925205154-e9b31f8090c0"},{"owner_path":"github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind","path":"github.com/HugoBlox/hugo-blox-builder/modules/blox-analytics","time":"2025-08-20 00:03:08 +0000 UTC","vendor":false,"version":"v0.2.0"}],"entries":[{"buildId":"1761905238","id":"","level":"info","message":"✅  Using sections from front matter for page /about/ (found 1 sections)","page":"/","source":{"name":"hbx/sections","type":"partial"},"timestamp":1761905238},{"buildId":"1761906548","id":"","level":"info","message":"✅  Using sections from front matter for page /blog/ (found 1 sections)","page":"/","source":{"name":"hbx/sections","type":"partial"},"timestamp":1761906548},{"buildId":"1761905238","id":"","level":"info","message":"✅  Using sections from front matter for page /experience/ (found 4 sections)","page":"/","source":{"name":"hbx/sections","type":"partial"},"timestamp":1761905238},{"buildId":"1761905238","id":"","level":"info","message":"✅  Using sections from front matter for page /outreach/ (found 3 sections)","page":"/","source":{"name":"hbx/sections","type":"partial"},"timestamp":1761905238},{"buildId":"1761905238","id":"","level":"info","message":"✅  Using sections from front matter for page /projects/ (found 2 sections)","page":"/","source":{"name":"hbx/sections","type":"partial"},"timestamp":1761905238},{"buildId":"1761905238","id":"","level":"info","message":"✅  Using sections from front matter for page /publications/ (found 1 sections)","page":"/","source":{"name":"hbx/sections","type":"partial"},"timestamp":1761905238},{"buildId":"1761905238","id":"","level":"info","message":"✅  Using sections from front matter for page / (found 3 sections)","page":"/","source":{"name":"hbx/sections","type":"partial"},"timestamp":1761905238},{"buildId":"1761905238","id":"sections-none-/talks/","level":"warn","message":"HBX: No sections found for page /talks/ (checked front matter)","page":"/","source":{"name":"hbx/sections","type":"partial"},"timestamp":1761905238}],"generatedAt":"2025-10-31T10:39:42Z","hugo":{"goVersion":"go1.25.3","version":"0.152.1"},"modules":{"bloxTailwind":{"path":"github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind","version":"v0.0.0-20250925205154-e9b31f8090c0"}},"version":1};
   </script>
     <script>
     (function(){
