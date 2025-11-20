@@ -46,8 +46,8 @@ const footerScript = `(function() {
 })();`;
 
 function injectFooterIntoHTML(htmlContent) {
-  // Check if footer script is already injected
-  if (htmlContent.includes('Legal Notice') && htmlContent.includes('Last modified:')) {
+  // Check if footer script is already injected (look for the script content)
+  if (htmlContent.includes('TextContent = \'Legal Notice\'')) {
     return htmlContent;
   }
   

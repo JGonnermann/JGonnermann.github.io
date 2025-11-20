@@ -123,7 +123,10 @@ My research focuses on the development and evaluation of large language model (L
 
 <div class="news-light-blue">
   
-  Interested in pursuing research at the intersection of human-centred AI, education, and system design? [apply here](https://iol.zib.de/join)
+  Interested in pursuing research at the intersection of human-centred AI, education, and system design? [apply here](https://iol.zib.de/join) or write your master's thesis on the following topics: (1) Quantification of human bias and AI-based bias in the evaluation of school exams, (2) Quantification of human bias and AI-based bias in the evaluation of school exams. 
+
+
+  
 </div>
 
 
