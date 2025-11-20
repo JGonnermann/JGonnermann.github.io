@@ -84,4 +84,68 @@ Oct 26, 2025</time><div class="container mx-auto prose prose-slate lg:prose-xl d
 <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">Apr 25, 2025</span></span></a></div><div><a class="group flex text-right no-underline" href=/publications/gonnermannmuller-2024-icis/><span class="flex flex-col"><span class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500">Value by Design: Reducing cognitive load by using visual guidance in augmented reality—An eye-tracking study</span>
 <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">Dec 15, 2024
 </span></span><span class="mt-[-0.3rem] ms-2 text-neutral-700 transition-transform group-hover:-translate-x-[2px] group-hover:text-primary-600 dark:text-neutral dark:group-hover:text-primary-400"><span class=ltr:inline>&rarr;</span></span></a></div></div></div></div></div></main></article></div></div><div class=page-footer><footer class="container mx-auto flex flex-col justify-items-center text-sm leading-6 mt-24 mb-4 text-slate-700 dark:text-slate-200"><p class=text-center><a href=/privacy/>Privacy Notice</a></p><p class="powered-by text-center">© 2025 Jana Gonnermann-Müller</p><p class="powered-by text-center text-sm opacity-80 py-1">Made with <a class="underline hover:opacity-100" href="https://hugoblox.com?utm_source=site_footer&utm_medium=referral&utm_campaign=poweredby_oss&utm_content=brand_academic-cv" target=_blank rel=noopener data-hbx=poweredby_brand>Hugo Blox — Open Source</a>.
-<a class="inline-flex items-center rounded px-2 py-0.5 border border-current ms-2 text-xs hover:opacity-100" href="https://hugoblox.com/templates/academic-cv/start?utm_source=site_footer&amp;utm_medium=referral&amp;utm_campaign=poweredby_oss&amp;utm_content=cta_academic-cv" target=_blank rel=noopener data-hbx=poweredby_cta>Build yours →</a></p></footer></div><div id=hb-notification-container class="fixed top-20 right-4 z-[9999] pointer-events-none" aria-live=polite aria-atomic=true></div></body></html>
+<a class="inline-flex items-center rounded px-2 py-0.5 border border-current ms-2 text-xs hover:opacity-100" href="https://hugoblox.com/templates/academic-cv/start?utm_source=site_footer&amp;utm_medium=referral&amp;utm_campaign=poweredby_oss&amp;utm_content=cta_academic-cv" target=_blank rel=noopener data-hbx=poweredby_cta>Build yours →</a></p></footer></div><div id=hb-notification-container class="fixed top-20 right-4 z-[9999] pointer-events-none" aria-live=polite aria-atomic=true></div><script>(function() {
+  const footer = document.querySelector('.page-footer footer');
+  if (!footer) return;
+  
+  // Get current date
+  const now = new Date();
+  const dateStr = now.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+  
+  // Find Privacy Notice link and add Legal Notice after it
+  const privacyLink = footer.querySelector('a[href="/privacy/"]');
+  if (privacyLink && privacyLink.parentNode) {
+    const legalLink = document.createElement('a');
+    legalLink.href = '/legal';
+    legalLink.className = 'hover:underline';
+    legalLink.textContent = 'Legal Notice';
+    
+    // Insert separator and legal link after privacy
+    privacyLink.parentNode.insertBefore(document.createTextNode(' | '), privacyLink.nextSibling);
+    privacyLink.parentNode.insertBefore(legalLink, privacyLink.nextSibling.nextSibling);
+  }
+  
+  // Add last modified date to copyright
+  const copyright = footer.querySelector('p.powered-by.text-center');
+  if (copyright) {
+    const innerText = copyright.innerText || copyright.textContent || '';
+    if (!innerText.includes('Last modified')) {
+      copyright.innerHTML = copyright.innerHTML.replace(
+        /(© \d{4}.*?)(<\/p>)/,
+        '$1 | Last modified: ' + dateStr + '$2'
+      );
+    }
+  }
+})();</script><script>(function() {
+  const footer = document.querySelector('.page-footer footer');
+  if (!footer) return;
+  
+  // Get current date
+  const now = new Date();
+  const dateStr = now.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+  
+  // Find Privacy Notice link and add Legal Notice after it
+  const privacyLink = footer.querySelector('a[href="/privacy/"]');
+  if (privacyLink && privacyLink.parentNode) {
+    const legalLink = document.createElement('a');
+    legalLink.href = '/legal';
+    legalLink.className = 'hover:underline';
+    legalLink.textContent = 'Legal Notice';
+    
+    // Insert separator and legal link after privacy
+    privacyLink.parentNode.insertBefore(document.createTextNode(' | '), privacyLink.nextSibling);
+    privacyLink.parentNode.insertBefore(legalLink, privacyLink.nextSibling.nextSibling);
+  }
+  
+  // Add last modified date to copyright
+  const copyright = footer.querySelector('p.powered-by.text-center');
+  if (copyright) {
+    const innerText = copyright.innerText || copyright.textContent || '';
+    if (!innerText.includes('Last modified')) {
+      copyright.innerHTML = copyright.innerHTML.replace(
+        /(© \d{4}.*?)(<\/p>)/,
+        '$1 | Last modified: ' + dateStr + '$2'
+      );
+    }
+  }
+})();</script></body></html>

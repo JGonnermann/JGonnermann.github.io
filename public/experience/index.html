@@ -41,4 +41,68 @@ September 2025</time><div class="mb-4 text-base font-normal text-gray-500 dark:t
 October 2020</time><div class="mb-4 text-base font-normal text-gray-500 dark:text-gray-300 prose max-w-none prose-slate dark:prose-invert"></div></li><li class="mb-10 ms-6"><span class="absolute flex items-center justify-center w-6 h-6 bg-primary-100 rounded-full -start-3 ring-8 ring-white dark:ring-gray-900 dark:bg-primary-900"><svg fill="currentColor" viewBox="0 0 256 256" class="w-5 h-5 text-primary-800 dark:text-primary-300"><path d="M251.76 88.94l-120-64a8 8 0 00-7.52.0l-120 64a8 8 0 000 14.12L32 117.87v48.42a15.91 15.91.0 004.06 10.65C49.16 191.53 78.51 216 128 216a130 130 0 0048-8.76V240a8 8 0 0016 0V199.51a115.63 115.63.0 0027.94-22.57A15.91 15.91.0 00224 166.29V117.87l27.76-14.81a8 8 0 000-14.12zM128 2e2c-43.27.0-68.72-21.14-80-33.71V126.4l76.24 40.66a8 8 0 007.52.0L176 143.47v46.34C163.4 195.69 147.52 2e2 128 2e2zm80-33.75a97.83 97.83.0 01-16 14.25V134.93l16-8.53zm-20-47.31-.22-.13-56-29.87a8 8 0 00-7.52 14.12L171 128l-43 22.93L25 96 128 41.07 231 96z"/></svg></svg></span><h3 class="flex items-center mb-1 text-lg font-semibold text-gray-900 dark:text-white">BS Psychology</h3><span class="block mb-2 text-sm font-normal leading-none text-gray-500 dark:text-gray-300">Humboldt-University Berlin</span>
 <time class="block mb-3 text-sm font-normal leading-none text-gray-500 dark:text-gray-300">October 2013 –
 October 2017</time><div class="mb-4 text-base font-normal text-gray-500 dark:text-gray-300 prose max-w-none prose-slate dark:prose-invert"></div></li></ol></div></div></div></section><section id=section-resume-skills class="relative hbb-section blox-resume-skills"><div class=home-section-bg></div><div class="flex flex-col items-center max-w-prose mx-auto gap-3 justify-center"><div class="mb-6 text-3xl font-bold text-gray-900 dark:text-white">Skills & Hobbies</div></div><div class="grid grid-cols-1 md:grid-cols-2 items-start max-w-prose mx-auto gap-3 px-6 md:px-0"></div></section><section id=section-resume-awards class="relative hbb-section blox-resume-awards"><div class=home-section-bg></div><div class="flex flex-col items-center max-w-prose mx-auto gap-3 justify-center"><div class="mb-6 text-3xl font-bold text-gray-900 dark:text-white">Awards</div><div class="w-full flex flex-col gap-6"></div></div></section><section id=section-resume-languages class="relative hbb-section blox-resume-languages"><div class=home-section-bg></div><div class="flex flex-col items-center max-w-prose mx-auto gap-3 justify-center"><div class="mb-6 text-3xl font-bold text-gray-900 dark:text-white">Languages</div><div class="flex items-center flex-col lg:flex-row gap-x-8"></div></div></section></div><div class=page-footer><footer class="container mx-auto flex flex-col justify-items-center text-sm leading-6 mt-24 mb-4 text-slate-700 dark:text-slate-200"><p class=text-center><a href=/privacy/>Privacy Notice</a></p><p class="powered-by text-center">© 2025 Jana Gonnermann-Müller</p><p class="powered-by text-center text-sm opacity-80 py-1">Made with <a class="underline hover:opacity-100" href="https://hugoblox.com?utm_source=site_footer&utm_medium=referral&utm_campaign=poweredby_oss&utm_content=brand_academic-cv" target=_blank rel=noopener data-hbx=poweredby_brand>Hugo Blox — Open Source</a>.
-<a class="inline-flex items-center rounded px-2 py-0.5 border border-current ms-2 text-xs hover:opacity-100" href="https://hugoblox.com/templates/academic-cv/start?utm_source=site_footer&amp;utm_medium=referral&amp;utm_campaign=poweredby_oss&amp;utm_content=cta_academic-cv" target=_blank rel=noopener data-hbx=poweredby_cta>Build yours →</a></p></footer></div><div id=hb-notification-container class="fixed top-20 right-4 z-[9999] pointer-events-none" aria-live=polite aria-atomic=true></div></body></html>
+<a class="inline-flex items-center rounded px-2 py-0.5 border border-current ms-2 text-xs hover:opacity-100" href="https://hugoblox.com/templates/academic-cv/start?utm_source=site_footer&amp;utm_medium=referral&amp;utm_campaign=poweredby_oss&amp;utm_content=cta_academic-cv" target=_blank rel=noopener data-hbx=poweredby_cta>Build yours →</a></p></footer></div><div id=hb-notification-container class="fixed top-20 right-4 z-[9999] pointer-events-none" aria-live=polite aria-atomic=true></div><script>(function() {
+  const footer = document.querySelector('.page-footer footer');
+  if (!footer) return;
+  
+  // Get current date
+  const now = new Date();
+  const dateStr = now.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+  
+  // Find Privacy Notice link and add Legal Notice after it
+  const privacyLink = footer.querySelector('a[href="/privacy/"]');
+  if (privacyLink && privacyLink.parentNode) {
+    const legalLink = document.createElement('a');
+    legalLink.href = '/legal';
+    legalLink.className = 'hover:underline';
+    legalLink.textContent = 'Legal Notice';
+    
+    // Insert separator and legal link after privacy
+    privacyLink.parentNode.insertBefore(document.createTextNode(' | '), privacyLink.nextSibling);
+    privacyLink.parentNode.insertBefore(legalLink, privacyLink.nextSibling.nextSibling);
+  }
+  
+  // Add last modified date to copyright
+  const copyright = footer.querySelector('p.powered-by.text-center');
+  if (copyright) {
+    const innerText = copyright.innerText || copyright.textContent || '';
+    if (!innerText.includes('Last modified')) {
+      copyright.innerHTML = copyright.innerHTML.replace(
+        /(© \d{4}.*?)(<\/p>)/,
+        '$1 | Last modified: ' + dateStr + '$2'
+      );
+    }
+  }
+})();</script><script>(function() {
+  const footer = document.querySelector('.page-footer footer');
+  if (!footer) return;
+  
+  // Get current date
+  const now = new Date();
+  const dateStr = now.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+  
+  // Find Privacy Notice link and add Legal Notice after it
+  const privacyLink = footer.querySelector('a[href="/privacy/"]');
+  if (privacyLink && privacyLink.parentNode) {
+    const legalLink = document.createElement('a');
+    legalLink.href = '/legal';
+    legalLink.className = 'hover:underline';
+    legalLink.textContent = 'Legal Notice';
+    
+    // Insert separator and legal link after privacy
+    privacyLink.parentNode.insertBefore(document.createTextNode(' | '), privacyLink.nextSibling);
+    privacyLink.parentNode.insertBefore(legalLink, privacyLink.nextSibling.nextSibling);
+  }
+  
+  // Add last modified date to copyright
+  const copyright = footer.querySelector('p.powered-by.text-center');
+  if (copyright) {
+    const innerText = copyright.innerText || copyright.textContent || '';
+    if (!innerText.includes('Last modified')) {
+      copyright.innerHTML = copyright.innerHTML.replace(
+        /(© \d{4}.*?)(<\/p>)/,
+        '$1 | Last modified: ' + dateStr + '$2'
+      );
+    }
+  }
+})();</script></body></html>

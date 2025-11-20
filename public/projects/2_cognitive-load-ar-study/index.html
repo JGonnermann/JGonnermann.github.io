@@ -78,4 +78,68 @@ Oct 29, 2025</time><div class="container mx-auto prose prose-slate lg:prose-xl d
 <a class="pr-2 transition-transform hover:scale-125 hover:text-primary-700 dark:hover:text-primary-400" style=will-change:transform href=https://orcid.org/0000-0002-0313-3779 target=_blank rel=noopener rel="me noopener noreferrer" aria-label=Academicons/Orcid><svg style="height:1em" viewBox="0 0 512 512"><path fill="currentColor" d="M336.62 194.538c-7.13-3.328-13.866-5.56-20.253-6.614-6.365-1.095-16.574-1.612-30.71-1.612h-36.704v152.747h37.634c14.673.0 26.081-1.013 34.224-3.017 8.142-2.004 14.921-4.526 20.356-7.626a69.448 69.448.0 0014.942-11.388c14.488-14.714 21.742-33.273 21.742-55.717.0-22.052-7.44-40.052-22.341-53.982-5.498-5.166-11.822-9.444-18.89-12.793zM256 8C119.022 8 8 119.042 8 256s111.022 248 248 248 248-111.042 248-248S392.978 8 256 8zm-82.336 357.513h-29.389V160.148h29.389zM158.95 138.696c-11.14.0-20.213-9.01-20.213-20.212.0-11.118 9.052-20.191 20.213-20.191 11.18.0 20.232 9.052 20.232 20.191a20.194 20.194.0 01-20.232 20.212zm241.386 163.597c-5.29 12.545-12.834 23.581-22.65 33.088-9.982 9.837-21.597 17.194-34.844 22.196-7.75 3.017-14.839 5.063-21.307 6.117-6.49 1.013-18.828 1.509-37.076 1.509h-64.956V160.148h69.233c27.962.0 50.034 4.154 66.32 12.545 16.265 8.37 29.181 20.728 38.792 36.972 9.61 16.265 14.425 34.018 14.425 53.196.023 13.765-2.666 26.908-7.936 39.432z"/></svg></a></div></div></div></div><div class="pt-1 no-prose w-full"><hr class="border-dotted border-neutral-300 dark:border-neutral-600"><div class="flex flex-col md:flex-row flex-nowrap justify-between gap-5 pt-2"><div><a class="group flex no-underline" href=/projects/1_facet-project/><span class="mt-[-0.3rem] me-2 text-neutral-700 transition-transform group-hover:-translate-x-[2px] group-hover:text-primary-600 dark:text-neutral dark:group-hover:text-primary-400"><span class="ltr:inline rtl:hidden">&larr;</span></span>
 <span class="flex flex-col"><span class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500">FACET: Framework for Agent-based Classroom Enhancement for Teacher</span>
 <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">Aug 1, 2025</span></span></a></div><div></div></div></div></div></div></main></article></div></div><div class=page-footer><footer class="container mx-auto flex flex-col justify-items-center text-sm leading-6 mt-24 mb-4 text-slate-700 dark:text-slate-200"><p class=text-center><a href=/privacy/>Privacy Notice</a></p><p class="powered-by text-center">© 2025 Jana Gonnermann-Müller</p><p class="powered-by text-center text-sm opacity-80 py-1">Made with <a class="underline hover:opacity-100" href="https://hugoblox.com?utm_source=site_footer&utm_medium=referral&utm_campaign=poweredby_oss&utm_content=brand_academic-cv" target=_blank rel=noopener data-hbx=poweredby_brand>Hugo Blox — Open Source</a>.
-<a class="inline-flex items-center rounded px-2 py-0.5 border border-current ms-2 text-xs hover:opacity-100" href="https://hugoblox.com/templates/academic-cv/start?utm_source=site_footer&amp;utm_medium=referral&amp;utm_campaign=poweredby_oss&amp;utm_content=cta_academic-cv" target=_blank rel=noopener data-hbx=poweredby_cta>Build yours →</a></p></footer></div><div id=hb-notification-container class="fixed top-20 right-4 z-[9999] pointer-events-none" aria-live=polite aria-atomic=true></div></body></html>
+<a class="inline-flex items-center rounded px-2 py-0.5 border border-current ms-2 text-xs hover:opacity-100" href="https://hugoblox.com/templates/academic-cv/start?utm_source=site_footer&amp;utm_medium=referral&amp;utm_campaign=poweredby_oss&amp;utm_content=cta_academic-cv" target=_blank rel=noopener data-hbx=poweredby_cta>Build yours →</a></p></footer></div><div id=hb-notification-container class="fixed top-20 right-4 z-[9999] pointer-events-none" aria-live=polite aria-atomic=true></div><script>(function() {
+  const footer = document.querySelector('.page-footer footer');
+  if (!footer) return;
+  
+  // Get current date
+  const now = new Date();
+  const dateStr = now.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+  
+  // Find Privacy Notice link and add Legal Notice after it
+  const privacyLink = footer.querySelector('a[href="/privacy/"]');
+  if (privacyLink && privacyLink.parentNode) {
+    const legalLink = document.createElement('a');
+    legalLink.href = '/legal';
+    legalLink.className = 'hover:underline';
+    legalLink.textContent = 'Legal Notice';
+    
+    // Insert separator and legal link after privacy
+    privacyLink.parentNode.insertBefore(document.createTextNode(' | '), privacyLink.nextSibling);
+    privacyLink.parentNode.insertBefore(legalLink, privacyLink.nextSibling.nextSibling);
+  }
+  
+  // Add last modified date to copyright
+  const copyright = footer.querySelector('p.powered-by.text-center');
+  if (copyright) {
+    const innerText = copyright.innerText || copyright.textContent || '';
+    if (!innerText.includes('Last modified')) {
+      copyright.innerHTML = copyright.innerHTML.replace(
+        /(© \d{4}.*?)(<\/p>)/,
+        '$1 | Last modified: ' + dateStr + '$2'
+      );
+    }
+  }
+})();</script><script>(function() {
+  const footer = document.querySelector('.page-footer footer');
+  if (!footer) return;
+  
+  // Get current date
+  const now = new Date();
+  const dateStr = now.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+  
+  // Find Privacy Notice link and add Legal Notice after it
+  const privacyLink = footer.querySelector('a[href="/privacy/"]');
+  if (privacyLink && privacyLink.parentNode) {
+    const legalLink = document.createElement('a');
+    legalLink.href = '/legal';
+    legalLink.className = 'hover:underline';
+    legalLink.textContent = 'Legal Notice';
+    
+    // Insert separator and legal link after privacy
+    privacyLink.parentNode.insertBefore(document.createTextNode(' | '), privacyLink.nextSibling);
+    privacyLink.parentNode.insertBefore(legalLink, privacyLink.nextSibling.nextSibling);
+  }
+  
+  // Add last modified date to copyright
+  const copyright = footer.querySelector('p.powered-by.text-center');
+  if (copyright) {
+    const innerText = copyright.innerText || copyright.textContent || '';
+    if (!innerText.includes('Last modified')) {
+      copyright.innerHTML = copyright.innerHTML.replace(
+        /(© \d{4}.*?)(<\/p>)/,
+        '$1 | Last modified: ' + dateStr + '$2'
+      );
+    }
+  }
+})();</script></body></html>
