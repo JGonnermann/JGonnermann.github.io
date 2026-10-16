@@ -227,7 +227,6 @@ kramdown:
 # Includes & excludes
 include: ["_pages"]
 exclude:
-exclude:
   - AGENTS.md
   - al-folio-upgrade-report.md
   - bin/
