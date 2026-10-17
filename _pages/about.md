@@ -7,6 +7,12 @@ profile:
   align: right
   image: JGM.jpg
   image_circular: false
+  more_info: >
+    <p class="profile-links">
+      <a href="https://scholar.google.com/citations?user=55weieUAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+      <a href="https://www.linkedin.com/in/jana-gonnermann-m%C3%BCller-77b062190/" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
+      <a href="https://www.researchgate.net/profile/Jana-Gonnermann-Mueller" title="ResearchGate"><i class="ai ai-researchgate"></i></a>
+    </p>
 
 selected_papers: false
 social: false
@@ -25,3 +31,11 @@ latest_posts:
 I lead the research group **[Humans and AI]([URL-HUMANS-AND-AI](https://iol.zib.de/research/iol-human.html))** at the [Zuse Institute Berlin](https://www.zib.de) ([Interactive Optimization and Learning Lab](https://iol.zib.de)) and am an associate researcher at the [Weizenbaum Institute](https://www.weizenbaum-institut.de).
 
 My work sits at the intersection of psychology and AI. I trained as a psychologist and received my PhD in Information Systems. I study how people interact with AI systems with a focus on education and learning. My group develops LLM-based simulations and agents that help teachers personalize learning materials, context-aware AI tutors, and adaptive AR/VR for vocational training. A second line of work addresses human-AI synergy: when humans and AI complement each other, how trust develops, and how agency is shared.
+
+<style>
+  .profile-links a {
+    font-size: 1.5rem;
+    margin-right: 0.6rem;
+    text-decoration: none;
+  }
+</style>
