@@ -33,9 +33,12 @@ I lead the research group **[Humans and AI]([URL-HUMANS-AND-AI](https://iol.zib.
 My work sits at the intersection of psychology and AI. I trained as a psychologist and received my PhD in Information Systems. I study how people interact with AI systems with a focus on education and learning. My group develops LLM-based simulations and agents that help teachers personalize learning materials, context-aware AI tutors, and adaptive AR/VR for vocational training. A second line of work addresses human-AI synergy: when humans and AI complement each other, how trust develops, and how agency is shared.
 
 <style>
+  .profile-links {
+    text-align: center;
+  }
   .profile-links a {
     font-size: 1.5rem;
-    margin-right: 0.6rem;
+    margin: 0 0.3rem;
     text-decoration: none;
   }
 </style>
