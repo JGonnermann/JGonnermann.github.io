@@ -1,15 +1,23 @@
 ---
 layout: page
-permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+permalink: /teaching/
+description:
 nav: true
 nav_order: 3
-calendar: true
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+## Current thesis opportunities
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+- AI multi-agent systems for schools
+- AI for adaptive Augmented Reality
+- AI and decision-making
 
-{% include courses.liquid %}
+## Courses
+
+- **04/2025:** Organizational Knowledge Management<br>Lecturer, Master’s course, University of Potsdam
+- **04/2025:** Programming AR and VR Applications for Education<br>Seminar instructor, Master’s course, University of Potsdam
+- **04/2024:** Programming AR and VR Applications for Education<br>Seminar instructor, Master’s course, University of Potsdam
+- **04/2023:** Empirical Research Methods<br>Seminar instructor, Master’s course, University of Potsdam
+- **04/2022:** Empirical Research Methods<br>Seminar instructor, Master’s course, University of Potsdam
+- **04/2022:** Organizational Knowledge Management<br>Assistant, Master’s course, University of Potsdam
