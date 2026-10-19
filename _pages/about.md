@@ -7,7 +7,7 @@ profile:
   align: right
   image: JGM.jpg
   image_circular: false
-    more_info: >
+  more_info: >
     <p class="profile-links">
       <a href="https://scholar.google.com/citations?user=55weieUAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
       <a href="https://orcid.org/0000-0002-0313-3779" title="ORCID"><i class="ai ai-orcid"></i></a>
