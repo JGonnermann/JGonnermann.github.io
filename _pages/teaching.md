@@ -9,13 +9,13 @@ nav_order: 3
 
 <div class="teaching-list" markdown="1">
 
-### Current thesis opportunities
+### current thesis opportunities
 
 - AI multi-agent systems for schools
 - AI for adaptive Augmented Reality
 - AI and decision-making
 
-### Courses
+### courses
 
 - 2025-04 — **Organizational Knowledge Management**<br><span class="tag">lecturer</span> Master’s course, University of Potsdam
 - 2025-04 — **Programming AR and VR Applications for Education**<br><span class="tag">seminar instructor</span> Master’s course, University of Potsdam
