@@ -6,4 +6,4 @@ description:
 nav: false
 ---
 
-{% include updates.html full=true %}
+{% include custom.html %}
