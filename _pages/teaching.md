@@ -19,26 +19,43 @@ Interested in writing your thesis on one of these topics? [Send me an email](mai
 
 </div>
 
-<div class="teaching-list" markdown="1">
-
-### 2025
-
-- <span class="course-title">Organizational Knowledge Management</span><br><span class="course-meta"><span class="tag">lecturer</span> Master’s course, University of Potsdam · Apr 2025</span>
-- <span class="course-title">Programming AR and VR Applications for Education</span><br><span class="course-meta"><span class="tag">seminar instructor</span> Master’s course, University of Potsdam · Apr 2025</span>
-
-### 2024
-
-- <span class="course-title">Programming AR and VR Applications for Education</span><br><span class="course-meta"><span class="tag">seminar instructor</span> Master’s course, University of Potsdam · Apr 2024</span>
-
-### 2023
-
-- <span class="course-title">Empirical Research Methods</span><br><span class="course-meta"><span class="tag">seminar instructor</span> Master’s course, University of Potsdam · Apr 2023</span>
-
-### 2022
-
-- <span class="course-title">Empirical Research Methods</span><br><span class="course-meta"><span class="tag">seminar instructor</span> Master’s course, University of Potsdam · Apr 2022</span>
-- <span class="course-title">Organizational Knowledge Management</span><br><span class="course-meta"><span class="tag">assistant</span> Master’s course, University of Potsdam · Apr 2022</span>
-
+<div class="publications">
+<h2 class="bibliography">2025</h2>
+<ol class="bibliography">
+  <li>
+    <div class="title">Organizational Knowledge Management</div>
+    <div class="periodical"><span class="tag tag-role">lecturer</span> Master’s course, University of Potsdam · Apr 2025</div>
+  </li>
+  <li>
+    <div class="title">Programming AR and VR Applications for Education</div>
+    <div class="periodical"><span class="tag tag-role">seminar instructor</span> Master’s course, University of Potsdam · Apr 2025</div>
+  </li>
+</ol>
+<h2 class="bibliography">2024</h2>
+<ol class="bibliography">
+  <li>
+    <div class="title">Programming AR and VR Applications for Education</div>
+    <div class="periodical"><span class="tag tag-role">seminar instructor</span> Master’s course, University of Potsdam · Apr 2024</div>
+  </li>
+</ol>
+<h2 class="bibliography">2023</h2>
+<ol class="bibliography">
+  <li>
+    <div class="title">Empirical Research Methods</div>
+    <div class="periodical"><span class="tag tag-role">seminar instructor</span> Master’s course, University of Potsdam · Apr 2023</div>
+  </li>
+</ol>
+<h2 class="bibliography">2022</h2>
+<ol class="bibliography">
+  <li>
+    <div class="title">Empirical Research Methods</div>
+    <div class="periodical"><span class="tag tag-role">seminar instructor</span> Master’s course, University of Potsdam · Apr 2022</div>
+  </li>
+  <li>
+    <div class="title">Organizational Knowledge Management</div>
+    <div class="periodical"><span class="tag tag-role">assistant</span> Master’s course, University of Potsdam · Apr 2022</div>
+  </li>
+</ol>
 </div>
 
 <style>
@@ -65,53 +82,39 @@ Interested in writing your thesis on one of these topics? [Send me an email](mai
     margin-bottom: 0;
   }
 
-  /* year headings, as on the publications page */
-  .teaching-list h3 {
-    font-size: 1.15rem;
-    font-weight: 700;
-    border-bottom: 1px solid #111111;
-    padding: 0 0 0.35rem;
-    margin: 2.25rem 0 0.75rem;
-  }
-
-  /* entries, as on the publications page */
-  .teaching-list ul {
-    list-style: none;
+  /* same alignment as the publications page */
+  ol.bibliography {
     padding-left: 0;
-    margin: 0;
+    margin-left: 0;
+    list-style: none;
   }
-  .teaching-list li {
-    padding: 0.75rem 0.6rem;
+  ol.bibliography > li {
+    padding: 0.6rem 0.6rem;
     margin: 0 -0.6rem;
     border-radius: 4px;
     transition: background-color 0.15s ease;
   }
-  .teaching-list li:hover {
+  ol.bibliography > li:hover {
     background-color: #f0f0f0;
-  }
-  .course-title {
-    font-weight: 500;
-    font-size: 1rem;
-    line-height: 1.35;
-  }
-  .course-meta {
-    display: inline-block;
-    margin-top: 0.25rem;
-    font-size: 0.9rem;
-    color: #555555;
   }
   .tag {
     display: inline-block;
     font-size: 0.65rem;
+    font-style: normal;
     line-height: 1.3;
     padding: 0 0.35rem;
     margin-right: 0.3rem;
     border-radius: 3px;
-    border: 1px solid #c4c4c4;
-    background-color: #ececec;
+    border: 1px solid;
     text-transform: uppercase;
     vertical-align: middle;
     color: #111111;
+    font-family: inherit;
+    cursor: default;
+  }
+  .tag-role {
+    background-color: #ececec;
+    border-color: #c4c4c4;
   }
 </style>
 
