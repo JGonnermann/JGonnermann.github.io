@@ -20,9 +20,13 @@ latest_posts:
 <div class="hero">
 <div class="hero-text" markdown="1">
 
-I lead the research group **[Humans and AI](https://iol.zib.de/research/iol-human.html)** at the [Zuse Institute Berlin](https://www.zib.de) ([Interactive Optimization and Learning Lab](https://iol.zib.de)) and am an associate researcher at the [Weizenbaum Institute](https://www.weizenbaum-institut.de).
+I am a postdoctoral researcher and lead the [Humans and AI](https://iol.zib.de/research/iol-human.html) research area at the [Zuse Institute Berlin](https://www.zib.de/).
 
-My work sits at the intersection of psychology and AI. I trained as a psychologist and received my PhD in Information Systems. I study how people interact with AI systems with a focus on education and learning. My group develops LLM-based simulations and agents that help teachers personalize learning materials, context-aware AI tutors, and adaptive AR/VR for vocational training. A second line of work addresses human-AI synergy: when humans and AI complement each other, how trust develops, and how agency is shared.
+I trained as a psychologist and received my PhD in Information Systems. My work sits at the intersection of psychology, AI, and immersive technologies such as augmented reality, with a focus on education and learning. I combine methods from psychology and human-centered design to develop and evaluate adaptive systems for learning and decision-making.
+
+Within Humans and AI, we develop LLM-based simulations and multi-agent systems that help teachers personalize learning materials, AI tutors, and adaptive augmented reality for vocational training. A second line of work addresses human-AI synergy: when humans and AI complement each other, how trust develops, and how agency is shared.
+
+Learn more about [our research topics and team](https://iol.zib.de/research/iol-human.html).
 
 <p class="hero-tags">
   <span class="topic-tag">AI in education</span>
@@ -82,6 +86,7 @@ My work sits at the intersection of psychology and AI. I trained as a psychologi
     padding: 0.15rem 0.6rem;
     border: 1px solid #2b5797;
     border-radius: 3px;
+    background-color: #dce6f3;
     color: #2b5797;
     text-transform: uppercase;
     letter-spacing: 0.02em;
