@@ -9,13 +9,17 @@ nav_order: 3
 
 <div class="teaching-list" markdown="1">
 
-### current thesis opportunities
+### Current thesis opportunities
 
-- AI multi-agent systems for schools
-- AI for adaptive Augmented Reality
-- AI and decision-making
+<p class="thesis-tags">
+  <span class="topic-tag">AI multi-agent systems for schools</span>
+  <span class="topic-tag">AI for adaptive augmented reality</span>
+  <span class="topic-tag">AI and decision-making</span>
+</p>
 
-### courses
+Interested in writing your thesis on one of these topics? [Send me an email](mailto:gonnermann-mueller@zib.de) with a short note on your background and interests.
+
+### Courses
 
 - 2025-04 — **Organizational Knowledge Management**<br><span class="tag">lecturer</span> Master’s course, University of Potsdam
 - 2025-04 — **Programming AR and VR Applications for Education**<br><span class="tag">seminar instructor</span> Master’s course, University of Potsdam
@@ -38,6 +42,23 @@ nav_order: 3
   .teaching-list li {
     margin-bottom: 1.25rem;
   }
+  .thesis-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-bottom: 1rem;
+  }
+  .topic-tag {
+    display: inline-block;
+    font-size: 0.75rem;
+    line-height: 1.4;
+    padding: 0.15rem 0.6rem;
+    border: 1px solid #2b5797;
+    border-radius: 3px;
+    color: #2b5797;
+    text-transform: uppercase;
+    letter-spacing: 0.02em;
+  }
   .tag {
     display: inline-block;
     font-size: 0.65rem;
@@ -52,8 +73,5 @@ nav_order: 3
     color: #111111;
   }
 </style>
-
-{% include custom.html %}
-
 
 {% include custom.html %}
