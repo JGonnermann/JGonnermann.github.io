@@ -1,0 +1,75 @@
+{% assign updates = site.data.updates %}
+{% assign max = include.limit | default: 1000 %}
+
+<section class="updates">
+  {% unless include.full %}
+  <div class="updates-header">
+    <span class="updates-title">latest updates</span>
+    <a class="updates-all" href="{{ '/updates/' | relative_url }}">all updates →</a>
+  </div>
+  {% endunless %}
+
+  <ul class="timeline">
+    {% for item in updates limit: max %}
+    <li class="timeline-item">
+      <div class="timeline-date">{{ item.date | date: "%b %Y" }}</div>
+      <div class="timeline-text">{{ item.text | markdownify }}</div>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+
+<style>
+  .updates {
+    margin-top: 3rem;
+  }
+  .updates-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    padding-bottom: 0.5rem;
+    margin-bottom: 1.5rem;
+    border-bottom: 1px solid #111111;
+  }
+  .updates-title {
+    font-weight: 700;
+    font-size: 1.25rem;
+  }
+  .updates-all {
+    font-size: 0.9rem;
+    color: #777777 !important;
+    text-decoration: none !important;
+  }
+  .timeline {
+    list-style: none;
+    margin: 0;
+    padding: 0 0 0 1.5rem;
+    border-left: 1px solid #bbbbbb;
+    margin-left: 0.35rem;
+  }
+  .timeline-item {
+    position: relative;
+    padding-bottom: 1.5rem;
+  }
+  .timeline-item:last-child {
+    padding-bottom: 0;
+  }
+  .timeline-item::before {
+    content: "";
+    position: absolute;
+    left: calc(-1.5rem - 5px);
+    top: 0.45rem;
+    width: 9px;
+    height: 9px;
+    border-radius: 50%;
+    background-color: #111111;
+  }
+  .timeline-date {
+    font-size: 0.85rem;
+    color: #777777;
+    margin-bottom: 0.2rem;
+  }
+  .timeline-text p {
+    margin: 0;
+  }
+</style>
