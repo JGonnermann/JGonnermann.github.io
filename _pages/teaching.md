@@ -9,7 +9,7 @@ nav_order: 3
 
 <div class="thesis-box" markdown="1">
 
-### current thesis opportunities
+#### current thesis opportunities
 
 - AI multi-agent systems for schools
 - AI for adaptive augmented reality
@@ -19,7 +19,7 @@ Interested in writing your thesis on one of these topics? [Send me an email](mai
 
 </div>
 
-### courses
+#### courses
 
 <div class="publications">
 <h2 class="bibliography">2025</h2>
