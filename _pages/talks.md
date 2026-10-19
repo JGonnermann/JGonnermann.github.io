@@ -19,6 +19,7 @@ nav_order: 2
 
 <div class="talks-list" markdown="1">
 
+- 2026-06 — **Für jeden Kopf das passende Material? Mithilfe von KI im Schulunterricht differenzieren (in German)**<br><span class="tag tag-public">public</span> Long Night of the Sciences, [Zuse Institute Berlin](https://www.zib.de/node/18795) — Berlin, Germany
 - 2026-05 — **Persona Stability in LLM-Based Simulation**<br><span class="tag tag-academic">academic</span><span class="tag tag-poster">poster</span> [Behavioral Clones Workshop: Machines that Model Human Behavior, Max Planck Institute](https://machinebehavior.science/behavioral-clones-ws-26) — Berlin, Germany
 - 2026-04 — **Multi-Agent LLM Systems for Education: Simulating Diverse Learners to Support Teacher Workflows**<br><span class="tag tag-academic">academic</span> [Universitat Pompeu Fabra](https://www.upf.edu/web/davinia-hernandez-leo) — Barcelona, Spain
 - 2026-04 — **Temporal Stability of LLM Personas: A Prerequisite for Social Science Simulation**<br><span class="tag tag-academic">academic</span> [CHI Workshop on Responsible Use of AI Personas](https://chi2026.acm.org/workshops/accepted/#w29-from-generation-to-simulation-responsible-use-of-ai-personas-in-humancentered-design-and-research), [ACM CHI Conference](https://chi2026.acm.org/) — Barcelona, Spain
@@ -27,6 +28,7 @@ nav_order: 2
 - 2026-04 — **KI im therapeutischen Kontext (in German)**<br><span class="tag tag-public">public</span> Berlin Senate Department for Education, Youth and Family — Berlin, Germany
 - 2026-04 — **Schnell gefragt, schnell vergessen? Was KI mit unserem Lernen macht (in German)**<br><span class="tag tag-public">public</span> Main lecture, [Tag der Mathematik](https://tdm.math.fu-berlin.de/plenary.php) — Berlin, Germany
 - 2026-04 — **FACET – Ein multi-Agenten System für Lehrkräfte (in German)**<br><span class="tag tag-public">public</span> Workshop, [Tag der Mathematik](https://tdm.math.fu-berlin.de/teacher.php#fackeldey-gonnermann) — Berlin, Germany
+- 2026-04 — **Vom Prompt zum Lernbuddy – Chatbots und KI entdecken (in German)**<br><span class="tag tag-public">public</span> Workshop, Girls' Day 2026 — Berlin, Germany
 - 2025-11 — **KI-Fachtag der Schulen (in German)**<br><span class="tag tag-public">public</span> Primary and secondary schools and school supervision — Berlin, Germany
 - 2025-11 — **Weizenbaum Debate “KI gehört ins Klassenzimmer” (in German)**<br><span class="tag tag-public">public</span> [Weizenbaum Institute](https://www.weizenbaum-institut.de/news/detail/weizenbaum-debate-ki-gehoert-ins-klassenzimmer/) — Berlin, Germany
 - 2025-10 — **Simulating Student Diversity in Classrooms: Using Multi-Agent Systems to Generate Personalized Learning Material**<br><span class="tag tag-academic">academic</span> NHR Conference 2025 — Göttingen, Germany
@@ -141,6 +143,3 @@ nav_order: 2
     search.addEventListener('input', update);
   })();
 </script>
-
-
-{% include custom.html %}
