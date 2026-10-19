@@ -4,7 +4,7 @@ title: about
 permalink: /
 
 profile:
-  align: right
+  align: left
   image: JGM.jpg
   image_circular: false
   more_info: >
