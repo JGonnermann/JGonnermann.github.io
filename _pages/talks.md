@@ -19,28 +19,39 @@ nav_order: 2
 
 <div class="talks-list" markdown="1">
 
-- 2026-06 — **Für jeden Kopf das passende Material? Mithilfe von KI im Schulunterricht differenzieren (in German)**<br><span class="tag tag-public">public</span> Long Night of the Sciences, [Zuse Institute Berlin](https://www.zib.de/node/18795) — Berlin, Germany
-- 2026-05 — **Persona Stability in LLM-Based Simulation**<br><span class="tag tag-academic">academic</span><span class="tag tag-poster">poster</span> [Behavioral Clones Workshop: Machines that Model Human Behavior, Max Planck Institute](https://machinebehavior.science/behavioral-clones-ws-26) — Berlin, Germany
-- 2026-04 — **Multi-Agent LLM Systems for Education: Simulating Diverse Learners to Support Teacher Workflows**<br><span class="tag tag-academic">academic</span> [Universitat Pompeu Fabra](https://www.upf.edu/web/davinia-hernandez-leo) — Barcelona, Spain
-- 2026-04 — **Temporal Stability of LLM Personas: A Prerequisite for Social Science Simulation**<br><span class="tag tag-academic">academic</span> [CHI Workshop on Responsible Use of AI Personas](https://chi2026.acm.org/workshops/accepted/#w29-from-generation-to-simulation-responsible-use-of-ai-personas-in-humancentered-design-and-research), [ACM CHI Conference](https://chi2026.acm.org/) — Barcelona, Spain
-- 2026-04 — **Maintaining Stable Personas? Examining Temporal Stability in LLM-Based Human Simulation**<br><span class="tag tag-academic">academic</span><span class="tag tag-poster">poster</span> [ACM CHI Conference on Human Factors in Computing Systems](https://chi2026.acm.org/) — Barcelona, Spain
-- 2026-04 — **Within-Model vs Between-Prompt Variability in Large Language Models for Creative Tasks**<br><span class="tag tag-academic">academic</span><span class="tag tag-poster">poster</span> [ACM CHI Conference on Human Factors in Computing Systems](https://chi2026.acm.org/) — Barcelona, Spain
-- 2026-04 — **KI im therapeutischen Kontext (in German)**<br><span class="tag tag-public">public</span> Berlin Senate Department for Education, Youth and Family — Berlin, Germany
-- 2026-04 — **Schnell gefragt, schnell vergessen? Was KI mit unserem Lernen macht (in German)**<br><span class="tag tag-public">public</span> Main lecture, [Tag der Mathematik](https://tdm.math.fu-berlin.de/plenary.php) — Berlin, Germany
-- 2026-04 — **FACET – Ein multi-Agenten System für Lehrkräfte (in German)**<br><span class="tag tag-public">public</span> Workshop, [Tag der Mathematik](https://tdm.math.fu-berlin.de/teacher.php#fackeldey-gonnermann) — Berlin, Germany
-- 2026-04 — **Vom Prompt zum Lernbuddy – Chatbots und KI entdecken (in German)**<br><span class="tag tag-public">public</span> Workshop, Girls' Day 2026 — Berlin, Germany
-- 2025-11 — **KI-Fachtag der Schulen (in German)**<br><span class="tag tag-public">public</span> Primary and secondary schools and school supervision — Berlin, Germany
-- 2025-11 — **Weizenbaum Debate “KI gehört ins Klassenzimmer” (in German)**<br><span class="tag tag-public">public</span> [Weizenbaum Institute](https://www.weizenbaum-institut.de/news/detail/weizenbaum-debate-ki-gehoert-ins-klassenzimmer/) — Berlin, Germany
-- 2025-10 — **Simulating Student Diversity in Classrooms: Using Multi-Agent Systems to Generate Personalized Learning Material**<br><span class="tag tag-academic">academic</span> NHR Conference 2025 — Göttingen, Germany
-- 2025-04 — **XR-Kompass – Zukunftsfähige, immersive Aus- und Weiterbildung für KMU (in German)**<br><span class="tag tag-public">public</span> Wirtschaftsförderung Berlin Brandenburg (WFBB) — Potsdam, Germany
-- 2024-12 — **Value by Design: Reducing Cognitive Load by Using Visual Guidance in Augmented Reality – An Eye-Tracking Study**<br><span class="tag tag-academic">academic</span> [International Conference on Information Systems (ICIS)](https://icis2024.aisconferences.org/) — Bangkok, Thailand
-- 2024-10 — **Potentiale von Augmented Reality und Virtual Reality für KMU (in German)**<br><span class="tag tag-public">public</span> Akademische Gesellschaft — Potsdam, Germany
-- 2024-06 — **Augmented Reality im Onboarding mit bedingter KI-Unterstützung (in German)**<br><span class="tag tag-public">public</span> Chamber of Industry and Commerce (IHK) — Berlin, Germany
-- 2024-05 — **Möglichkeiten politischer Bildung (in German)**<br><span class="tag tag-public">public</span> State Parliament Brandenburg — Potsdam, Germany
-- 2023-12 — **Workshop: Lernfabrik und Weiterbildung Industrie 4.0 (in German)**<br><span class="tag tag-public">public</span> Bundesverband der Träger beruflicher Bildung — Potsdam, Germany
-- 2023-10 — **Einsatz von Augmented Reality – Nutzerzentrierte Gestaltungsmöglichkeiten (in German)**<br><span class="tag tag-public">public</span> BASF — Online
-- 2023-08 — **Influence of Pre-Experience on Learning in Virtual Environments**<br><span class="tag tag-academic">academic</span> Americas Conference on Information Systems (AMCIS) — Online
-- 2023-01 — **To What Extent Can Individualisation in Terms of Different Types of Mode Improve Learning Outcomes and Learner Satisfaction?**<br><span class="tag tag-academic">academic</span> Hawaii International Conference on System Sciences (HICSS) — Maui, Hawaii
+### 2026
+
+- <span class="talk-title">Für jeden Kopf das passende Material? Mithilfe von KI im Schulunterricht differenzieren (in German)</span><br><span class="talk-meta"><span class="tag tag-public">public</span> Long Night of the Sciences, [Zuse Institute Berlin](https://www.zib.de/node/18795) — Berlin, Germany · Jun 2026</span>
+- <span class="talk-title">Persona Stability in LLM-Based Simulation</span><br><span class="talk-meta"><span class="tag tag-academic">academic</span><span class="tag tag-poster">poster</span> [Behavioral Clones Workshop: Machines that Model Human Behavior, Max Planck Institute](https://machinebehavior.science/behavioral-clones-ws-26) — Berlin, Germany · May 2026</span>
+- <span class="talk-title">Multi-Agent LLM Systems for Education: Simulating Diverse Learners to Support Teacher Workflows</span><br><span class="talk-meta"><span class="tag tag-academic">academic</span> [Universitat Pompeu Fabra](https://www.upf.edu/web/davinia-hernandez-leo) — Barcelona, Spain · Apr 2026</span>
+- <span class="talk-title">Temporal Stability of LLM Personas: A Prerequisite for Social Science Simulation</span><br><span class="talk-meta"><span class="tag tag-academic">academic</span> [CHI Workshop on Responsible Use of AI Personas](https://chi2026.acm.org/workshops/accepted/#w29-from-generation-to-simulation-responsible-use-of-ai-personas-in-humancentered-design-and-research), [ACM CHI Conference](https://chi2026.acm.org/) — Barcelona, Spain · Apr 2026</span>
+- <span class="talk-title">Maintaining Stable Personas? Examining Temporal Stability in LLM-Based Human Simulation</span><br><span class="talk-meta"><span class="tag tag-academic">academic</span><span class="tag tag-poster">poster</span> [ACM CHI Conference on Human Factors in Computing Systems](https://chi2026.acm.org/) — Barcelona, Spain · Apr 2026</span>
+- <span class="talk-title">Within-Model vs Between-Prompt Variability in Large Language Models for Creative Tasks</span><br><span class="talk-meta"><span class="tag tag-academic">academic</span><span class="tag tag-poster">poster</span> [ACM CHI Conference on Human Factors in Computing Systems](https://chi2026.acm.org/) — Barcelona, Spain · Apr 2026</span>
+- <span class="talk-title">KI im therapeutischen Kontext (in German)</span><br><span class="talk-meta"><span class="tag tag-public">public</span> Berlin Senate Department for Education, Youth and Family — Berlin, Germany · Apr 2026</span>
+- <span class="talk-title">Schnell gefragt, schnell vergessen? Was KI mit unserem Lernen macht (in German)</span><br><span class="talk-meta"><span class="tag tag-public">public</span> Main lecture, [Tag der Mathematik](https://tdm.math.fu-berlin.de/plenary.php) — Berlin, Germany · Apr 2026</span>
+- <span class="talk-title">FACET – Ein multi-Agenten System für Lehrkräfte (in German)</span><br><span class="talk-meta"><span class="tag tag-public">public</span> Workshop, [Tag der Mathematik](https://tdm.math.fu-berlin.de/teacher.php#fackeldey-gonnermann) — Berlin, Germany · Apr 2026</span>
+- <span class="talk-title">Vom Prompt zum Lernbuddy – Chatbots und KI entdecken (in German)</span><br><span class="talk-meta"><span class="tag tag-public">public</span> Workshop, Girls' Day 2026 — Berlin, Germany · Apr 2026</span>
+
+### 2025
+
+- <span class="talk-title">KI-Fachtag der Schulen (in German)</span><br><span class="talk-meta"><span class="tag tag-public">public</span> Primary and secondary schools and school supervision — Berlin, Germany · Nov 2025</span>
+- <span class="talk-title">Weizenbaum Debate “KI gehört ins Klassenzimmer” (in German)</span><br><span class="talk-meta"><span class="tag tag-public">public</span> [Weizenbaum Institute](https://www.weizenbaum-institut.de/news/detail/weizenbaum-debate-ki-gehoert-ins-klassenzimmer/) — Berlin, Germany · Nov 2025</span>
+- <span class="talk-title">Simulating Student Diversity in Classrooms: Using Multi-Agent Systems to Generate Personalized Learning Material</span><br><span class="talk-meta"><span class="tag tag-academic">academic</span> NHR Conference 2025 — Göttingen, Germany · Oct 2025</span>
+- <span class="talk-title">XR-Kompass – Zukunftsfähige, immersive Aus- und Weiterbildung für KMU (in German)</span><br><span class="talk-meta"><span class="tag tag-public">public</span> Wirtschaftsförderung Berlin Brandenburg (WFBB) — Potsdam, Germany · Apr 2025</span>
+
+### 2024
+
+- <span class="talk-title">Value by Design: Reducing Cognitive Load by Using Visual Guidance in Augmented Reality – An Eye-Tracking Study</span><br><span class="talk-meta"><span class="tag tag-academic">academic</span> [International Conference on Information Systems (ICIS)](https://icis2024.aisconferences.org/) — Bangkok, Thailand · Dec 2024</span>
+- <span class="talk-title">Potentiale von Augmented Reality und Virtual Reality für KMU (in German)</span><br><span class="talk-meta"><span class="tag tag-public">public</span> Akademische Gesellschaft — Potsdam, Germany · Oct 2024</span>
+- <span class="talk-title">Augmented Reality im Onboarding mit bedingter KI-Unterstützung (in German)</span><br><span class="talk-meta"><span class="tag tag-public">public</span> Chamber of Industry and Commerce (IHK) — Berlin, Germany · Jun 2024</span>
+- <span class="talk-title">Möglichkeiten politischer Bildung (in German)</span><br><span class="talk-meta"><span class="tag tag-public">public</span> State Parliament Brandenburg — Potsdam, Germany · May 2024</span>
+
+### 2023
+
+- <span class="talk-title">Workshop: Lernfabrik und Weiterbildung Industrie 4.0 (in German)</span><br><span class="talk-meta"><span class="tag tag-public">public</span> Bundesverband der Träger beruflicher Bildung — Potsdam, Germany · Dec 2023</span>
+- <span class="talk-title">Einsatz von Augmented Reality – Nutzerzentrierte Gestaltungsmöglichkeiten (in German)</span><br><span class="talk-meta"><span class="tag tag-public">public</span> BASF — Online · Oct 2023</span>
+- <span class="talk-title">Influence of Pre-Experience on Learning in Virtual Environments</span><br><span class="talk-meta"><span class="tag tag-academic">academic</span> Americas Conference on Information Systems (AMCIS) — Online · Aug 2023</span>
+- <span class="talk-title">To What Extent Can Individualisation in Terms of Different Types of Mode Improve Learning Outcomes and Learner Satisfaction?</span><br><span class="talk-meta"><span class="tag tag-academic">academic</span> Hawaii International Conference on System Sciences (HICSS) — Maui, Hawaii · Jan 2023</span>
 
 </div>
 
@@ -48,7 +59,7 @@ nav_order: 2
 
 <style>
   .talks-controls {
-    margin-bottom: 1.5rem;
+    margin-bottom: 0.5rem;
   }
   .talks-hint {
     margin-bottom: 0.5rem;
@@ -66,9 +77,44 @@ nav_order: 2
   .talks-filter {
     margin-top: 0.6rem;
   }
-  .talks-list li {
-    margin-bottom: 1.25rem;
+
+  /* year headings, as on the publications page */
+  .talks-list h3 {
+    font-size: 1.15rem;
+    font-weight: 700;
+    border-bottom: 1px solid #111111;
+    padding: 0 0 0.35rem;
+    margin: 2.25rem 0 0.75rem;
   }
+
+  /* entries, as on the publications page */
+  .talks-list ul {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+  }
+  .talks-list li {
+    padding: 0.75rem 0.6rem;
+    margin: 0 -0.6rem;
+    border-radius: 4px;
+    transition: background-color 0.15s ease;
+  }
+  .talks-list li:hover {
+    background-color: #f0f0f0;
+  }
+  .talk-title {
+    font-weight: 700;
+    font-size: 1.05rem;
+    line-height: 1.35;
+  }
+  .talk-meta {
+    display: inline-block;
+    margin-top: 0.25rem;
+    font-size: 0.9rem;
+    color: #555555;
+  }
+
+  /* boxes */
   .tag {
     display: inline-block;
     font-size: 0.65rem;
@@ -116,6 +162,7 @@ nav_order: 2
     var search = document.getElementById('talks-search');
     var buttons = document.querySelectorAll('.talks-filter .tag');
     var items = document.querySelectorAll('.talks-list li');
+    var headings = document.querySelectorAll('.talks-list h3');
     var empty = document.getElementById('talks-empty');
     var activeFilter = 'all';
 
@@ -128,6 +175,16 @@ nav_order: 2
         var visible = matchesFilter && matchesSearch;
         item.style.display = visible ? '' : 'none';
         if (visible) shown++;
+      });
+      // hide a year heading when none of its talks are visible
+      headings.forEach(function (h) {
+        var list = h.nextElementSibling;
+        if (!list) return;
+        var any = Array.prototype.some.call(list.querySelectorAll('li'), function (li) {
+          return li.style.display !== 'none';
+        });
+        h.style.display = any ? '' : 'none';
+        list.style.display = any ? '' : 'none';
       });
       empty.hidden = shown !== 0;
     }
