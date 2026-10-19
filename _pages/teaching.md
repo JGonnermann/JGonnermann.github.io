@@ -7,59 +7,98 @@ nav: true
 nav_order: 3
 ---
 
-<div class="teaching-list" markdown="1">
+<div class="thesis-box" markdown="1">
 
 ### Current thesis opportunities
 
-<p class="thesis-tags">
-  <span class="topic-tag">AI multi-agent systems for schools</span>
-  <span class="topic-tag">AI for adaptive augmented reality</span>
-  <span class="topic-tag">AI and decision-making</span>
-</p>
+- AI multi-agent systems for schools
+- AI for adaptive augmented reality
+- AI and decision-making
 
 Interested in writing your thesis on one of these topics? [Send me an email](mailto:gonnermann-mueller@zib.de) with a short note on your background and interests.
 
-### Courses
+</div>
 
-- 2025-04 — **Organizational Knowledge Management**<br><span class="tag">lecturer</span> Master’s course, University of Potsdam
-- 2025-04 — **Programming AR and VR Applications for Education**<br><span class="tag">seminar instructor</span> Master’s course, University of Potsdam
-- 2024-04 — **Programming AR and VR Applications for Education**<br><span class="tag">seminar instructor</span> Master’s course, University of Potsdam
-- 2023-04 — **Empirical Research Methods**<br><span class="tag">seminar instructor</span> Master’s course, University of Potsdam
-- 2022-04 — **Empirical Research Methods**<br><span class="tag">seminar instructor</span> Master’s course, University of Potsdam
-- 2022-04 — **Organizational Knowledge Management**<br><span class="tag">assistant</span> Master’s course, University of Potsdam
+<div class="teaching-list" markdown="1">
+
+### 2025
+
+- <span class="course-title">Organizational Knowledge Management</span><br><span class="course-meta"><span class="tag">lecturer</span> Master’s course, University of Potsdam · Apr 2025</span>
+- <span class="course-title">Programming AR and VR Applications for Education</span><br><span class="course-meta"><span class="tag">seminar instructor</span> Master’s course, University of Potsdam · Apr 2025</span>
+
+### 2024
+
+- <span class="course-title">Programming AR and VR Applications for Education</span><br><span class="course-meta"><span class="tag">seminar instructor</span> Master’s course, University of Potsdam · Apr 2024</span>
+
+### 2023
+
+- <span class="course-title">Empirical Research Methods</span><br><span class="course-meta"><span class="tag">seminar instructor</span> Master’s course, University of Potsdam · Apr 2023</span>
+
+### 2022
+
+- <span class="course-title">Empirical Research Methods</span><br><span class="course-meta"><span class="tag">seminar instructor</span> Master’s course, University of Potsdam · Apr 2022</span>
+- <span class="course-title">Organizational Knowledge Management</span><br><span class="course-meta"><span class="tag">assistant</span> Master’s course, University of Potsdam · Apr 2022</span>
 
 </div>
 
 <style>
-  .teaching-list h3 {
-    font-size: 1.2rem;
-    margin-top: 2rem;
+  /* grey box, as on the about page */
+  .thesis-box {
+    background-color: #ececec;
+    border-radius: 6px;
+    padding: 1.75rem 2rem;
     margin-bottom: 1rem;
   }
-  .teaching-list h3:first-child {
-    margin-top: 0;
+  .thesis-box h3 {
+    font-size: 1.15rem;
+    font-weight: 700;
+    margin: 0 0 0.75rem;
+  }
+  .thesis-box ul {
+    margin: 0 0 1rem;
+    padding-left: 1.2rem;
+  }
+  .thesis-box li {
+    margin-bottom: 0.25rem;
+  }
+  .thesis-box p:last-child {
+    margin-bottom: 0;
+  }
+
+  /* year headings, as on the publications page */
+  .teaching-list h3 {
+    font-size: 1.15rem;
+    font-weight: 700;
+    border-bottom: 1px solid #111111;
+    padding: 0 0 0.35rem;
+    margin: 2.25rem 0 0.75rem;
+  }
+
+  /* entries, as on the publications page */
+  .teaching-list ul {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
   }
   .teaching-list li {
-    margin-bottom: 1.25rem;
+    padding: 0.75rem 0.6rem;
+    margin: 0 -0.6rem;
+    border-radius: 4px;
+    transition: background-color 0.15s ease;
   }
-  .thesis-tags {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 0.5rem;
-    margin-bottom: 1rem;
+  .teaching-list li:hover {
+    background-color: #f0f0f0;
   }
-  .topic-tag {
+  .course-title {
+    font-weight: 700;
+    font-size: 1.05rem;
+    line-height: 1.35;
+  }
+  .course-meta {
     display: inline-block;
-    font-size: 0.75rem;
-    line-height: 1.4;
-    padding: 0.15rem 0.6rem;
-    border: 1px solid #2b5797;
-    border-radius: 3px;
-    background-color: #dce6f3;
-    color: #2b5797;
-    text-transform: uppercase;
-    letter-spacing: 0.02em;
+    margin-top: 0.25rem;
+    font-size: 0.9rem;
+    color: #555555;
   }
   .tag {
     display: inline-block;
