@@ -7,11 +7,13 @@ profile:
   align: right
   image: JGM.jpg
   image_circular: false
-  more_info: >
+    more_info: >
     <p class="profile-links">
       <a href="https://scholar.google.com/citations?user=55weieUAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
-      <a href="https://www.linkedin.com/in/jana-gonnermann-m%C3%BCller-77b062190/" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
+      <a href="https://orcid.org/0000-0002-0313-3779" title="ORCID"><i class="ai ai-orcid"></i></a>
       <a href="https://www.researchgate.net/profile/Jana-Gonnermann-Mueller" title="ResearchGate"><i class="ai ai-researchgate"></i></a>
+      <a href="https://www.linkedin.com/in/jana-gonnermann-m%C3%BCller-77b062190/" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
+      <a href="mailto:gonnermann-mueller@zib.de" title="Email"><i class="fa-solid fa-envelope"></i></a>
     </p>
 
 selected_papers: false
@@ -33,12 +35,17 @@ I lead the research group **[Humans and AI]([URL-HUMANS-AND-AI](https://iol.zib.
 My work sits at the intersection of psychology and AI. I trained as a psychologist and received my PhD in Information Systems. I study how people interact with AI systems with a focus on education and learning. My group develops LLM-based simulations and agents that help teachers personalize learning materials, context-aware AI tutors, and adaptive AR/VR for vocational training. A second line of work addresses human-AI synergy: when humans and AI complement each other, how trust develops, and how agency is shared.
 
 <style>
+  .more-info,
   .profile-links {
     text-align: center;
   }
+  .profile-links {
+    display: flex;
+    justify-content: center;
+    gap: 0.8rem;
+  }
   .profile-links a {
     font-size: 1.5rem;
-    margin: 0 0.3rem;
     text-decoration: none;
   }
 </style>
