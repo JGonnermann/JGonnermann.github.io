@@ -8,12 +8,12 @@ nav_order: 2
 ---
 
 <div class="talks-controls">
+  <p class="talks-hint">Search the list or use the academic and public filters to narrow it down.</p>
   <input type="search" id="talks-search" placeholder="Type to filter" aria-label="Search talks">
   <div class="talks-filter">
     <button type="button" class="tag tag-all is-active" data-filter="all">all</button>
     <button type="button" class="tag tag-academic" data-filter="academic">academic</button>
     <button type="button" class="tag tag-public" data-filter="public">public</button>
-    <button type="button" class="tag tag-poster" data-filter="poster">poster</button>
   </div>
 </div>
 
@@ -47,6 +47,10 @@ nav_order: 2
 <style>
   .talks-controls {
     margin-bottom: 1.5rem;
+  }
+  .talks-hint {
+    margin-bottom: 0.5rem;
+    color: #555555;
   }
   #talks-search {
     width: 100%;
@@ -86,8 +90,8 @@ nav_order: 2
     border-color: #86efac;
   }
   .tag-poster {
-    background-color: #fef9c3;
-    border-color: #fde047;
+    background-color: #ececec;
+    border-color: #c4c4c4;
   }
   .tag-all {
     background-color: transparent;
