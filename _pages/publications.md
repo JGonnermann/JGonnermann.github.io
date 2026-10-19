@@ -40,4 +40,15 @@ nav_order: 1
   }
 </style>
 
+  ol.bibliography .links a.btn,
+  ol.bibliography .links .btn {
+    color: #2b5797 !important;
+    border-color: #2b5797 !important;
+  }
+  ol.bibliography .links a.btn:hover,
+  ol.bibliography .links .btn:hover {
+    background-color: #2b5797 !important;
+    color: #ffffff !important;
+  }
+
 {% include custom.html %}
