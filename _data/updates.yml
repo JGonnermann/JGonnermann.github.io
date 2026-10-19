@@ -2,6 +2,8 @@
 # Add a new entry at the TOP. The list is shown in the order written here.
 # Date: year-month-day. Only month and year are displayed, so the day can stay 01.
 # Text uses Markdown: *italic*, **bold**, [link text](https://...)
+# For several papers in one update, use "text: |-" and a bulleted list
+# with an empty line before it (see the September 2026 entry).
 
 - date: 2026-10-01
   text: >-
@@ -9,11 +11,12 @@
     [Within-Model vs Between-Prompt Variability in Large Language Models for Creative Tasks](https://arxiv.org/abs/2601.21339v1)
 
 - date: 2026-09-01
-  text: >-
-    New preprints:
-    [Prompting Against Persona Drift: Comparing Intervention Timing and Content in LLM-Simulated Conversations](https://arxiv.org/abs/2609.24532);
-    [LLM-Based Educational Simulation: Evaluating Temporal Student Persona Stability Across ADHD Profiles](https://arxiv.org/abs/2605.06307);
-    [Simulating Eating Disorder Patients with LLMs: Evaluating Psychological Persona Stability in Multi-Turn Conversations](https://arxiv.org/abs/2606.26109)
+  text: |-
+    New preprints on arXiv:
+
+    - [Prompting Against Persona Drift: Comparing Intervention Timing and Content in LLM-Simulated Conversations](https://arxiv.org/abs/2609.24532)
+    - [LLM-Based Educational Simulation: Evaluating Temporal Student Persona Stability Across ADHD Profiles](https://arxiv.org/abs/2605.06307)
+    - [Simulating Eating Disorder Patients with LLMs: Evaluating Psychological Persona Stability in Multi-Turn Conversations](https://arxiv.org/abs/2606.26109)
 
 - date: 2026-08-01
   text: >-
@@ -22,7 +25,7 @@
 
 - date: 2026-08-01
   text: >-
-    New preprint:
+    New preprint on arXiv:
     [When Does LLM Orchestration Pay Off? A Controlled Evaluation of Accuracy, Cost, and Task Difficulty](https://arxiv.org/abs/2608.00685)
 
 - date: 2026-06-01
@@ -36,10 +39,11 @@
     *Multi-Agent LLM Systems for Education: Simulating Diverse Learners to Support Teacher Workflows*
 
 - date: 2026-04-01
-  text: >-
+  text: |-
     Two posters at [ACM CHI 2026](https://chi2026.acm.org/), Barcelona:
-    [Maintaining Stable Personas? Examining Temporal Stability in LLM-Based Human Simulation](https://dl.acm.org/doi/10.1145/3772363.3799334);
-    [It’s Not Just the Prompt: Model Choice Dominates LLM Creative Output](https://dl.acm.org/doi/full/10.1145/3772363.3799284)
+
+    - [Maintaining Stable Personas? Examining Temporal Stability in LLM-Based Human Simulation](https://dl.acm.org/doi/10.1145/3772363.3799334)
+    - [It’s Not Just the Prompt: Model Choice Dominates LLM Creative Output](https://dl.acm.org/doi/full/10.1145/3772363.3799284)
 
 - date: 2026-04-01
   text: >-
