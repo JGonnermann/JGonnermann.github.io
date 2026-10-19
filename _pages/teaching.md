@@ -90,8 +90,8 @@ Interested in writing your thesis on one of these topics? [Send me an email](mai
     background-color: #f0f0f0;
   }
   .course-title {
-    font-weight: 700;
-    font-size: 1.05rem;
+    font-weight: 500;
+    font-size: 1rem;
     line-height: 1.35;
   }
   .course-meta {
