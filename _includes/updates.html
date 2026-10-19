@@ -49,16 +49,22 @@
   }
   .timeline-item {
     position: relative;
-    padding-bottom: 1.5rem;
+    padding: 0.5rem 0.6rem;
+    margin: 0 -0.6rem 0.75rem;
+    border-radius: 4px;
+    transition: background-color 0.15s ease;
   }
   .timeline-item:last-child {
-    padding-bottom: 0;
+    margin-bottom: 0;
+  }
+  .timeline-item:hover {
+    background-color: #f0f0f0;
   }
   .timeline-item::before {
     content: "";
     position: absolute;
-    left: calc(-1.5rem - 5px);
-    top: 0.45rem;
+    left: calc(-1.5rem - 5px + 0.6rem);
+    top: 0.95rem;
     width: 9px;
     height: 9px;
     border-radius: 50%;
