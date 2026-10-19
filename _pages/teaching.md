@@ -9,7 +9,7 @@ nav_order: 3
 
 <div class="thesis-box" markdown="1">
 
-### Current thesis opportunities
+### current thesis opportunities
 
 - AI multi-agent systems for schools
 - AI for adaptive augmented reality
@@ -18,6 +18,8 @@ nav_order: 3
 Interested in writing your thesis on one of these topics? [Send me an email](mailto:gonnermann-mueller@zib.de) with a short note on your background and interests.
 
 </div>
+
+### courses
 
 <div class="publications">
 <h2 class="bibliography">2025</h2>
