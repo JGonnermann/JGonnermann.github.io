@@ -46,6 +46,11 @@ My work sits at the intersection of psychology and AI. I trained as a psychologi
 {% include updates.html limit=5 %}
 
 <style>
+  /* hide the large name heading on the about page only */
+  .post-header,
+  h1.post-title {
+    display: none;
+  }
   .hero {
     display: grid;
     grid-template-columns: 1fr 260px;
