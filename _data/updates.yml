@@ -28,10 +28,20 @@
     New preprint on arXiv:
     [When Does LLM Orchestration Pay Off? A Controlled Evaluation of Accuracy, Cost, and Task Difficulty](https://arxiv.org/abs/2608.00685)
 
+- date: 2026-07-01
+  text: >-
+    Find out more about our FACET project in the
+    [TU Berlin press release](https://www.tu.berlin/news/pressemitteilung/differenziert-unterrichten-ki-gestuetztes-tool-facet-unterstuetzt-lehrkraefte) (in German)
+
 - date: 2026-06-01
   text: >-
     Paper accepted at IJCAI 2026:
     [FACET: Multi-Agent AI Supporting Teachers in Scaling Differentiated Learning for Diverse Students](https://www.ijcai.org/proceedings/2026/797)
+
+- date: 2026-06-01
+  text: >-
+    Meet us at the [Long Night of the Sciences](https://www.zib.de/node/18795) at the Zuse Institute Berlin:
+    *Für jeden Kopf das passende Material? Mithilfe von KI im Schulunterricht differenzieren* (in German)
 
 - date: 2026-04-01
   text: >-
@@ -54,6 +64,11 @@
     Main lecture at the [Tag der Mathematik](https://tdm.math.fu-berlin.de/plenary.php), Berlin:
     *Schnell gefragt, schnell vergessen? Was KI mit unserem Lernen macht* (in German)
 
+- date: 2026-04-01
+  text: >-
+    Workshop at Girls' Day 2026:
+    *Vom Prompt zum Lernbuddy – Chatbots und KI entdecken* (in German)
+
 - date: 2025-11-01
   text: >-
     Panel discussion at the
@@ -69,3 +84,11 @@
   text: >-
     I successfully defended my PhD thesis *A Cognitive Load-Based Design Framework for Augmented Reality Training*.
     Many thanks to Thomas Kosch and Norbert Gronau for their supervision.
+
+- date: 2025-08-01
+  text: >-
+    New project: [FACET – Framework for Agent-Based Classroom Enhancement for Teachers](https://iol.zib.de/project/facet.html)
+
+- date: 2025-08-01
+  text: >-
+    New project: [AI Meets Psychology and Systems](https://iol.zib.de/project/aipsysys.html)
