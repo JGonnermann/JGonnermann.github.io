@@ -103,8 +103,8 @@ nav_order: 2
     background-color: #f0f0f0;
   }
   .talk-title {
-    font-weight: 700;
-    font-size: 1.05rem;
+    font-weight: 500;
+    font-size: 1rem;
     line-height: 1.35;
   }
   .talk-meta {
