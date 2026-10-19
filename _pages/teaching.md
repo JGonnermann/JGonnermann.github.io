@@ -44,7 +44,8 @@ Interested in writing your thesis on one of these topics? [Send me an email](mai
   }
   .thesis-tags {
     display: flex;
-    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: flex-start;
     gap: 0.5rem;
     margin-bottom: 1rem;
   }
@@ -55,6 +56,7 @@ Interested in writing your thesis on one of these topics? [Send me an email](mai
     padding: 0.15rem 0.6rem;
     border: 1px solid #2b5797;
     border-radius: 3px;
+    background-color: #dce6f3;
     color: #2b5797;
     text-transform: uppercase;
     letter-spacing: 0.02em;
