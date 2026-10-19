@@ -32,7 +32,7 @@ latest_posts:
 
 I lead the research group **[Humans and AI](https://iol.zib.de/research/iol-human.html)** at the [Zuse Institute Berlin](https://www.zib.de) ([Interactive Optimization and Learning Lab](https://iol.zib.de)) and am an associate researcher at the [Weizenbaum Institute](https://www.weizenbaum-institut.de).
 
-PASTE YOUR SECOND PARAGRAPH HERE
+My work sits at the intersection of psychology and AI. I trained as a psychologist and received my PhD in Information Systems. I study how people interact with AI systems with a focus on education and learning. My group develops LLM-based simulations and agents that help teachers personalize learning materials, context-aware AI tutors, and adaptive AR/VR for vocational training. A second line of work addresses human-AI synergy: when humans and AI complement each other, how trust develops, and how agency is shared.
 
 {% include updates.html limit=5 %}
 
