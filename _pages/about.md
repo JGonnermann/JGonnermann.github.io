@@ -51,3 +51,5 @@ My work sits at the intersection of psychology and AI. I trained as a psychologi
     text-decoration: none;
   }
 </style>
+
+{% include custom.html %}
