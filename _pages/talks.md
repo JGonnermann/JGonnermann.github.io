@@ -53,7 +53,7 @@ nav_order: 2
     <div class="periodical"><span class="tag tag-public">public</span> Main lecture, <a href="https://tdm.math.fu-berlin.de/plenary.php">Tag der Mathematik</a> — Berlin, Germany · Apr 2026</div>
   </li>
   <li>
-    <div class="title">FACET – Ein multi-Agenten System für Lehrkräfte (in German)</div>
+    <div class="title">FACET – Ein Multi-Agenten System für Lehrkräfte (in German)</div>
     <div class="periodical"><span class="tag tag-public">public</span> Workshop, <a href="https://tdm.math.fu-berlin.de/teacher.php#fackeldey-gonnermann">Tag der Mathematik</a> — Berlin, Germany · Apr 2026</div>
   </li>
   <li>
