@@ -1,8 +1,45 @@
 <style>
+  /* ---------- colours ---------- */
   :root,
   html[data-theme="light"],
   html[data-theme="dark"] {
     --global-theme-color: #2b5797;
     --global-hover-color: #2b5797;
+  }
+
+  /* ---------- one shared style for all pages (based on the publications page) ---------- */
+
+  /* year headings: small, bold, left-aligned, black line below */
+  .publications h2.bibliography {
+    text-align: left;
+    font-size: 1.15rem;
+    font-weight: 700;
+    border-top: none;
+    border-bottom: 1px solid #111111;
+    padding: 0 0 0.35rem;
+    margin: 2.25rem 0 0.75rem;
+  }
+
+  /* section headings inside pages (e.g. "courses", "current thesis opportunities"):
+     same size and weight as the year headings, without the line */
+  article h2:not(.bibliography),
+  article h3 {
+    font-size: 1.15rem;
+    font-weight: 700;
+  }
+
+  /* entries: no bullets, aligned with the headings */
+  .publications ol.bibliography {
+    padding-left: 0;
+    margin-left: 0;
+    list-style: none;
+  }
+
+  /* line below a title (venue, event, course): italic, as on the publications page */
+  .publications ol.bibliography .periodical {
+    font-style: italic;
+  }
+  .publications ol.bibliography .periodical .tag {
+    font-style: normal;
   }
 </style>
