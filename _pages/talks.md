@@ -34,7 +34,7 @@ nav_order: 2
   </li>
   <li>
     <div class="title">Temporal Stability of LLM Personas: A Prerequisite for Social Science Simulation</div>
-    <div class="periodical"><span class="tag tag-academic">academic</span> <a href="https://chi2026.acm.org/workshops/accepted/#w29-from-generation-to-simulation-responsible-use-of-ai-personas-in-humancentered-design-and-research">CHI Workshop on Responsible Use of AI Personas</a>, <a href="https://chi2026.acm.org/">ACM CHI Conference</a> — Barcelona, Spain · Apr 2026</div>
+    <div class="periodical"><span class="tag tag-academic">academic</span> <a href="https://chi2026.acm.org/workshops/accepted/#w29-from-generation-to-simulation-responsible-use-of-ai-personas-in-humancentered-design-and-research">CHI Workshop on Responsible Use of AI Personas</a>, <a href="https://chi2026.acm.org/">ACM CHI Conference on Human Factors in Computing Systems</a> — Barcelona, Spain · Apr 2026</div>
   </li>
   <li>
     <div class="title">Maintaining Stable Personas? Examining Temporal Stability in LLM-Based Human Simulation</div>
@@ -115,7 +115,7 @@ nav_order: 2
   </li>
   <li>
     <div class="title">To What Extent Can Individualisation in Terms of Different Types of Mode Improve Learning Outcomes and Learner Satisfaction?</div>
-    <div class="periodical"><span class="tag tag-academic">academic</span> Hawaii International Conference on System Sciences (HICSS) — Maui, Hawaii · Jan 2023</div>
+    <div class="periodical"><span class="tag tag-academic">academic</span> Hawaii International Conference on System Sciences (HICSS) — Maui, US · Jan 2023</div>
   </li>
 </ol>
 </div>
