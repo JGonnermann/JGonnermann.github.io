@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://JGonnermann.github.io/sitemap.xml
+Sitemap: https://janagonnermann.com/sitemap.xml
