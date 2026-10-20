@@ -41,7 +41,7 @@ nav_order: 2
     <div class="periodical"><span class="tag tag-academic">academic</span><span class="tag tag-poster">poster</span> <a href="https://chi2026.acm.org/">ACM CHI Conference on Human Factors in Computing Systems</a> — Barcelona, Spain · Apr 2026</div>
   </li>
   <li>
-    <div class="title">Within-Model vs Between-Prompt Variability in Large Language Models for Creative Tasks</div>
+    <div class="title">It’s Not Just the Prompt: Model Choice Dominates LLM Creative Output</div>
     <div class="periodical"><span class="tag tag-academic">academic</span><span class="tag tag-poster">poster</span> <a href="https://chi2026.acm.org/">ACM CHI Conference on Human Factors in Computing Systems</a> — Barcelona, Spain · Apr 2026</div>
   </li>
   <li>
