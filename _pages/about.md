@@ -24,7 +24,7 @@ I am a postdoctoral researcher and lead the [Humans and AI](https://iol.zib.de/r
 
 I trained as a psychologist and received my PhD in Information Systems. My work sits at the intersection of psychology, AI, and immersive technologies such as augmented reality, with a focus on education and learning. I combine methods from psychology and human-centered design to develop and evaluate adaptive systems for learning and decision-making.
 
-Within Humans and AI, we develop LLM-based simulations and multi-agent systems that help teachers personalize learning materials, AI tutors, and adaptive augmented reality for vocational training. A second line of work addresses human-AI synergy: when humans and AI complement each other, how trust develops, and how agency is shared.
+Within Humans and AI, we develop LLM-based simulations and multi-agent systems that help teachers personalize learning materials, as well as AI tutors and adaptive augmented reality for vocational training. A second line of work addresses human-AI synergy: when humans and AI complement each other, how trust develops, and how agency is shared.
 
 Learn more about [our research topics and team](https://iol.zib.de/research/iol-human.html).
 
