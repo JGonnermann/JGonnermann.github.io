@@ -10,7 +10,8 @@ contact_note: >
   The best way to reach me is by email.
 description: >
   Research group lead at Zuse Institute Berlin, working on human-AI interaction and AI in education.
-footer_text: > 
+footer_text: >
+     <a href="/privacy-policy/">Privacy Policy</a>
 keywords: human-AI interaction, AI in education, HCI
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 👩🏽‍🏫 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
