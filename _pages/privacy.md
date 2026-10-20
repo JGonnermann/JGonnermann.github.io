@@ -8,7 +8,8 @@ nav: false
 
 <div class="legal" markdown="1">
 
-Last updated: October 2026 Aktualisiert: Oktober 2026
+Last updated: October 2026 
+Aktualisiert: Oktober 2026
 
 ## English Version
 
@@ -68,7 +69,7 @@ Last updated: October 2026 Aktualisiert: Oktober 2026
 
 Diese Website (janagonnermann.com/) wird von Jana Gonnermann-Müller als privates, nicht-kommerzielles Informationsangebot betrieben. Diese Datenschutzerklärung informiert gemäß Art. 13 DSGVO über die Verarbeitung personenbezogener Daten auf dieser Website.
 
-### 2. Verantwortlicher
+### 2. Verantwortliche
 
 Jana Gonnermann-Müller Email: gonnermann-mueller@zib.de
 
