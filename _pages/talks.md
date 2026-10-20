@@ -22,7 +22,7 @@ nav_order: 2
 <ol class="bibliography">
   <li>
     <div class="title">Für jeden Kopf das passende Material? Mithilfe von KI im Schulunterricht differenzieren (in German)</div>
-    <div class="periodical"><span class="tag tag-public">public</span> Long Night of the Sciences, <a href="https://www.zib.de/node/18795">Zuse Institute Berlin</a> — Berlin, Germany · Jun 2026</div>
+    <div class="periodical"><span class="tag tag-public">public</span> <a href="https://www.zib.de/node/18795">Long Night of the Sciences</a>, Zuse Institute Berlin — Berlin, Germany · Jun 2026</div>
   </li>
   <li>
     <div class="title">Persona Stability in LLM-Based Simulation</div>
