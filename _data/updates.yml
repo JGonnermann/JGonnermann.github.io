@@ -12,11 +12,9 @@
 
 - date: 2026-09-01
   text: |-
-    New preprints on arXiv:
+    New preprint on arXiv:
 
     - [Prompting Against Persona Drift: Comparing Intervention Timing and Content in LLM-Simulated Conversations](https://arxiv.org/abs/2609.24532)
-    - [LLM-Based Educational Simulation: Evaluating Temporal Student Persona Stability Across ADHD Profiles](https://arxiv.org/abs/2605.06307)
-    - [Simulating Eating Disorder Patients with LLMs: Evaluating Psychological Persona Stability in Multi-Turn Conversations](https://arxiv.org/abs/2606.26109)
 
 - date: 2026-08-01
   text: >-
@@ -35,7 +33,7 @@
 
 - date: 2026-06-01
   text: >-
-    Paper accepted at IJCAI 2026:
+    Paper accepted at IJCAI AI and Social Good 2026:
     [FACET: Multi-Agent AI Supporting Teachers in Scaling Differentiated Learning for Diverse Students](https://www.ijcai.org/proceedings/2026/797)
 
 - date: 2026-06-01
@@ -43,6 +41,13 @@
     Meet us at the [Long Night of the Sciences](https://www.zib.de/node/18795) at the Zuse Institute Berlin:
     *Für jeden Kopf das passende Material? Mithilfe von KI im Schulunterricht differenzieren* (in German)
 
+- date: 2026-05-10
+  text: |-
+    New preprints on arXiv:
+
+    - [LLM-Based Educational Simulation: Evaluating Temporal Student Persona Stability Across ADHD Profiles](https://arxiv.org/abs/2605.06307)
+    - [Simulating Eating Disorder Patients with LLMs: Evaluating Psychological Persona Stability in Multi-Turn Conversations](https://arxiv.org/abs/2606.26109)
+    
 - date: 2026-04-01
   text: >-
     Talk at [Universitat Pompeu Fabra](https://www.upf.edu/web/davinia-hernandez-leo), Barcelona, Spain:
@@ -61,12 +66,12 @@
 
 - date: 2026-04-01
   text: >-
-    Main lecture at the [Tag der Mathematik](https://tdm.math.fu-berlin.de/plenary.php), Berlin:
+    Talk at the [Tag der Mathematik](https://tdm.math.fu-berlin.de/plenary.php), Berlin:
     *Schnell gefragt, schnell vergessen? Was KI mit unserem Lernen macht* (in German)
 
 - date: 2026-04-01
   text: >-
-    Workshop at Girls' Day 2026:
+    Join our Workshop at Girls' Day 2026:
     *Vom Prompt zum Lernbuddy – Chatbots und KI entdecken* (in German)
 
 - date: 2025-11-01
