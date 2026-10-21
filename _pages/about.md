@@ -26,12 +26,6 @@ I trained as a psychologist and received my PhD in Information Systems. My work 
 
 Within Humans and AI, we develop LLM-based simulations and multi-agent systems that help teachers personalize learning materials, as well as AI tutors and adaptive augmented reality for vocational training. A second line of work addresses human-AI synergy: when humans and AI complement each other, how trust develops, and how agency is shared.
 
-<p class="hero-tags">
-  <span class="topic-tag">Learn more about [the team and our research topics](https://iol.zib.de/research/iol-human.html)</span>
-  <span class="topic-tag">Adaptive augmented reality</span>
-  <span class="topic-tag">AI and decision-making</span>
-</p>
-
 Learn more about [the team and our research topics](https://iol.zib.de/research/iol-human.html).
 
 <p class="hero-tags">
