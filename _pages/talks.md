@@ -50,7 +50,7 @@ nav_order: 2
   </li>
   <li>
     <div class="title">Schnell gefragt, schnell vergessen? Was KI mit unserem Lernen macht (in German)</div>
-    <div class="periodical"><span class="tag tag-public">public</span> Main lecture, <a href="https://tdm.math.fu-berlin.de/plenary.php">Tag der Mathematik</a> — Berlin, Germany · Apr 2026</div>
+    <div class="periodical"><span class="tag tag-public">public</span> Talk, <a href="https://tdm.math.fu-berlin.de/plenary.php">Tag der Mathematik</a> — Berlin, Germany · Apr 2026</div>
   </li>
   <li>
     <div class="title">FACET – Ein Multi-Agenten System für Lehrkräfte (in German)</div>
