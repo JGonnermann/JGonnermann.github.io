@@ -13,7 +13,6 @@ nav_order: 3
 
 - AI multi-agent systems for schools
 - AI for adaptive augmented reality
-- AI and decision-making
 
 Interested in writing your thesis on one of these topics? [Send me an email](mailto:gonnermann-mueller@zib.de) with a short note on your background and interests.
 
